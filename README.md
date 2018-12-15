@@ -19,7 +19,7 @@ As a developer who loves to play Squad, I'm often reaching for Squad Map and Lay
 ## Data Source
 The data stored in this repository is sourced from the [Server Configuration Page](https://squad.gamepedia.com/Server_Configuration#Map_Rotation_in_MapRotation.cfg) on [Squad Wiki](https://squad.gamepedia.com/Squad_Wiki).
 
-Further additions may have been made to the data sourced. In some cases, these additions may be based on personal opinions of the people that contribute to this repository, such as player count limits. If you believe that these additional pieces of data, or any data stored here, is incorrect, please raise an [issue](https://github.com/Thomas-Smyth/squad-maps/issues) so it can be discussed.
+Further additions may have been made to the data sourced. In some cases, these additions may be based on personal opinions of the people that contribute to this repository, such as player count limits. If you believe that these additional pieces of data, or any data stored here, are incorrect, please raise an [issue](https://github.com/Thomas-Smyth/squad-maps/issues) so it can be discussed.
 
 ## Contributing
 Feel free to help keep this repository up-to-date with Squad!
