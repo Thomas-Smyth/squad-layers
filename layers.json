@@ -3,564 +3,742 @@
     "map": "Al Basrah",
     "gamemode": "RAAS",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
   "Al Basrah Invasion v1": {
     "map": "Al Basrah",
     "gamemode": "Invasion",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
   "Al Basrah Invasion v2": {
     "map": "Al Basrah",
     "gamemode": "Invasion",
     "version": "v2",
-    "night": false
+    "night": false, 
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
   "Al Basrah Insurgency v1": {
     "map": "Al Basrah",
     "gamemode": "Insurgency",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
 
   "Belaya AAS v1": {
     "map": "Belaya",
     "gamemode": "AAS",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
   "Belaya AAS v2": {
     "map": "Belaya",
     "gamemode": "AAS",
     "version": "v2",
-    "night": false
+    "night": false, 
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
   "Belaya AAS v3": {
     "map": "Belaya",
     "gamemode": "AAS",
     "version": "v3",
-    "night": false
+    "night": false, 
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
   "Belaya RAAS v1": {
     "map": "Belaya",
     "gamemode": "RAAS",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
   "Belaya Invasion v1": {
     "map": "Belaya",
     "gamemode": "Invasion",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
   "Belaya Invasion v2": {
     "map": "Belaya",
     "gamemode": "Invasion",
     "version": "v2",
-    "night": false
+    "night": false, 
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
   "Belaya Invasion v3": {
     "map": "Belaya",
     "gamemode": "Invasion",
     "version": "v3",
-    "night": false
+    "night": false, 
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
 
   "Chora AAS v1": {
     "map": "Chora",
     "gamemode": "AAS",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
   "Chora AAS v2": {
     "map": "Chora",
     "gamemode": "AAS",
     "version": "v2",
-    "night": false
+    "night": false, 
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
   "Chora RAAS v1": {
     "map": "Chora",
     "gamemode": "RAAS",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
   "Chora Invasion v1 Night": {
     "map": "Chora",
     "gamemode": "Invasion",
     "version": "v1",
-    "night": true
+    "night": true,
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
   "Chora Insurgency v1": {
     "map": "Chora",
     "gamemode": "Insurgency",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
   "Chora Skirmish v1 Night": {
     "map": "Chora",
     "gamemode": "Skirmish",
     "version": "v1",
-    "night": true
+    "night": true,
+    "minPlayers": 1,
+    "maxPlayers": 24
   },
 
   "Fool's Road AAS v1": {
     "map": "Fool's Road",
     "gamemode": "AAS",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
   "Fool's Road AAS v2": {
     "map": "Fool's Road",
     "gamemode": "AAS",
     "version": "v2",
-    "night": false
+    "night": false, 
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
   "Fool's Road AAS v3": {
     "map": "Fool's Road",
     "gamemode": "AAS",
     "version": "v3",
-    "night": false
+    "night": false, 
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
   "Fool's Road AAS v4": {
     "map": "Fool's Road",
     "gamemode": "AAS",
     "version": "v4",
-    "night": false
+    "night": false, 
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
   "Fool's Road RAAS v1": {
     "map": "Fool's Road",
     "gamemode": "RAAS",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
   "Fool's Road Skirmish v1": {
     "map": "Fool's Road",
     "gamemode": "Skirmish",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 1,
+    "maxPlayers": 24
   },
   "Fool's Road Skirmish v2": {
     "map": "Fool's Road",
     "gamemode": "Skirmish",
     "version": "v2",
-    "night": false
+    "night": false, 
+    "minPlayers": 1,
+    "maxPlayers": 24
   },
 
   "Gorodok AAS v1": {
     "map": "Gorodok",
     "gamemode": "AAS",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 72,
+    "maxPlayers": 80
   },
   "Gorodok AAS v2": {
     "map": "Gorodok",
     "gamemode": "AAS",
     "version": "v2",
-    "night": false
+    "night": false, 
+    "minPlayers": 72,
+    "maxPlayers": 80
   },
   "Gorodok AAS v3": {
     "map": "Gorodok",
     "gamemode": "AAS",
     "version": "v3",
-    "night": false
+    "night": false, 
+    "minPlayers": 72,
+    "maxPlayers": 80
   },
   "Gorodok AAS v4": {
     "map": "Gorodok",
     "gamemode": "AAS",
     "version": "v4",
-    "night": false
+    "night": false, 
+    "minPlayers": 72,
+    "maxPlayers": 80
   },
   "Gorodok RAAS v1": {
     "map": "Gorodok",
     "gamemode": "RAAS",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 72,
+    "maxPlayers": 80
   },
   "Gorodok RAAS v2": {
     "map": "Gorodok",
     "gamemode": "RAAS",
     "version": "v2",
-    "night": false
+    "night": false, 
+    "minPlayers": 72,
+    "maxPlayers": 80
   },
   "Gorodok Invasion v1": {
     "map": "Gorodok",
     "gamemode": "Invasion",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 72,
+    "maxPlayers": 80
   },
   "Gorodok Invasion v2": {
     "map": "Gorodok",
     "gamemode": "Invasion",
     "version": "v2",
-    "night": false
+    "night": false, 
+    "minPlayers": 72,
+    "maxPlayers": 80
   },
   "Gorodok Skirmish v1": {
     "map": "Gorodok",
     "gamemode": "Invasion",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 1,
+    "maxPlayers": 24
   },
 
   "Kamdesh AAS v1": {
     "map": "Kamdesh",
     "gamemode": "AAS",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
   "Kamdesh RAAS v1": {
     "map": "Kamdesh",
     "gamemode": "RAAS",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
   "Kamdesh RAAS v2": {
     "map": "Kamdesh",
     "gamemode": "RAAS",
     "version": "v2",
-    "night": false
+    "night": false, 
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
   "Kamdesh RAAS v3": {
     "map": "Kamdesh",
     "gamemode": "RAAS",
     "version": "v3",
-    "night": false
+    "night": false, 
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
   "Kamdesh Invasion v1": {
     "map": "Kamdesh",
     "gamemode": "Invasion",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
   "Kamdesh Invasion v2": {
     "map": "Kamdesh",
     "gamemode": "Invasion",
     "version": "v2",
-    "night": false
+    "night": false, 
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
   "Kamdesh Invasion v3": {
     "map": "Kamdesh",
     "gamemode": "Invasion",
     "version": "v3",
-    "night": false
+    "night": false, 
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
   "Kamdesh Insurgency v1": {
     "map": "Kamdesh",
     "gamemode": "Insurgency",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
   "Kamdesh Insurgency v2": {
     "map": "Kamdesh",
     "gamemode": "Insurgency",
     "version": "v2",
-    "night": false
+    "night": false, 
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
   "Kamdesh Skirmish v1": {
     "map": "Kamdesh",
     "gamemode": "Skirmish",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
 
   "Kohat AAS v1": {
     "map": "Kohat",
     "gamemode": "AAS",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 72,
+    "maxPlayers": 80
   },
   "Kohat AAS v2": {
     "map": "Kohat",
     "gamemode": "AAS",
     "version": "v2",
-    "night": false
+    "night": false, 
+    "minPlayers": 72,
+    "maxPlayers": 80
   },
   "Kohat RAAS v1": {
     "map": "Kohat",
     "gamemode": "RAAS",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 72,
+    "maxPlayers": 80
   },
   "Kohat Invasion v1": {
     "map": "Kohat",
     "gamemode": "Invasion",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 72,
+    "maxPlayers": 80
   },
   "Kohat Insurgency v1": {
     "map": "Kohat",
     "gamemode": "Insurgency",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 72,
+    "maxPlayers": 80
   },
   "Kohat Skirmish v1": {
     "map": "Kohat",
     "gamemode": "Skirmish",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 1,
+    "maxPlayers": 24
   },
 
   "Kokan AAS v1": {
     "map": "Kokan",
     "gamemode": "AAS",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
   "Kokan AAS v2": {
     "map": "Kokan",
     "gamemode": "AAS",
     "version": "v2",
-    "night": false
+    "night": false, 
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
   "Kokan RAAS v1": {
     "map": "Kokan",
     "gamemode": "RAAS",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
   "Kokan Invasion v1": {
     "map": "Kokan",
     "gamemode": "Invasion",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
   "Kokan Insurgency v1": {
     "map": "Kokan",
     "gamemode": "Insurgency",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
   "Kokan Skirmish v1": {
     "map": "Kokan",
     "gamemode": "Skirmish",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 1,
+    "maxPlayers": 24
   },
-
   "Logar Valley AAS v1": {
     "map": "Logar Valley",
     "gamemode": "AAS",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 36,
+    "maxPlayers": 80
   },
   "Logar Valley AAS INF v1": {
     "map": "Logar Valley",
     "gamemode": "AAS INF",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 36,
+    "maxPlayers": 80
   },
   "Logar Valley RAAS v1": {
     "map": "Logar Valley",
     "gamemode": "RAAS",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 36,
+    "maxPlayers": 80
   },
   "Logar Valley Insurgency v1": {
     "map": "Logar Valley",
     "gamemode": "Insurgency",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 36,
+    "maxPlayers": 80
   },
   "Logar Valley Insurgency v1 Night": {
     "map": "Logar Valley",
     "gamemode": "Insurgency",
     "version": "v1",
-    "night": true
+    "night": true,
+    "minPlayers": 36,
+    "maxPlayers": 80
   },
-
   "Mestia AAS v1": {
     "map": "Mestia",
     "gamemode": "AAS",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 72,
+    "maxPlayers": 80
   },
   "Mestia AAS v2": {
     "map": "Mestia",
     "gamemode": "AAS",
     "version": "v2",
-    "night": false
+    "night": false, 
+    "minPlayers": 72,
+    "maxPlayers": 80
   },
   "Mestia RAAS v1": {
     "map": "Mestia",
     "gamemode": "RAAS",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 72,
+    "maxPlayers": 80
   },
   "Mestia Invasion v1": {
     "map": "Mestia",
     "gamemode": "Invasion",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 72,
+    "maxPlayers": 80
   },
   "Mestia Invasion v2": {
     "map": "Mestia",
     "gamemode": "Invasion",
     "version": "v2",
-    "night": false
+    "night": false, 
+    "minPlayers": 72,
+    "maxPlayers": 80
   },
-
   "Narva AAS v1": {
     "map": "Narva",
     "gamemode": "AAS",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
   "Narva AAS v2": {
     "map": "Narva",
     "gamemode": "AAS",
     "version": "v2",
-    "night": false
+    "night": false, 
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
   "Narva AAS v3": {
     "map": "Narva",
     "gamemode": "AAS",
     "version": "v3",
-    "night": false
+    "night": false, 
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
   "Narva RAAS v1": {
     "map": "Narva",
     "gamemode": "RAAS",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
   "Narva Invasion v1": {
     "map": "Narva",
     "gamemode": "Invasion",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
   "Narva Invasion v2": {
     "map": "Narva",
     "gamemode": "Invasion",
     "version": "v2",
-    "night": false
+    "night": false, 
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
   "Narva Skirmish v1": {
     "map": "Narva",
     "gamemode": "Skirmish",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
-
   "Sumari AAS v3": {
     "map": "Sumari",
     "gamemode": "AAS",
     "version": "v3",
-    "night": false
+    "night": false, 
+    "minPlayers": 24,
+    "maxPlayers": 80
   },
   "Sumari RAAS v1": {
     "map": "Sumari",
     "gamemode": "RAAS",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 24,
+    "maxPlayers": 80
   },
   "Sumari Insurgency v1": {
     "map": "Sumari",
     "gamemode": "Insurgency",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 24,
+    "maxPlayers": 80
   },
   "Sumari Skirmish v1": {
     "map": "Sumari",
     "gamemode": "Skirmish",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 1,
+    "maxPlayers": 24
   },
-
   "Tallil Outskirts AAS v1": {
     "map": "Tallil Outskirts",
     "gamemode": "AAS",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 72,
+    "maxPlayers": 80
   },
   "Tallil Outskirts RAAS v1": {
     "map": "Tallil Outskirts",
     "gamemode": "RAAS",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 72,
+    "maxPlayers": 80
   },
   "Tallil Outskirts RAAS v2": {
     "map": "Tallil Outskirts",
     "gamemode": "RAAS",
     "version": "v2",
-    "night": false
+    "night": false, 
+    "minPlayers": 72,
+    "maxPlayers": 80
   },
   "Tallil Outskirts Invasion v1": {
     "map": "Tallil Outskirts",
     "gamemode": "Invasion",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 72,
+    "maxPlayers": 80
   },
   "Tallil Outskirts Skirmish v1": {
     "map": "Tallil Outskirts",
     "gamemode": "Skirmish",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 1,
+    "maxPlayers": 24
   },
   "Tallil Outskirts Skirmish v2": {
     "map": "Tallil Outskirts",
     "gamemode": "Skirmish",
     "version": "v2",
-    "night": false
+    "night": false, 
+    "minPlayers": 1,
+    "maxPlayers": 24
   },
-
   "Yehorivka AAS v1": {
     "map": "Yehorivka",
     "gamemode": "AAS",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 72,
+    "maxPlayers": 80
   },
   "Yehorivka AAS v2": {
     "map": "Yehorivka",
     "gamemode": "AAS",
     "version": "v2",
-    "night": false
+    "night": false, 
+    "minPlayers": 72,
+    "maxPlayers": 80
   },
   "Yehorivka AAS v3": {
     "map": "Yehorivka",
     "gamemode": "AAS",
     "version": "v3",
-    "night": false
+    "night": false, 
+    "minPlayers": 72,
+    "maxPlayers": 80
   },
   "Yehorivka AAS v4": {
     "map": "Yehorivka",
     "gamemode": "AAS",
     "version": "v4",
-    "night": false
+    "night": false, 
+    "minPlayers": 72,
+    "maxPlayers": 80
   },
   "Yehorivka AAS v5": {
     "map": "Yehorivka",
     "gamemode": "AAS",
     "version": "v5",
-    "night": false
+    "night": false, 
+    "minPlayers": 72,
+    "maxPlayers": 80
   },
   "Yehorivka RAAS v1": {
     "map": "Yehorivka",
     "gamemode": "RAAS",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 72,
+    "maxPlayers": 80
   },
   "Yehorivka RAAS v2": {
     "map": "Yehorivka",
     "gamemode": "RAAS",
     "version": "v2",
-    "night": false
+    "night": false, 
+    "minPlayers": 72,
+    "maxPlayers": 80
   },
   "Yehorivka Invasion v1": {
     "map": "Yehorivka",
     "gamemode": "Invasion",
     "version": "v1",
-    "night": false
+    "night": false, 
+    "minPlayers": 72,
+    "maxPlayers": 80
   },
   "Yehorivka Invasion v2": {
     "map": "Yehorivka",
     "gamemode": "Invasion",
     "version": "v2",
-    "night": false
+    "night": false, 
+    "minPlayers": 72,
+    "maxPlayers": 80
   },
   "Yehorivka Skirmish v1": {
     "map": "Yehorivka",
     "gamemode": "Skirmish",
-    "night": false
+    "night": false, 
+    "minPlayers": 1,
+    "maxPlayers": 24
   }
 }
