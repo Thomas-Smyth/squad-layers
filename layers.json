@@ -4,7 +4,7 @@
     "gamemode": "RAAS",
     "version": "v1",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -13,7 +13,7 @@
     "gamemode": "Invasion",
     "version": "v1",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 36,
     "maxPlayers": 80
   },
@@ -22,7 +22,7 @@
     "gamemode": "Invasion",
     "version": "v2",
     "night": false,
-        "middleFlgas": [],
+        "middleFlags": [],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -31,7 +31,7 @@
     "gamemode": "Insurgency",
     "version": "v1",
     "night": false,
-        "middleFlgas": [],
+        "middleFlags": [],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -40,7 +40,7 @@
     "gamemode": "AAS",
     "version": "v1",
     "night": false,
-    "middleFlgas": ["Train Tunnel", "Nikola"],
+    "middleFlags": ["Train Tunnel", "Nikola"],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -49,7 +49,7 @@
     "gamemode": "AAS",
     "version": "v2",
     "night": false,
-    "middleFlgas": ["Gabukay"],
+    "middleFlags": ["Gabukay"],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -58,7 +58,7 @@
     "gamemode": "AAS",
     "version": "v3",
     "night": false,
-    "middleFlgas": ["Nikola"],
+    "middleFlags": ["Nikola"],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -67,7 +67,7 @@
     "gamemode": "RAAS",
     "version": "v1",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -76,7 +76,7 @@
     "gamemode": "Invasion",
     "version": "v1",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -85,7 +85,7 @@
     "gamemode": "Invasion",
     "version": "v2",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -94,7 +94,7 @@
     "gamemode": "Invasion",
     "version": "v3",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -103,7 +103,7 @@
     "gamemode": "AAS",
     "version": "v1",
     "night": false,
-    "middleFlgas": ["Upper Orchard", "Radio Station"],
+    "middleFlags": ["Upper Orchard", "Radio Station"],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -112,7 +112,7 @@
     "gamemode": "AAS",
     "version": "v2",
     "night": false,
-    "middleFlgas": ["Insurgent Checkpoint", "Hemp Farm"],
+    "middleFlags": ["Insurgent Checkpoint", "Hemp Farm"],
     "minPlayers": 36,
     "maxPlayers": 80
   },
@@ -121,7 +121,7 @@
     "gamemode": "RAAS",
     "version": "v1",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -130,7 +130,7 @@
     "gamemode": "Invasion",
     "version": "v1",
     "night": true,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -139,7 +139,7 @@
     "gamemode": "Insurgency",
     "version": "v1",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -148,7 +148,7 @@
     "gamemode": "Skirmish",
     "version": "v1",
     "night": true,
-    "middleFlgas": ["Grape Farm", "RI & M"],
+    "middleFlags": ["Grape Farm", "RI & M"],
     "minPlayers": 1,
     "maxPlayers": 36
   },
@@ -157,7 +157,7 @@
     "gamemode": "AAS",
     "version": "v1",
     "night": false,
-    "middleFlgas": ["Ammo Hill"],
+    "middleFlags": ["Ammo Hill"],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -166,7 +166,7 @@
     "gamemode": "AAS",
     "version": "v2",
     "night": false,
-    "middleFlgas": ["Hilltop Encampment", "Small Village"],
+    "middleFlags": ["Hilltop Encampment", "Small Village"],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -175,7 +175,7 @@
     "gamemode": "AAS",
     "version": "v3",
     "night": false,
-    "middleFlgas": ["FOB Papanov"],
+    "middleFlags": ["FOB Papanov"],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -184,7 +184,7 @@
     "gamemode": "AAS",
     "version": "v4",
     "night": false,
-    "middleFlgas": ["Ammo Hill", "Mine Entrance"],
+    "middleFlags": ["Ammo Hill", "Mine Entrance"],
     "minPlayers": 36,
     "maxPlayers": 80
   },
@@ -193,7 +193,7 @@
     "gamemode": "RAAS",
     "version": "v1",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -202,7 +202,7 @@
     "gamemode": "Skirmish",
     "version": "v1",
     "night": false,
-    "middleFlgas": ["Train Station"],
+    "middleFlags": ["Train Station"],
     "minPlayers": 1,
     "maxPlayers": 36
   },
@@ -211,7 +211,7 @@
     "gamemode": "Skirmish",
     "version": "v2",
     "night": false,
-    "middleFlgas": ["Hilltop Encampment"],
+    "middleFlags": ["Hilltop Encampment"],
     "minPlayers": 1,
     "maxPlayers": 36
   },
@@ -220,7 +220,7 @@
     "gamemode": "AAS",
     "version": "v1",
     "night": false,
-    "middleFlgas": ["Ambush Hill", "Niva Upper"],
+    "middleFlags": ["Ambush Hill", "Niva Upper"],
     "minPlayers": 72,
     "maxPlayers": 80
   },
@@ -229,7 +229,7 @@
     "gamemode": "AAS",
     "version": "v2",
     "night": false,
-    "middleFlgas": ["Industrial Park", "Pavlov's Farm"],
+    "middleFlags": ["Industrial Park", "Pavlov's Farm"],
     "minPlayers": 72,
     "maxPlayers": 80
   },
@@ -238,7 +238,7 @@
     "gamemode": "AAS",
     "version": "v3",
     "night": false,
-    "middleFlgas": ["Niva Lower", "Niva Upper"],
+    "middleFlags": ["Niva Lower", "Niva Upper"],
     "minPlayers": 72,
     "maxPlayers": 80
   },
@@ -247,7 +247,7 @@
     "gamemode": "AAS",
     "version": "v4",
     "night": false,
-    "middleFlgas": ["Niva Radio Tower"],
+    "middleFlags": ["Niva Radio Tower"],
     "minPlayers": 72,
     "maxPlayers": 80
   },
@@ -256,7 +256,7 @@
     "gamemode": "RAAS",
     "version": "v1",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 72,
     "maxPlayers": 80
   },
@@ -265,7 +265,7 @@
     "gamemode": "RAAS",
     "version": "v2",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 72,
     "maxPlayers": 80
   },
@@ -274,7 +274,7 @@
     "gamemode": "Invasion",
     "version": "v1",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 72,
     "maxPlayers": 80
   },
@@ -283,7 +283,7 @@
     "gamemode": "Invasion",
     "version": "v2",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 72,
     "maxPlayers": 80
   },
@@ -292,7 +292,7 @@
     "gamemode": "Invasion",
     "version": "v1",
     "night": false,
-    "middleFlgas": ["Niva Foothills"],
+    "middleFlags": ["Niva Foothills"],
     "minPlayers": 1,
     "maxPlayers": 36
   },
@@ -301,7 +301,7 @@
     "gamemode": "AAS",
     "version": "v1",
     "night": false,
-    "middleFlgas": ["Nahrain"],
+    "middleFlags": ["Nahrain"],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -310,7 +310,7 @@
     "gamemode": "RAAS",
     "version": "v1",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -319,7 +319,7 @@
     "gamemode": "RAAS",
     "version": "v2",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -328,7 +328,7 @@
     "gamemode": "RAAS",
     "version": "v3",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -337,7 +337,7 @@
     "gamemode": "Invasion",
     "version": "v1",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -346,7 +346,7 @@
     "gamemode": "Invasion",
     "version": "v2",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -355,7 +355,7 @@
     "gamemode": "Invasion",
     "version": "v3",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -364,7 +364,7 @@
     "gamemode": "Insurgency",
     "version": "v1",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -373,7 +373,7 @@
     "gamemode": "Insurgency",
     "version": "v2",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -382,7 +382,7 @@
     "gamemode": "Skirmish",
     "version": "v1",
     "night": false,
-    "middleFlgas": ["Capo"],
+    "middleFlags": ["Capo"],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -391,7 +391,7 @@
     "gamemode": "AAS",
     "version": "v1",
     "night": false,
-    "middleFlgas": ["Malak Abad"],
+    "middleFlags": ["Malak Abad"],
     "minPlayers": 72,
     "maxPlayers": 80
   },
@@ -400,7 +400,7 @@
     "gamemode": "AAS",
     "version": "v2",
     "night": false,
-    "middleFlgas": ["Mohd Zai", "Darbond"],
+    "middleFlags": ["Mohd Zai", "Darbond"],
     "minPlayers": 72,
     "maxPlayers": 80
   },
@@ -409,7 +409,7 @@
     "gamemode": "RAAS",
     "version": "v1",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 72,
     "maxPlayers": 80
   },
@@ -418,7 +418,7 @@
     "gamemode": "Invasion",
     "version": "v1",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 72,
     "maxPlayers": 80
   },
@@ -427,7 +427,7 @@
     "gamemode": "Insurgency",
     "version": "v1",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 72,
     "maxPlayers": 80
   },
@@ -436,7 +436,7 @@
     "gamemode": "Skirmish",
     "version": "v1",
     "night": false,
-    "middleFlgas": ["Syed Abad"],
+    "middleFlags": ["Syed Abad"],
     "minPlayers": 1,
     "maxPlayers": 36
   },
@@ -445,7 +445,7 @@
     "gamemode": "AAS",
     "version": "v1",
     "night": false,
-    "middleFlgas": ["Tempest Estate"],
+    "middleFlags": ["Tempest Estate"],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -454,7 +454,7 @@
     "gamemode": "AAS",
     "version": "v2",
     "night": false,
-    "middleFlgas": ["District Center"],
+    "middleFlags": ["District Center"],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -463,7 +463,7 @@
     "gamemode": "RAAS",
     "version": "v1",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 36,
     "maxPlayers": 80
   },
@@ -472,7 +472,7 @@
     "gamemode": "Invasion",
     "version": "v1",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -481,7 +481,7 @@
     "gamemode": "Insurgency",
     "version": "v1",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -490,7 +490,7 @@
     "gamemode": "Skirmish",
     "version": "v1",
     "night": false,
-    "middleFlgas": ["Slums"],
+    "middleFlags": ["Slums"],
     "minPlayers": 1,
     "maxPlayers": 36
   },
@@ -499,7 +499,7 @@
     "gamemode": "AAS",
     "version": "v1",
     "night": false,
-    "middleFlgas": ["Central DC 1", "Central DC 2"],
+    "middleFlags": ["Central DC 1", "Central DC 2"],
     "minPlayers": 36,
     "maxPlayers": 80
   },
@@ -508,7 +508,7 @@
     "gamemode": "AAS INF",
     "version": "v1",
     "night": false,
-    "middleFlgas": ["Central DC 1", "Central DC 2"],
+    "middleFlags": ["Central DC 1", "Central DC 2"],
     "minPlayers": 1,
     "maxPlayers": 36
   },
@@ -517,7 +517,7 @@
     "gamemode": "RAAS",
     "version": "v1",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 36,
     "maxPlayers": 80
   },
@@ -526,7 +526,7 @@
     "gamemode": "Insurgency",
     "version": "v1",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 36,
     "maxPlayers": 80
   },
@@ -535,7 +535,7 @@
     "gamemode": "Insurgency",
     "version": "v1",
     "night": true,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 36,
     "maxPlayers": 80
   },
@@ -544,7 +544,7 @@
     "gamemode": "AAS",
     "version": "v1",
     "night": false,
-    "middleFlgas": ["Crucible Alpha"],
+    "middleFlags": ["Crucible Alpha"],
     "minPlayers": 72,
     "maxPlayers": 80
   },
@@ -553,7 +553,7 @@
     "gamemode": "AAS",
     "version": "v2",
     "night": false,
-    "middleFlgas": ["Crucible Alpha"],
+    "middleFlags": ["Crucible Alpha"],
     "minPlayers": 72,
     "maxPlayers": 80
   },
@@ -562,7 +562,7 @@
     "gamemode": "RAAS",
     "version": "v1",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 72,
     "maxPlayers": 80
   },
@@ -571,7 +571,7 @@
     "gamemode": "Invasion",
     "version": "v1",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 72,
     "maxPlayers": 80
   },
@@ -580,7 +580,7 @@
     "gamemode": "Invasion",
     "version": "v2",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 72,
     "maxPlayers": 80
   },
@@ -589,7 +589,7 @@
     "gamemode": "AAS",
     "version": "v1",
     "night": false,
-    "middleFlgas": ["Geneva Apts", "Train Depot"],
+    "middleFlags": ["Geneva Apts", "Train Depot"],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -598,7 +598,7 @@
     "gamemode": "AAS",
     "version": "v2",
     "night": false,
-    "middleFlgas": ["Old Hospital", "Oru Village"],
+    "middleFlags": ["Old Hospital", "Oru Village"],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -607,7 +607,7 @@
     "gamemode": "AAS",
     "version": "v3",
     "night": false,
-    "middleFlgas": ["Quarry"],
+    "middleFlags": ["Quarry"],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -616,7 +616,7 @@
     "gamemode": "RAAS",
     "version": "v1",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -625,7 +625,7 @@
     "gamemode": "Invasion",
     "version": "v1",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -634,7 +634,7 @@
     "gamemode": "Invasion",
     "version": "v2",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -643,7 +643,7 @@
     "gamemode": "Skirmish",
     "version": "v1",
     "night": false,
-    "middleFlgas": ["Geneva Apartments"],
+    "middleFlags": ["Geneva Apartments"],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -652,7 +652,7 @@
     "gamemode": "AAS",
     "version": "v3",
     "night": false,
-    "middleFlgas": ["Mosque"],
+    "middleFlags": ["Mosque"],
     "minPlayers": 36,
     "maxPlayers": 80
   },
@@ -661,7 +661,7 @@
     "gamemode": "RAAS",
     "version": "v1",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 36,
     "maxPlayers": 80
   },
@@ -670,7 +670,7 @@
     "gamemode": "Insurgency",
     "version": "v1",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -679,7 +679,7 @@
     "gamemode": "Skirmish",
     "version": "v1",
     "night": false,
-    "middleFlgas": ["Walled Courts"],
+    "middleFlags": ["Walled Courts"],
     "minPlayers": 1,
     "maxPlayers": 36
   },
@@ -688,7 +688,7 @@
     "gamemode": "AAS",
     "version": "v1",
     "night": false,
-    "middleFlgas": ["Abandoned Soviet Base"],
+    "middleFlags": ["Abandoned Soviet Base"],
     "minPlayers": 72,
     "maxPlayers": 80
   },
@@ -697,7 +697,7 @@
     "gamemode": "RAAS",
     "version": "v1",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 72,
     "maxPlayers": 80
   },
@@ -706,7 +706,7 @@
     "gamemode": "RAAS",
     "version": "v2",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 72,
     "maxPlayers": 80
   },
@@ -715,7 +715,7 @@
     "gamemode": "Invasion",
     "version": "v1",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 72,
     "maxPlayers": 80
   },
@@ -724,7 +724,7 @@
     "gamemode": "Skirmish",
     "version": "v1",
     "night": false,
-    "middleFlgas": ["Lower Central Al-Khidir", "Upper West Al-Khidir"],
+    "middleFlags": ["Lower Central Al-Khidir", "Upper West Al-Khidir"],
     "minPlayers": 1,
     "maxPlayers": 36
   },
@@ -733,7 +733,7 @@
     "gamemode": "Skirmish",
     "version": "v2",
     "night": false,
-    "middleFlgas": ["Central Barracks"],
+    "middleFlags": ["Central Barracks"],
     "minPlayers": 1,
     "maxPlayers": 36
   },
@@ -742,7 +742,7 @@
     "gamemode": "AAS",
     "version": "v1",
     "night": false,
-    "middleFlgas": ["East Mogilyovo"],
+    "middleFlags": ["East Mogilyovo"],
     "minPlayers": 72,
     "maxPlayers": 80
   },
@@ -751,7 +751,7 @@
     "gamemode": "AAS",
     "version": "v2",
     "night": false,
-    "middleFlgas": ["West Mogilyovo", "Lower Mogilyovo"],
+    "middleFlags": ["West Mogilyovo", "Lower Mogilyovo"],
     "minPlayers": 72,
     "maxPlayers": 80
   },
@@ -760,7 +760,7 @@
     "gamemode": "AAS",
     "version": "v3",
     "night": false,
-    "middleFlgas": ["Yevhinivka"],
+    "middleFlags": ["Yevhinivka"],
     "minPlayers": 72,
     "maxPlayers": 80
   },
@@ -769,7 +769,7 @@
     "gamemode": "AAS",
     "version": "v4",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 72,
     "maxPlayers": 80
   },
@@ -778,7 +778,7 @@
     "gamemode": "AAS",
     "version": "v5",
     "night": false,
-    "middleFlgas": ["West Mogilyovo", "Lower Mogilyovo"],
+    "middleFlags": ["West Mogilyovo", "Lower Mogilyovo"],
     "minPlayers": 72,
     "maxPlayers": 80
   },
@@ -787,7 +787,7 @@
     "gamemode": "RAAS",
     "version": "v1",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 72,
     "maxPlayers": 80
   },
@@ -796,7 +796,7 @@
     "gamemode": "RAAS",
     "version": "v2",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 72,
     "maxPlayers": 80
   },
@@ -805,7 +805,7 @@
     "gamemode": "Invasion",
     "version": "v1",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 72,
     "maxPlayers": 80
   },
@@ -814,7 +814,7 @@
     "gamemode": "Invasion",
     "version": "v2",
     "night": false,
-    "middleFlgas": [],
+    "middleFlags": [],
     "minPlayers": 72,
     "maxPlayers": 80
   },
@@ -822,7 +822,7 @@
     "map": "Yehorivka",
     "gamemode": "Skirmish",
     "night": false,
-    "middleFlgas": ["Upper Petrivka"],
+    "middleFlags": ["Upper Petrivka"],
     "minPlayers": 1,
     "maxPlayers": 36
   }
