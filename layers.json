@@ -149,7 +149,7 @@
     "version": "v1",
     "night": true,
     "middleFlags": ["Grape Farm", "RI & M"],
-    "minPlayers": 1,
+    "minPlayers": 0,
     "maxPlayers": 36
   },
   "Fool's Road AAS v1": {
@@ -203,7 +203,7 @@
     "version": "v1",
     "night": false,
     "middleFlags": ["Train Station"],
-    "minPlayers": 1,
+    "minPlayers": 0,
     "maxPlayers": 36
   },
   "Fool's Road Skirmish v2": {
@@ -212,7 +212,7 @@
     "version": "v2",
     "night": false,
     "middleFlags": ["Hilltop Encampment"],
-    "minPlayers": 1,
+    "minPlayers": 0,
     "maxPlayers": 36
   },
   "Gorodok AAS v1": {
@@ -293,7 +293,7 @@
     "version": "v1",
     "night": false,
     "middleFlags": ["Niva Foothills"],
-    "minPlayers": 1,
+    "minPlayers": 0,
     "maxPlayers": 36
   },
   "Kamdesh AAS v1": {
@@ -437,7 +437,7 @@
     "version": "v1",
     "night": false,
     "middleFlags": ["Syed Abad"],
-    "minPlayers": 1,
+    "minPlayers": 0,
     "maxPlayers": 36
   },
   "Kokan AAS v1": {
@@ -491,7 +491,7 @@
     "version": "v1",
     "night": false,
     "middleFlags": ["Slums"],
-    "minPlayers": 1,
+    "minPlayers": 0,
     "maxPlayers": 36
   },
   "Logar Valley AAS v1": {
@@ -509,7 +509,7 @@
     "version": "v1",
     "night": false,
     "middleFlags": ["Central DC 1", "Central DC 2"],
-    "minPlayers": 1,
+    "minPlayers": 0,
     "maxPlayers": 36
   },
   "Logar Valley RAAS v1": {
@@ -680,7 +680,7 @@
     "version": "v1",
     "night": false,
     "middleFlags": ["Walled Courts"],
-    "minPlayers": 1,
+    "minPlayers": 0,
     "maxPlayers": 36
   },
   "Tallil Outskirts AAS v1": {
@@ -725,7 +725,7 @@
     "version": "v1",
     "night": false,
     "middleFlags": ["Lower Central Al-Khidir", "Upper West Al-Khidir"],
-    "minPlayers": 1,
+    "minPlayers": 0,
     "maxPlayers": 36
   },
   "Tallil Outskirts Skirmish v2": {
@@ -734,7 +734,7 @@
     "version": "v2",
     "night": false,
     "middleFlags": ["Central Barracks"],
-    "minPlayers": 1,
+    "minPlayers": 0,
     "maxPlayers": 36
   },
   "Yehorivka AAS v1": {
@@ -823,7 +823,7 @@
     "gamemode": "Skirmish",
     "night": false,
     "middleFlags": ["Upper Petrivka"],
-    "minPlayers": 1,
+    "minPlayers": 0,
     "maxPlayers": 36
   }
 }
