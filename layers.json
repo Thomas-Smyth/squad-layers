@@ -22,7 +22,7 @@
     "gamemode": "Invasion",
     "version": "v2",
     "night": false,
-        "middleFlags": [],
+    "middleFlags": [],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -31,7 +31,7 @@
     "gamemode": "Insurgency",
     "version": "v1",
     "night": false,
-        "middleFlags": [],
+    "middleFlags": [],
     "minPlayers": 54,
     "maxPlayers": 80
   },
