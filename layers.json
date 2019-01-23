@@ -289,7 +289,7 @@
   },
   "Gorodok Skirmish v1": {
     "map": "Gorodok",
-    "gamemode": "Invasion",
+    "gamemode": "Skirmish",
     "version": "v1",
     "night": false,
     "middleFlags": ["Niva Foothills"],
