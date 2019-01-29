@@ -491,8 +491,8 @@
     "version": "v1",
     "night": false,
     "middleFlags": ["Slums"],
-    "minPlayers": 0,
-    "maxPlayers": 36
+    "minPlayers": 36,
+    "maxPlayers": 54
   },
   "Logar Valley AAS v1": {
     "map": "Logar Valley",
