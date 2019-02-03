@@ -202,7 +202,7 @@
     "gamemode": "Skirmish",
     "version": "v1",
     "night": false,
-    "middleFlags": ["Train Station"],
+    "middleFlags": ["Mine Entrance"],
     "minPlayers": 0,
     "maxPlayers": 36
   },
