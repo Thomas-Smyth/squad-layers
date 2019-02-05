@@ -382,7 +382,7 @@
     "gamemode": "Skirmish",
     "version": "v1",
     "night": false,
-    "middleFlags": ["Capo"],
+    "middleFlags": ["Nahrain"],
     "minPlayers": 0,
     "maxPlayers": 36
   },
