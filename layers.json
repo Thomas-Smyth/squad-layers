@@ -148,7 +148,7 @@
     "gamemode": "Skirmish",
     "version": "v1",
     "night": true,
-    "middleFlags": ["Grape Farm", "RI & M"],
+    "middleFlags": ["Grape Farm", "RT&M"],
     "minPlayers": 0,
     "maxPlayers": 36
   },
