@@ -221,7 +221,7 @@
     "version": "v1",
     "night": false,
     "middleFlags": ["Ambush Hill", "Niva Upper"],
-    "minPlayers": 72,
+    "minPlayers": 65,
     "maxPlayers": 80
   },
   "Gorodok AAS v2": {
@@ -230,7 +230,7 @@
     "version": "v2",
     "night": false,
     "middleFlags": ["Industrial Park", "Pavlov's Farm"],
-    "minPlayers": 72,
+    "minPlayers": 65,
     "maxPlayers": 80
   },
   "Gorodok AAS v3": {
@@ -239,7 +239,7 @@
     "version": "v3",
     "night": false,
     "middleFlags": ["Niva Lower", "Niva Upper"],
-    "minPlayers": 72,
+    "minPlayers": 65,
     "maxPlayers": 80
   },
   "Gorodok AAS v4": {
@@ -248,7 +248,7 @@
     "version": "v4",
     "night": false,
     "middleFlags": ["Niva Radio Tower"],
-    "minPlayers": 72,
+    "minPlayers": 65,
     "maxPlayers": 80
   },
   "Gorodok RAAS v1": {
@@ -257,7 +257,7 @@
     "version": "v1",
     "night": false,
     "middleFlags": [],
-    "minPlayers": 72,
+    "minPlayers": 65,
     "maxPlayers": 80
   },
   "Gorodok RAAS v2": {
@@ -266,7 +266,7 @@
     "version": "v2",
     "night": false,
     "middleFlags": [],
-    "minPlayers": 72,
+    "minPlayers": 65,
     "maxPlayers": 80
   },
   "Gorodok Invasion v1": {
@@ -275,7 +275,7 @@
     "version": "v1",
     "night": false,
     "middleFlags": [],
-    "minPlayers": 72,
+    "minPlayers": 65,
     "maxPlayers": 80
   },
   "Gorodok Invasion v2": {
@@ -284,7 +284,7 @@
     "version": "v2",
     "night": false,
     "middleFlags": [],
-    "minPlayers": 72,
+    "minPlayers": 65,
     "maxPlayers": 80
   },
   "Gorodok Skirmish v1": {
@@ -392,7 +392,7 @@
     "version": "v1",
     "night": false,
     "middleFlags": ["Malak Abad"],
-    "minPlayers": 72,
+    "minPlayers": 65,
     "maxPlayers": 80
   },
   "Kohat AAS v2": {
@@ -401,7 +401,7 @@
     "version": "v2",
     "night": false,
     "middleFlags": ["Mohd Zai", "Darbond"],
-    "minPlayers": 72,
+    "minPlayers": 65,
     "maxPlayers": 80
   },
   "Kohat RAAS v1": {
@@ -410,7 +410,7 @@
     "version": "v1",
     "night": false,
     "middleFlags": [],
-    "minPlayers": 72,
+    "minPlayers": 65,
     "maxPlayers": 80
   },
   "Kohat Invasion v1": {
@@ -419,7 +419,7 @@
     "version": "v1",
     "night": false,
     "middleFlags": [],
-    "minPlayers": 72,
+    "minPlayers": 65,
     "maxPlayers": 80
   },
   "Kohat Insurgency v1": {
@@ -428,7 +428,7 @@
     "version": "v1",
     "night": false,
     "middleFlags": [],
-    "minPlayers": 72,
+    "minPlayers": 65,
     "maxPlayers": 80
   },
   "Kohat Skirmish v1": {
@@ -545,7 +545,7 @@
     "version": "v1",
     "night": false,
     "middleFlags": ["Crucible Alpha"],
-    "minPlayers": 72,
+    "minPlayers": 65,
     "maxPlayers": 80
   },
   "Mestia AAS v2": {
@@ -554,7 +554,7 @@
     "version": "v2",
     "night": false,
     "middleFlags": ["Crucible Alpha"],
-    "minPlayers": 72,
+    "minPlayers": 65,
     "maxPlayers": 80
   },
   "Mestia RAAS v1": {
@@ -563,7 +563,7 @@
     "version": "v1",
     "night": false,
     "middleFlags": [],
-    "minPlayers": 72,
+    "minPlayers": 65,
     "maxPlayers": 80
   },
   "Mestia Invasion v1": {
@@ -572,7 +572,7 @@
     "version": "v1",
     "night": false,
     "middleFlags": [],
-    "minPlayers": 72,
+    "minPlayers": 65,
     "maxPlayers": 80
   },
   "Mestia Invasion v2": {
@@ -581,7 +581,7 @@
     "version": "v2",
     "night": false,
     "middleFlags": [],
-    "minPlayers": 72,
+    "minPlayers": 65,
     "maxPlayers": 80
   },
   "Narva AAS v1": {
@@ -689,7 +689,7 @@
     "version": "v1",
     "night": false,
     "middleFlags": ["Abandoned Soviet Base"],
-    "minPlayers": 72,
+    "minPlayers": 65,
     "maxPlayers": 80
   },
   "Tallil Outskirts RAAS v1": {
@@ -698,7 +698,7 @@
     "version": "v1",
     "night": false,
     "middleFlags": [],
-    "minPlayers": 72,
+    "minPlayers": 65,
     "maxPlayers": 80
   },
   "Tallil Outskirts RAAS v2": {
@@ -707,7 +707,7 @@
     "version": "v2",
     "night": false,
     "middleFlags": [],
-    "minPlayers": 72,
+    "minPlayers": 65,
     "maxPlayers": 80
   },
   "Tallil Outskirts Invasion v1": {
@@ -716,7 +716,7 @@
     "version": "v1",
     "night": false,
     "middleFlags": [],
-    "minPlayers": 72,
+    "minPlayers": 65,
     "maxPlayers": 80
   },
   "Tallil Outskirts Skirmish v1": {
@@ -743,7 +743,7 @@
     "version": "v1",
     "night": false,
     "middleFlags": ["East Mogilyovo"],
-    "minPlayers": 72,
+    "minPlayers": 65,
     "maxPlayers": 80
   },
   "Yehorivka AAS v2": {
@@ -752,7 +752,7 @@
     "version": "v2",
     "night": false,
     "middleFlags": ["West Mogilyovo", "Lower Mogilyovo"],
-    "minPlayers": 72,
+    "minPlayers": 65,
     "maxPlayers": 80
   },
   "Yehorivka AAS v3": {
@@ -761,7 +761,7 @@
     "version": "v3",
     "night": false,
     "middleFlags": ["Yevhinivka"],
-    "minPlayers": 72,
+    "minPlayers": 65,
     "maxPlayers": 80
   },
   "Yehorivka AAS v4": {
@@ -770,7 +770,7 @@
     "version": "v4",
     "night": false,
     "middleFlags": [],
-    "minPlayers": 72,
+    "minPlayers": 65,
     "maxPlayers": 80
   },
   "Yehorivka AAS v5": {
@@ -779,7 +779,7 @@
     "version": "v5",
     "night": false,
     "middleFlags": ["West Mogilyovo", "Lower Mogilyovo"],
-    "minPlayers": 72,
+    "minPlayers": 65,
     "maxPlayers": 80
   },
   "Yehorivka RAAS v1": {
@@ -788,7 +788,7 @@
     "version": "v1",
     "night": false,
     "middleFlags": [],
-    "minPlayers": 72,
+    "minPlayers": 65,
     "maxPlayers": 80
   },
   "Yehorivka RAAS v2": {
@@ -797,7 +797,7 @@
     "version": "v2",
     "night": false,
     "middleFlags": [],
-    "minPlayers": 72,
+    "minPlayers": 65,
     "maxPlayers": 80
   },
   "Yehorivka Invasion v1": {
@@ -806,7 +806,7 @@
     "version": "v1",
     "night": false,
     "middleFlags": [],
-    "minPlayers": 72,
+    "minPlayers": 65,
     "maxPlayers": 80
   },
   "Yehorivka Invasion v2": {
@@ -815,7 +815,7 @@
     "version": "v2",
     "night": false,
     "middleFlags": [],
-    "minPlayers": 72,
+    "minPlayers": 65,
     "maxPlayers": 80
   },
   "Yehorivka Skirmish v1": {
