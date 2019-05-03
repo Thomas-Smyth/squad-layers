@@ -693,7 +693,7 @@
     "maxPlayers": 80
   },
   "Mestia Skirmish v1": {
-    "map": "Narva",
+    "map": "Mestia",
     "gamemode": "Skirmish",
     "version": "v1",
     "night": false,
