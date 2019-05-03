@@ -35,6 +35,24 @@
     "minPlayers": 54,
     "maxPlayers": 80
   },
+  "Al Basrah Skirmish v1": {
+    "map": "Al Basrah",
+    "gamemode": "Skirmish",
+    "version": "v1",
+    "night": false,
+    "middleFlags": ["Crossroads"],
+    "minPlayers": 0,
+    "maxPlayers": 36
+  },
+  "Al Basrah Skirmish v2": {
+    "map": "Al Basrah",
+    "gamemode": "Skirmish",
+    "version": "v2",
+    "night": false,
+    "middleFlags": ["Poppy West", "Poppy East"],
+    "minPlayers": 0,
+    "maxPlayers": 36
+  },
   "Belaya AAS v1": {
     "map": "Belaya",
     "gamemode": "AAS",
@@ -98,6 +116,15 @@
     "minPlayers": 54,
     "maxPlayers": 80
   },
+  "Belaya Skirmish v1": {
+    "map": "Belaya",
+    "gamemode": "Skirmish",
+    "version": "v1",
+    "night": false,
+    "middleFlags": ["Velino DC"],
+    "minPlayers": 0,
+    "maxPlayers": 36
+  },
   "Chora AAS v1": {
     "map": "Chora",
     "gamemode": "AAS",
@@ -112,13 +139,31 @@
     "gamemode": "AAS",
     "version": "v2",
     "night": false,
-    "middleFlags": ["Insurgent Checkpoint", "Hemp Farm"],
+    "middleFlags": ["Hemp Farm"],
+    "minPlayers": 36,
+    "maxPlayers": 80
+  },
+  "Chora AAS v3": {
+    "map": "Chora",
+    "gamemode": "AAS",
+    "version": "v3",
+    "night": false,
+    "middleFlags": ["Hemp Farm"],
     "minPlayers": 36,
     "maxPlayers": 80
   },
   "Chora RAAS v1": {
     "map": "Chora",
     "gamemode": "RAAS",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 54,
+    "maxPlayers": 80
+  },
+  "Chora Invasion v1": {
+    "map": "Chora",
+    "gamemode": "Invasion",
     "version": "v1",
     "night": false,
     "middleFlags": [],
@@ -143,11 +188,11 @@
     "minPlayers": 54,
     "maxPlayers": 80
   },
-  "Chora Skirmish v1 Night": {
+  "Chora Skirmish v1": {
     "map": "Chora",
     "gamemode": "Skirmish",
     "version": "v1",
-    "night": true,
+    "night": false,
     "middleFlags": ["Grape Farm", "RT&M"],
     "minPlayers": 0,
     "maxPlayers": 36
@@ -188,9 +233,27 @@
     "minPlayers": 36,
     "maxPlayers": 80
   },
+  "Fool's Road AAS v5": {
+    "map": "Fool's Road",
+    "gamemode": "AAS",
+    "version": "v5",
+    "night": false,
+    "middleFlags": ["FOB Papahov"],
+    "minPlayers": 54,
+    "maxPlayers": 80
+  },
   "Fool's Road RAAS v1": {
     "map": "Fool's Road",
     "gamemode": "RAAS",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 54,
+    "maxPlayers": 80
+  },
+  "Fool's Road Destruction v1": {
+    "map": "Fool's Road",
+    "gamemode": "Destruction",
     "version": "v1",
     "night": false,
     "middleFlags": [],
@@ -269,6 +332,24 @@
     "minPlayers": 65,
     "maxPlayers": 80
   },
+  "Gorodok RAAS v3": {
+    "map": "Gorodok",
+    "gamemode": "RAAS",
+    "version": "v3",
+    "night": true,
+    "middleFlags": [],
+    "minPlayers": 65,
+    "maxPlayers": 80
+  },
+  "Gorodok RAAS v4": {
+    "map": "Gorodok",
+    "gamemode": "RAAS",
+    "version": "v4",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 36,
+    "maxPlayers": 65
+  },
   "Gorodok Invasion v1": {
     "map": "Gorodok",
     "gamemode": "Invasion",
@@ -282,6 +363,24 @@
     "map": "Gorodok",
     "gamemode": "Invasion",
     "version": "v2",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 65,
+    "maxPlayers": 80
+  },
+  "Gorodok Insurgency v1": {
+    "map": "Gorodok",
+    "gamemode": "Insurgency",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 65,
+    "maxPlayers": 80
+  },
+  "Gorodok Destruction v1": {
+    "map": "Gorodok",
+    "gamemode": "Destruction",
+    "version": "v1",
     "night": false,
     "middleFlags": [],
     "minPlayers": 65,
@@ -422,6 +521,15 @@
     "minPlayers": 65,
     "maxPlayers": 80
   },
+  "Kohat Invasion v2": {
+    "map": "Kohat",
+    "gamemode": "Invasion",
+    "version": "v2",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 65,
+    "maxPlayers": 80
+  },
   "Kohat Insurgency v1": {
     "map": "Kohat",
     "gamemode": "Insurgency",
@@ -503,15 +611,6 @@
     "minPlayers": 36,
     "maxPlayers": 80
   },
-  "Logar Valley AAS INF v1": {
-    "map": "Logar Valley",
-    "gamemode": "AAS INF",
-    "version": "v1",
-    "night": false,
-    "middleFlags": ["Central DC 1", "Central DC 2"],
-    "minPlayers": 0,
-    "maxPlayers": 36
-  },
   "Logar Valley RAAS v1": {
     "map": "Logar Valley",
     "gamemode": "RAAS",
@@ -538,6 +637,15 @@
     "middleFlags": [],
     "minPlayers": 36,
     "maxPlayers": 80
+  },
+  "Logar Valley Skirmish v1": {
+    "map": "Logar Valley",
+    "gamemode": "Skirmish",
+    "version": "v1",
+    "night": false,
+    "middleFlags": ["Central DC"],
+    "minPlayers": 0,
+    "maxPlayers": 36
   },
   "Mestia AAS v1": {
     "map": "Mestia",
@@ -583,6 +691,15 @@
     "middleFlags": [],
     "minPlayers": 65,
     "maxPlayers": 80
+  },
+  "Mestia Skirmish v1": {
+    "map": "Narva",
+    "gamemode": "Skirmish",
+    "version": "v1",
+    "night": false,
+    "middleFlags": ["Tunnels North", "Abandoned Buildings"],
+    "minPlayers": 0,
+    "maxPlayers": 36
   },
   "Narva AAS v1": {
     "map": "Narva",
@@ -638,6 +755,15 @@
     "minPlayers": 54,
     "maxPlayers": 80
   },
+  "Narva Destruction v1": {
+    "map": "Narva",
+    "gamemode": "Destruction",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 54,
+    "maxPlayers": 80
+  },
   "Narva Skirmish v1": {
     "map": "Narva",
     "gamemode": "Skirmish",
@@ -646,6 +772,15 @@
     "middleFlags": ["Geneva Apartments"],
     "minPlayers": 0,
     "maxPlayers": 36
+  },
+  "Sumari AAS v2": {
+    "map": "Sumari",
+    "gamemode": "AAS",
+    "version": "v2",
+    "night": false,
+    "middleFlags": ["Mosque"],
+    "minPlayers": 36,
+    "maxPlayers": 80
   },
   "Sumari AAS v3": {
     "map": "Sumari",
@@ -692,6 +827,15 @@
     "minPlayers": 65,
     "maxPlayers": 80
   },
+  "Tallil Outskirts AAS v2": {
+    "map": "Tallil Outskirts",
+    "gamemode": "AAS",
+    "version": "v2",
+    "night": false,
+    "middleFlags": ["Bwlyt Tawn"],
+    "minPlayers": 65,
+    "maxPlayers": 80
+  },
   "Tallil Outskirts RAAS v1": {
     "map": "Tallil Outskirts",
     "gamemode": "RAAS",
@@ -710,6 +854,15 @@
     "minPlayers": 65,
     "maxPlayers": 80
   },
+  "Tallil Outskirts RAAS v3": {
+    "map": "Tallil Outskirts",
+    "gamemode": "RAAS",
+    "version": "v3",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 65,
+    "maxPlayers": 80
+  },
   "Tallil Outskirts Invasion v1": {
     "map": "Tallil Outskirts",
     "gamemode": "Invasion",
@@ -717,6 +870,33 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 65,
+    "maxPlayers": 80
+  },
+  "Tallil Outskirts Invasion v2": {
+    "map": "Tallil Outskirts",
+    "gamemode": "Invasion",
+    "version": "v2",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 65,
+    "maxPlayers": 80
+  },
+  "Tallil Outskirts Invasion v3": {
+    "map": "Tallil Outskirts",
+    "gamemode": "Invasion",
+    "version": "v3",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 65,
+    "maxPlayers": 80
+  },
+  "Tallil Outskirts Tanks v1 Experimental": {
+    "map": "Tallil Outskirts",
+    "gamemode": "Tanks",
+    "version": "v1 Experimental",
+    "night": false,
+    "middleFlags": ["Central Airfield"],
+    "minPlayers": 0,
     "maxPlayers": 80
   },
   "Tallil Outskirts Skirmish v1": {
@@ -818,9 +998,28 @@
     "minPlayers": 65,
     "maxPlayers": 80
   },
+  "Yehorivka Destruction v1": {
+    "map": "Yehorivka",
+    "gamemode": "Destruction",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 65,
+    "maxPlayers": 80
+  },
   "Yehorivka Skirmish v1": {
     "map": "Yehorivka",
     "gamemode": "Skirmish",
+    "version": "v1",
+    "night": false,
+    "middleFlags": ["Upper Petrivka"],
+    "minPlayers": 0,
+    "maxPlayers": 36
+  },
+  "Yehorivka Skirmish v2": {
+    "map": "Yehorivka",
+    "gamemode": "Skirmish",
+    "version": "v2",
     "night": false,
     "middleFlags": ["Upper Petrivka"],
     "minPlayers": 0,
