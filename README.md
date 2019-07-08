@@ -2,10 +2,10 @@
 
 # Squad Maps / Layers
 
-[![GitHub issues](https://img.shields.io/github/issues/Thomas-Smyth/squad-maps.svg?style=flat-square)](https://github.com/Thomas-Smyth/squad-maps/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/Thomas-Smyth/squad-maps.svg?style=flat-square)](https://github.com/Thomas-Smyth/squad-maps/pulls)
-[![GitHub stars](https://img.shields.io/github/stars/Thomas-Smyth/squad-maps.svg?style=flat-square)](https://github.com/Thomas-Smyth/squad-maps/stargazers)
-[![GitHub license](https://img.shields.io/github/license/Thomas-Smyth/squad-maps.svg?style=flat-square)](https://github.com/Thomas-Smyth/squad-maps)
+[![GitHub issues](https://img.shields.io/github/issues/Thomas-Smyth/squad-layers.svg?style=flat-square)](https://github.com/Thomas-Smyth/squad-layers/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/Thomas-Smyth/squad-layers.svg?style=flat-square)](https://github.com/Thomas-Smyth/squad-layers/pulls)
+[![GitHub stars](https://img.shields.io/github/stars/Thomas-Smyth/squad-layers.svg?style=flat-square)](https://github.com/Thomas-Smyth/squad-layers/stargazers)
+[![GitHub license](https://img.shields.io/github/license/Thomas-Smyth/squad-layers.svg?style=flat-square)](https://github.com/Thomas-Smyth/squad-layers)
 
 ### JSON formatted list of Squad Maps / Layers and Related Data
 
@@ -19,7 +19,7 @@ As a developer who loves to play Squad, I'm often reaching for Squad Map and Lay
 ## Data Source
 The data stored in this repository is sourced from the [Server Configuration Page](https://squad.gamepedia.com/Server_Configuration#Map_Rotation_in_MapRotation.cfg) on [Squad Wiki](https://squad.gamepedia.com/Squad_Wiki).
 
-Further additions may have been made to the data sourced. In some cases, these additions may be based on personal opinions of the people that contribute to this repository, such as player count limits. If you believe that these additional pieces of data, or any data stored here, are incorrect, please raise an [issue](https://github.com/Thomas-Smyth/squad-maps/issues) so it can be discussed.
+Further additions may have been made to the data sourced. In some cases, these additions may be based on personal opinions of the people that contribute to this repository, such as player count limits. If you believe that these additional pieces of data, or any data stored here, are incorrect, please raise an [issue](https://github.com/Thomas-Smyth/squad-layers/issues) so it can be discussed.
 
 ## Contributing
 Feel free to help keep this repository up-to-date with Squad!
