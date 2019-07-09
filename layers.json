@@ -14,7 +14,7 @@
     "version": "v1",
     "night": false,
     "middleFlags": [],
-    "minPlayers": 36,
+    "minPlayers": 54,
     "maxPlayers": 80
   },
   "Al Basrah Invasion v2": {
@@ -193,9 +193,18 @@
     "gamemode": "Skirmish",
     "version": "v1",
     "night": false,
-    "middleFlags": ["Grape Farm", "RT&M"],
+    "middleFlags": ["Vineyard", "RT&M"],
     "minPlayers": 0,
     "maxPlayers": 36
+  },
+  "Chora TC v1": {
+    "map": "Chora",
+    "gamemode": "TC",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
   "Fool's Road AAS v1": {
     "map": "Fool's Road",
@@ -203,15 +212,6 @@
     "version": "v1",
     "night": false,
     "middleFlags": ["Ammo Hill"],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Fool's Road AAS v2": {
-    "map": "Fool's Road",
-    "gamemode": "AAS",
-    "version": "v2",
-    "night": false,
-    "middleFlags": ["Hilltop Encampment", "Small Village"],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -265,7 +265,7 @@
     "gamemode": "Skirmish",
     "version": "v1",
     "night": false,
-    "middleFlags": ["Mine Entrance"],
+    "middleFlags": ["Train Station"],
     "minPlayers": 0,
     "maxPlayers": 36
   },
@@ -499,7 +499,7 @@
     "gamemode": "AAS",
     "version": "v2",
     "night": false,
-    "middleFlags": ["Mohd Zai", "Darbond"],
+    "middleFlags": ["Chakar Kot", "Syed Abad"],
     "minPlayers": 65,
     "maxPlayers": 80
   },
@@ -652,7 +652,7 @@
     "gamemode": "AAS",
     "version": "v1",
     "night": false,
-    "middleFlags": ["Crucible Alpha"],
+    "middleFlags": ["Crucible Alpha Bravo"],
     "minPlayers": 65,
     "maxPlayers": 80
   },
@@ -661,7 +661,7 @@
     "gamemode": "AAS",
     "version": "v2",
     "night": false,
-    "middleFlags": ["Crucible Alpha"],
+    "middleFlags": ["Crucible"],
     "minPlayers": 65,
     "maxPlayers": 80
   },
@@ -773,6 +773,78 @@
     "minPlayers": 0,
     "maxPlayers": 36
   },
+  "Skorpo AAS v1": {
+    "map": "Skorpo",
+    "gamemode": "AAS",
+    "version": "v1",
+    "night": false,
+    "middleFlags": ["Uskedalen Marina"],
+    "minPlayers": 65,
+    "maxPlayers": 80
+  },
+  "Skorpo RAAS v1": {
+    "map": "Skorpo",
+    "gamemode": "RAAS",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 65,
+    "maxPlayers": 80
+  },
+  "Skorpo RAAS v2": {
+    "map": "Skorpo",
+    "gamemode": "RAAS",
+    "version": "v2",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 65,
+    "maxPlayers": 80
+  },
+  "Skorpo Invasion v1": {
+    "map": "Skorpo",
+    "gamemode": "Invasion",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 65,
+    "maxPlayers": 80
+  },
+  "Skorpo Invasion v2": {
+    "map": "Skorpo",
+    "gamemode": "Invasion",
+    "version": "v2",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 54,
+    "maxPlayers": 80
+  },
+  "Skorpo Skirmish v1": {
+    "map": "Skorpo",
+    "gamemode": "Skirmish",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 0,
+    "maxPlayers": 36
+  },
+  "Skorpo TC v1": {
+    "map": "Skorpo",
+    "gamemode": "TC",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 65,
+    "maxPlayers": 80
+  },
+  "Skorpo TC v2": {
+    "map": "Skorpo",
+    "gamemode": "TC",
+    "version": "v2",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 65,
+    "maxPlayers": 80
+  },
   "Sumari AAS v2": {
     "map": "Sumari",
     "gamemode": "AAS",
@@ -796,7 +868,7 @@
     "gamemode": "RAAS",
     "version": "v1",
     "night": false,
-    "middleFlags": [],
+    "middleFlags": ["Workshop"],
     "minPlayers": 36,
     "maxPlayers": 80
   },
@@ -827,7 +899,7 @@
     "minPlayers": 65,
     "maxPlayers": 80
   },
-  "Tallil Outskirts AAS v2": {
+  "Tallil Outskirts AAS v3": {
     "map": "Tallil Outskirts",
     "gamemode": "AAS",
     "version": "v2",
@@ -904,7 +976,7 @@
     "gamemode": "Skirmish",
     "version": "v1",
     "night": false,
-    "middleFlags": ["Lower Central Al-Khidir", "Upper West Al-Khidir"],
+    "middleFlags": ["Amiris Abode", "Riverside Khidhir"],
     "minPlayers": 0,
     "maxPlayers": 36
   },
@@ -931,8 +1003,8 @@
     "gamemode": "AAS",
     "version": "v2",
     "night": false,
-    "middleFlags": ["West Mogilyovo", "Lower Mogilyovo"],
-    "minPlayers": 65,
+    "middleFlags": ["Lower Petrivka"],
+    "minPlayers": 54,
     "maxPlayers": 80
   },
   "Yehorivka AAS v3": {
@@ -949,8 +1021,8 @@
     "gamemode": "AAS",
     "version": "v4",
     "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
+    "middleFlags": ["West Mogilyovo","Bilovia"],
+    "minPlayers": 54,
     "maxPlayers": 80
   },
   "Yehorivka AAS v5": {
@@ -1021,7 +1093,7 @@
     "gamemode": "Skirmish",
     "version": "v2",
     "night": false,
-    "middleFlags": ["Upper Petrivka"],
+    "middleFlags": ["Thunderdome"],
     "minPlayers": 0,
     "maxPlayers": 36
   }
