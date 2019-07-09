@@ -902,7 +902,7 @@
   "Tallil Outskirts AAS v3": {
     "map": "Tallil Outskirts",
     "gamemode": "AAS",
-    "version": "v2",
+    "version": "v3",
     "night": false,
     "middleFlags": ["Bwlyt Tawn"],
     "minPlayers": 65,
