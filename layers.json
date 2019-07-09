@@ -868,7 +868,7 @@
     "gamemode": "RAAS",
     "version": "v1",
     "night": false,
-    "middleFlags": ["Workshop"],
+    "middleFlags": [],
     "minPlayers": 36,
     "maxPlayers": 80
   },
