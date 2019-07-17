@@ -1,7 +1,7 @@
 {
-  "Al Basrah RAAS v1": {
+  "Al Basrah Insurgency v1": {
     "map": "Al Basrah",
-    "gamemode": "RAAS",
+    "gamemode": "Insurgency",
     "version": "v1",
     "night": false,
     "middleFlags": [],
@@ -26,9 +26,9 @@
     "minPlayers": 54,
     "maxPlayers": 80
   },
-  "Al Basrah Insurgency v1": {
+  "Al Basrah RAAS v1": {
     "map": "Al Basrah",
-    "gamemode": "Insurgency",
+    "gamemode": "RAAS",
     "version": "v1",
     "night": false,
     "middleFlags": [],
@@ -53,39 +53,30 @@
     "minPlayers": 0,
     "maxPlayers": 36
   },
+  "Al Basrah TC v1": {
+    "map": "Al Basrah",
+    "gamemode": "TC",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers":56,
+    "maxPlayers": 80
+  },
+  "Al Basrah TC v2": {
+    "map": "Al Basrah",
+    "gamemode": "TC",
+    "version": "v2",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers":56,
+    "maxPlayers": 80
+  },
   "Belaya AAS v1": {
     "map": "Belaya",
     "gamemode": "AAS",
     "version": "v1",
     "night": false,
-    "middleFlags": ["Train Tunnel", "Nikola"],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Belaya AAS v2": {
-    "map": "Belaya",
-    "gamemode": "AAS",
-    "version": "v2",
-    "night": false,
-    "middleFlags": ["Gabukay"],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Belaya AAS v3": {
-    "map": "Belaya",
-    "gamemode": "AAS",
-    "version": "v3",
-    "night": false,
-    "middleFlags": ["Nikola"],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Belaya RAAS v1": {
-    "map": "Belaya",
-    "gamemode": "RAAS",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
+    "middleFlags": ["Train Tunnel"],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -116,6 +107,33 @@
     "minPlayers": 54,
     "maxPlayers": 80
   },
+  "Belaya RAAS v1": {
+    "map": "Belaya",
+    "gamemode": "RAAS",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 54,
+    "maxPlayers": 80
+  },
+  "Belaya RAAS v2": {
+    "map": "Belaya",
+    "gamemode": "RAAS",
+    "version": "v2",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 54,
+    "maxPlayers": 80
+  },
+  "Belaya RAAS v3": {
+    "map": "Belaya",
+    "gamemode": "RAAS",
+    "version": "v3",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 54,
+    "maxPlayers": 80
+  },
   "Belaya Skirmish v1": {
     "map": "Belaya",
     "gamemode": "Skirmish",
@@ -124,6 +142,15 @@
     "middleFlags": ["Velino DC"],
     "minPlayers": 0,
     "maxPlayers": 36
+  },
+  "Belaya TC v1": {
+    "map": "Belaya",
+    "gamemode": "TC",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 54,
+    "maxPlayers": 80
   },
   "Chora AAS v1": {
     "map": "Chora",
@@ -143,18 +170,9 @@
     "minPlayers": 36,
     "maxPlayers": 80
   },
-  "Chora AAS v3": {
+  "Chora Insurgency v1": {
     "map": "Chora",
-    "gamemode": "AAS",
-    "version": "v3",
-    "night": false,
-    "middleFlags": ["Hemp Farm"],
-    "minPlayers": 36,
-    "maxPlayers": 80
-  },
-  "Chora RAAS v1": {
-    "map": "Chora",
-    "gamemode": "RAAS",
+    "gamemode": "Insurgency",
     "version": "v1",
     "night": false,
     "middleFlags": [],
@@ -179,10 +197,19 @@
     "minPlayers": 54,
     "maxPlayers": 80
   },
-  "Chora Insurgency v1": {
+  "Chora RAAS v1": {
     "map": "Chora",
-    "gamemode": "Insurgency",
+    "gamemode": "RAAS",
     "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 54,
+    "maxPlayers": 80
+  },
+  "Chora RAAS v2": {
+    "map": "Chora",
+    "gamemode": "RAAS",
+    "version": "v2",
     "night": false,
     "middleFlags": [],
     "minPlayers": 54,
@@ -224,21 +251,12 @@
     "minPlayers": 54,
     "maxPlayers": 80
   },
-  "Fool's Road AAS v4": {
+  "Fool's Road Destruction v1": {
     "map": "Fool's Road",
-    "gamemode": "AAS",
-    "version": "v4",
+    "gamemode": "Destruction",
+    "version": "v1",
     "night": false,
-    "middleFlags": ["Ammo Hill", "Mine Entrance"],
-    "minPlayers": 36,
-    "maxPlayers": 80
-  },
-  "Fool's Road AAS v5": {
-    "map": "Fool's Road",
-    "gamemode": "AAS",
-    "version": "v5",
-    "night": false,
-    "middleFlags": ["FOB Papahov"],
+    "middleFlags": [],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -251,10 +269,19 @@
     "minPlayers": 54,
     "maxPlayers": 80
   },
-  "Fool's Road Destruction v1": {
+  "Fool's Road RAAS v2": {
     "map": "Fool's Road",
-    "gamemode": "Destruction",
-    "version": "v1",
+    "gamemode": "RAAS",
+    "version": "v2",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 54,
+    "maxPlayers": 80
+  },
+  "Fool's Road RAAS v3": {
+    "map": "Fool's Road",
+    "gamemode": "RAAS",
+    "version": "v3",
     "night": false,
     "middleFlags": [],
     "minPlayers": 54,
@@ -278,6 +305,15 @@
     "minPlayers": 0,
     "maxPlayers": 36
   },
+  "Fool's Road TC v1": {
+    "map": "Fool's Road",
+    "gamemode": "TC",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 54,
+    "maxPlayers": 80
+  },
   "Gorodok AAS v1": {
     "map": "Gorodok",
     "gamemode": "AAS",
@@ -296,21 +332,39 @@
     "minPlayers": 65,
     "maxPlayers": 80
   },
-  "Gorodok AAS v3": {
+  "Gorodok Destruction v1": {
     "map": "Gorodok",
-    "gamemode": "AAS",
-    "version": "v3",
+    "gamemode": "Destruction",
+    "version": "v1",
     "night": false,
-    "middleFlags": ["Niva Lower", "Niva Upper"],
+    "middleFlags": [],
     "minPlayers": 65,
     "maxPlayers": 80
   },
-  "Gorodok AAS v4": {
+  "Gorodok Insurgency v1": {
     "map": "Gorodok",
-    "gamemode": "AAS",
-    "version": "v4",
+    "gamemode": "Insurgency",
+    "version": "v1",
     "night": false,
-    "middleFlags": ["Niva Radio Tower"],
+    "middleFlags": [],
+    "minPlayers": 65,
+    "maxPlayers": 80
+  },
+  "Gorodok Invasion v1": {
+    "map": "Gorodok",
+    "gamemode": "Invasion",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 65,
+    "maxPlayers": 80
+  },
+  "Gorodok Invasion v2": {
+    "map": "Gorodok",
+    "gamemode": "Invasion",
+    "version": "v2",
+    "night": false,
+    "middleFlags": [],
     "minPlayers": 65,
     "maxPlayers": 80
   },
@@ -350,37 +404,10 @@
     "minPlayers": 36,
     "maxPlayers": 65
   },
-  "Gorodok Invasion v1": {
+  "Gorodok RAAS v5": {
     "map": "Gorodok",
-    "gamemode": "Invasion",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Gorodok Invasion v2": {
-    "map": "Gorodok",
-    "gamemode": "Invasion",
-    "version": "v2",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Gorodok Insurgency v1": {
-    "map": "Gorodok",
-    "gamemode": "Insurgency",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Gorodok Destruction v1": {
-    "map": "Gorodok",
-    "gamemode": "Destruction",
-    "version": "v1",
+    "gamemode": "RAAS",
+    "version": "v5",
     "night": false,
     "middleFlags": [],
     "minPlayers": 65,
@@ -395,6 +422,15 @@
     "minPlayers": 0,
     "maxPlayers": 36
   },
+  "Gorodok TC v1": {
+    "map": "Gorodok",
+    "gamemode": "TC",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 65,
+    "maxPlayers": 80
+  },
   "Kamdesh AAS v1": {
     "map": "Kamdesh",
     "gamemode": "AAS",
@@ -404,28 +440,19 @@
     "minPlayers": 54,
     "maxPlayers": 80
   },
-  "Kamdesh RAAS v1": {
+  "Kamdesh Insurgency v1": {
     "map": "Kamdesh",
-    "gamemode": "RAAS",
+    "gamemode": "Insurgency",
     "version": "v1",
     "night": false,
     "middleFlags": [],
     "minPlayers": 54,
     "maxPlayers": 80
   },
-  "Kamdesh RAAS v2": {
+  "Kamdesh Insurgency v2": {
     "map": "Kamdesh",
-    "gamemode": "RAAS",
+    "gamemode": "Insurgency",
     "version": "v2",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Kamdesh RAAS v3": {
-    "map": "Kamdesh",
-    "gamemode": "RAAS",
-    "version": "v3",
     "night": false,
     "middleFlags": [],
     "minPlayers": 54,
@@ -458,19 +485,37 @@
     "minPlayers": 54,
     "maxPlayers": 80
   },
-  "Kamdesh Insurgency v1": {
+  "Kamdesh RAAS v1": {
     "map": "Kamdesh",
-    "gamemode": "Insurgency",
+    "gamemode": "RAAS",
     "version": "v1",
     "night": false,
     "middleFlags": [],
     "minPlayers": 54,
     "maxPlayers": 80
   },
-  "Kamdesh Insurgency v2": {
+  "Kamdesh RAAS v2": {
     "map": "Kamdesh",
-    "gamemode": "Insurgency",
+    "gamemode": "RAAS",
     "version": "v2",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 54,
+    "maxPlayers": 80
+  },
+  "Kamdesh RAAS v3": {
+    "map": "Kamdesh",
+    "gamemode": "RAAS",
+    "version": "v3",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 54,
+    "maxPlayers": 80
+  },
+  "Kamdesh RAAS v4": {
+    "map": "Kamdesh",
+    "gamemode": "RAAS",
+    "version": "v4",
     "night": false,
     "middleFlags": [],
     "minPlayers": 54,
@@ -485,6 +530,15 @@
     "minPlayers": 0,
     "maxPlayers": 36
   },
+  "Kamdesh TC v1": {
+    "map": "Kamdesh",
+    "gamemode": "TC",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 54,
+    "maxPlayers": 80
+  },
   "Kohat AAS v1": {
     "map": "Kohat",
     "gamemode": "AAS",
@@ -494,18 +548,9 @@
     "minPlayers": 65,
     "maxPlayers": 80
   },
-  "Kohat AAS v2": {
+  "Kohat Insurgency v1": {
     "map": "Kohat",
-    "gamemode": "AAS",
-    "version": "v2",
-    "night": false,
-    "middleFlags": ["Chakar Kot", "Syed Abad"],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Kohat RAAS v1": {
-    "map": "Kohat",
-    "gamemode": "RAAS",
+    "gamemode": "Insurgency",
     "version": "v1",
     "night": false,
     "middleFlags": [],
@@ -530,10 +575,37 @@
     "minPlayers": 65,
     "maxPlayers": 80
   },
-  "Kohat Insurgency v1": {
+  "Kohat RAAS v1": {
     "map": "Kohat",
-    "gamemode": "Insurgency",
+    "gamemode": "RAAS",
     "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 65,
+    "maxPlayers": 80
+  },
+  "Kohat RAAS v2": {
+    "map": "Kohat",
+    "gamemode": "RAAS",
+    "version": "v2",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 65,
+    "maxPlayers": 80
+  },
+  "Kohat RAAS v3": {
+    "map": "Kohat",
+    "gamemode": "RAAS",
+    "version": "v3",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 65,
+    "maxPlayers": 80
+  },
+  "Kohat RAAS v4": {
+    "map": "Kohat",
+    "gamemode": "RAAS",
+    "version": "v4",
     "night": false,
     "middleFlags": [],
     "minPlayers": 65,
@@ -548,21 +620,21 @@
     "minPlayers": 0,
     "maxPlayers": 36
   },
-  "Kokan AAS v1": {
-    "map": "Kokan",
+  "Kohat TC v1": {
+    "map": "Kohat",
+    "gamemode": "TC",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers":54,
+    "maxPlayers": 80
+  },
+  "Kokan Valley AAS v1": {
+    "map": "Kokan Valley",
     "gamemode": "AAS",
     "version": "v1",
     "night": false,
     "middleFlags": ["Tempest Estate"],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Kokan AAS v2": {
-    "map": "Kokan",
-    "gamemode": "AAS",
-    "version": "v2",
-    "night": false,
-    "middleFlags": ["District Center"],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -572,7 +644,16 @@
     "version": "v1",
     "night": false,
     "middleFlags": [],
-    "minPlayers": 36,
+    "minPlayers": 45,
+    "maxPlayers": 80
+  },
+  "Kokan RAAS v2": {
+    "map": "Kokan",
+    "gamemode": "RAAS",
+    "version": "v2",
+  "night": false,
+    "middleFlags": [],
+    "minPlayers": 45,
     "maxPlayers": 80
   },
   "Kokan Invasion v1": {
@@ -602,21 +683,21 @@
     "minPlayers": 36,
     "maxPlayers": 54
   },
+  "Kokan TC v1": {
+    "map": "Kokan",
+    "gamemode": "TC",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 54,
+    "maxPlayers": 80
+  },
   "Logar Valley AAS v1": {
     "map": "Logar Valley",
     "gamemode": "AAS",
     "version": "v1",
     "night": false,
     "middleFlags": ["Central DC 1", "Central DC 2"],
-    "minPlayers": 36,
-    "maxPlayers": 80
-  },
-  "Logar Valley RAAS v1": {
-    "map": "Logar Valley",
-    "gamemode": "RAAS",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
     "minPlayers": 36,
     "maxPlayers": 80
   },
@@ -629,11 +710,11 @@
     "minPlayers": 36,
     "maxPlayers": 80
   },
-  "Logar Valley Insurgency v1 Night": {
+  "Logar Valley RAAS v1": {
     "map": "Logar Valley",
-    "gamemode": "Insurgency",
+    "gamemode": "RAAS",
     "version": "v1",
-    "night": true,
+    "night": false,
     "middleFlags": [],
     "minPlayers": 36,
     "maxPlayers": 80
@@ -656,24 +737,6 @@
     "minPlayers": 65,
     "maxPlayers": 80
   },
-  "Mestia AAS v2": {
-    "map": "Mestia",
-    "gamemode": "AAS",
-    "version": "v2",
-    "night": false,
-    "middleFlags": ["Crucible"],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Mestia RAAS v1": {
-    "map": "Mestia",
-    "gamemode": "RAAS",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
   "Mestia Invasion v1": {
     "map": "Mestia",
     "gamemode": "Invasion",
@@ -692,6 +755,15 @@
     "minPlayers": 65,
     "maxPlayers": 80
   },
+  "Mestia RAAS v1": {
+    "map": "Mestia",
+    "gamemode": "RAAS",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 65,
+    "maxPlayers": 80
+  },
   "Mestia Skirmish v1": {
     "map": "Mestia",
     "gamemode": "Skirmish",
@@ -701,21 +773,21 @@
     "minPlayers": 0,
     "maxPlayers": 36
   },
+  "Mestia TC v1": {
+    "map": "Mestia",
+    "gamemode": "TC",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 54,
+    "maxPlayers": 80
+  },
   "Narva AAS v1": {
     "map": "Narva",
     "gamemode": "AAS",
     "version": "v1",
     "night": false,
     "middleFlags": ["Geneva Apts", "Train Depot"],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Narva AAS v2": {
-    "map": "Narva",
-    "gamemode": "AAS",
-    "version": "v2",
-    "night": false,
-    "middleFlags": ["Old Hospital", "Oru Village"],
     "minPlayers": 54,
     "maxPlayers": 80
   },
@@ -728,9 +800,9 @@
     "minPlayers": 54,
     "maxPlayers": 80
   },
-  "Narva RAAS v1": {
+  "Narva Destruction v1": {
     "map": "Narva",
-    "gamemode": "RAAS",
+    "gamemode": "Destruction",
     "version": "v1",
     "night": false,
     "middleFlags": [],
@@ -755,9 +827,9 @@
     "minPlayers": 54,
     "maxPlayers": 80
   },
-  "Narva Destruction v1": {
+  "Narva RAAS v1": {
     "map": "Narva",
-    "gamemode": "Destruction",
+    "gamemode": "RAAS",
     "version": "v1",
     "night": false,
     "middleFlags": [],
@@ -773,28 +845,10 @@
     "minPlayers": 0,
     "maxPlayers": 36
   },
-  "Skorpo AAS v1": {
-    "map": "Skorpo",
-    "gamemode": "AAS",
+  "Narva TC v1": {
+    "map": "Narva",
+    "gamemode": "TC",
     "version": "v1",
-    "night": false,
-    "middleFlags": ["Uskedalen Marina"],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Skorpo RAAS v1": {
-    "map": "Skorpo",
-    "gamemode": "RAAS",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Skorpo RAAS v2": {
-    "map": "Skorpo",
-    "gamemode": "RAAS",
-    "version": "v2",
     "night": false,
     "middleFlags": [],
     "minPlayers": 65,
@@ -816,6 +870,24 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 54,
+    "maxPlayers": 80
+  },
+  "Skorpo RAAS v1": {
+    "map": "Skorpo",
+    "gamemode": "RAAS",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 65,
+    "maxPlayers": 80
+  },
+  "Skorpo RAAS v2": {
+    "map": "Skorpo",
+    "gamemode": "RAAS",
+    "version": "v2",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 65,
     "maxPlayers": 80
   },
   "Skorpo Skirmish v1": {
@@ -845,30 +917,21 @@
     "minPlayers": 65,
     "maxPlayers": 80
   },
-  "Sumari AAS v2": {
-    "map": "Sumari",
-    "gamemode": "AAS",
-    "version": "v2",
-    "night": false,
-    "middleFlags": ["Mosque"],
-    "minPlayers": 36,
-    "maxPlayers": 80
-  },
-  "Sumari AAS v3": {
-    "map": "Sumari",
-    "gamemode": "AAS",
+  "Skorpo TC v3": {
+    "map": "Skorpo",
+    "gamemode": "TC",
     "version": "v3",
     "night": false,
-    "middleFlags": ["Mosque"],
-    "minPlayers": 36,
+    "middleFlags": [],
+    "minPlayers": 65,
     "maxPlayers": 80
   },
-  "Sumari RAAS v1": {
+  "Sumari AAS v1": {
     "map": "Sumari",
-    "gamemode": "RAAS",
+    "gamemode": "AAS",
     "version": "v1",
     "night": false,
-    "middleFlags": [],
+    "middleFlags": ["Mosque"],
     "minPlayers": 36,
     "maxPlayers": 80
   },
@@ -881,6 +944,24 @@
     "minPlayers": 54,
     "maxPlayers": 80
   },
+  "Sumari RAAS v1": {
+    "map": "Sumari",
+    "gamemode": "RAAS",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 36,
+    "maxPlayers": 80
+  },
+  "Sumari RAAS v2": {
+    "map": "Sumari",
+    "gamemode": "RAAS",
+    "version": "v2",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 36,
+    "maxPlayers": 80
+  },
   "Sumari Skirmish v1": {
     "map": "Sumari",
     "gamemode": "Skirmish",
@@ -889,6 +970,15 @@
     "middleFlags": ["Walled Courts"],
     "minPlayers": 0,
     "maxPlayers": 36
+  },
+  "Sumari TC v1": {
+    "map": "Sumari",
+    "gamemode": "TC",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 45,
+    "maxPlayers": 80
   },
   "Tallil Outskirts AAS v1": {
     "map": "Tallil Outskirts",
@@ -899,12 +989,21 @@
     "minPlayers": 65,
     "maxPlayers": 80
   },
-  "Tallil Outskirts AAS v3": {
+  "Tallil Outskirts Invasion v1": {
     "map": "Tallil Outskirts",
-    "gamemode": "AAS",
-    "version": "v3",
+    "gamemode": "Invasion",
+    "version": "v1",
     "night": false,
-    "middleFlags": ["Bwlyt Tawn"],
+    "middleFlags": [],
+    "minPlayers": 65,
+    "maxPlayers": 80
+  },
+  "Tallil Outskirts Invasion v2": {
+    "map": "Tallil Outskirts",
+    "gamemode": "Invasion",
+    "version": "v2",
+    "night": false,
+    "middleFlags": [],
     "minPlayers": 65,
     "maxPlayers": 80
   },
@@ -935,40 +1034,13 @@
     "minPlayers": 65,
     "maxPlayers": 80
   },
-  "Tallil Outskirts Invasion v1": {
+  "Tallil Outskirts RAAS v4": {
     "map": "Tallil Outskirts",
-    "gamemode": "Invasion",
-    "version": "v1",
+    "gamemode": "RAAS",
+    "version": "v4",
     "night": false,
     "middleFlags": [],
     "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Tallil Outskirts Invasion v2": {
-    "map": "Tallil Outskirts",
-    "gamemode": "Invasion",
-    "version": "v2",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Tallil Outskirts Invasion v3": {
-    "map": "Tallil Outskirts",
-    "gamemode": "Invasion",
-    "version": "v3",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Tallil Outskirts Tanks v1 Experimental": {
-    "map": "Tallil Outskirts",
-    "gamemode": "Tanks",
-    "version": "v1 Experimental",
-    "night": false,
-    "middleFlags": ["Central Airfield"],
-    "minPlayers": 0,
     "maxPlayers": 80
   },
   "Tallil Outskirts Skirmish v1": {
@@ -989,22 +1061,40 @@
     "minPlayers": 0,
     "maxPlayers": 36
   },
-  "Yehorivka AAS v1": {
-    "map": "Yehorivka",
-    "gamemode": "AAS",
-    "version": "v1",
+  "Tallil Outskirts Skirmish v3": {
+    "map": "Tallil Outskirts",
+    "gamemode": "Skirmish",
+    "version": "v3",
     "night": false,
-    "middleFlags": ["East Mogilyovo"],
-    "minPlayers": 65,
+    "middleFlags": ["Bwlyt Tawn"],
+    "minPlayers": 0,
+    "maxPlayers": 65
+  },
+  "Tallil Outskirts Tanks v1 Experimental": {
+    "map": "Tallil Outskirts",
+    "gamemode": "Tanks",
+    "version": "v1 Experimental",
+    "night": false,
+    "middleFlags": ["Central Airfield"],
+    "minPlayers": 0,
     "maxPlayers": 80
   },
-  "Yehorivka AAS v2": {
-    "map": "Yehorivka",
-    "gamemode": "AAS",
-    "version": "v2",
+  "Tallil Outskirts Tanks v2 Experimental": {
+    "map": "Tallil Outskirts",
+    "gamemode": "Tanks",
+    "version": "v2 Experimental",
     "night": false,
-    "middleFlags": ["Lower Petrivka"],
-    "minPlayers": 54,
+    "middleFlags": ["Central Airfield"],
+    "minPlayers": 0,
+    "maxPlayers": 80
+  },
+  "Tallil Outskirts TC v1": {
+    "map": "Tallil Outskirts",
+    "gamemode": "TC",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 65,
     "maxPlayers": 80
   },
   "Yehorivka AAS v3": {
@@ -1034,19 +1124,10 @@
     "minPlayers": 65,
     "maxPlayers": 80
   },
-  "Yehorivka RAAS v1": {
+  "Yehorivka Destruction v1": {
     "map": "Yehorivka",
-    "gamemode": "RAAS",
+    "gamemode": "Destruction",
     "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Yehorivka RAAS v2": {
-    "map": "Yehorivka",
-    "gamemode": "RAAS",
-    "version": "v2",
     "night": false,
     "middleFlags": [],
     "minPlayers": 65,
@@ -1070,10 +1151,46 @@
     "minPlayers": 65,
     "maxPlayers": 80
   },
-  "Yehorivka Destruction v1": {
+  "Yehorivka RAAS v1": {
     "map": "Yehorivka",
-    "gamemode": "Destruction",
+    "gamemode": "RAAS",
     "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 65,
+    "maxPlayers": 80
+  },
+  "Yehorivka RAAS v2": {
+    "map": "Yehorivka",
+    "gamemode": "RAAS",
+    "version": "v2",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 65,
+    "maxPlayers": 80
+  },
+  "Yehorivka RAAS v3": {
+    "map": "Yehorivka",
+    "gamemode": "RAAS",
+    "version": "v3",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 65,
+    "maxPlayers": 80
+  },
+  "Yehorivka RAAS v4": {
+    "map": "Yehorivka",
+    "gamemode": "RAAS",
+    "version": "v4",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 65,
+    "maxPlayers": 80
+  },
+  "Yehorivka RAAS v5": {
+    "map": "Yehorivka",
+    "gamemode": "RAAS",
+    "version": "v5",
     "night": false,
     "middleFlags": [],
     "minPlayers": 65,
@@ -1096,5 +1213,23 @@
     "middleFlags": ["Thunderdome"],
     "minPlayers": 0,
     "maxPlayers": 36
+  },
+  "Yehorivka TC v1": {
+    "map": "Yehorivka",
+    "gamemode": "TC",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 54,
+    "maxPlayers": 80
+  },
+  "Yehorivka TC v2": {
+    "map": "Yehorivka",
+    "gamemode": "TC",
+    "version": "v2",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 54,
+    "maxPlayers": 80
   }
 }
