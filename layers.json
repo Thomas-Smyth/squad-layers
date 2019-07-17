@@ -305,7 +305,7 @@
     "minPlayers": 0,
     "maxPlayers": 36
   },
-  "Fool's Road TC v2": {
+  "Fool's Road TC v1": {
     "map": "Fool's Road",
     "gamemode": "TC",
     "version": "v1",
@@ -491,7 +491,7 @@
     "version": "v2",
     "night": false,
     "middleFlags": [],
-  "minPlayers": 54,
+    "minPlayers": 54,
     "maxPlayers": 80
   },
   "Kamdesh Invasion v3": {
@@ -1099,7 +1099,7 @@
   },
   "Yehorivka AAS v3": {
     "map": "Yehorivka",
-  "gamemode": "AAS",
+    "gamemode": "AAS",
     "version": "v3",
     "night": false,
     "middleFlags": ["Yevhinivka"],
@@ -1221,7 +1221,7 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 54,
-  "maxPlayers": 80
+    "maxPlayers": 80
   },
   "Yehorivka TC v2": {
     "map": "Yehorivka",
