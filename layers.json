@@ -854,6 +854,15 @@
     "minPlayers": 65,
     "maxPlayers": 80
   },
+  "Narva TC v2": {
+    "map": "Narva",
+    "gamemode": "TC",
+    "version": "v2",
+    "night": false,
+    "middleFlags": ["Uskedalen Marina"],
+    "minPlayers": 65,
+    "maxPlayers": 80
+  },
   "Skorpo Invasion v1": {
     "map": "Skorpo",
     "gamemode": "Invasion",
@@ -861,6 +870,15 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 65,
+    "maxPlayers": 80
+  },
+  "Skorpo AAS v1": {
+    "map": "Skorpo",
+    "gamemode": "AAS",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 54,
     "maxPlayers": 80
   },
   "Skorpo Invasion v2": {
