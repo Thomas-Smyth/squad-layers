@@ -859,15 +859,6 @@
     "gamemode": "TC",
     "version": "v2",
     "night": false,
-    "middleFlags": ["Uskedalen Marina"],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Skorpo Invasion v1": {
-    "map": "Skorpo",
-    "gamemode": "Invasion",
-    "version": "v1",
-    "night": false,
     "middleFlags": [],
     "minPlayers": 65,
     "maxPlayers": 80
@@ -877,8 +868,17 @@
     "gamemode": "AAS",
     "version": "v1",
     "night": false,
-    "middleFlags": [],
+    "middleFlags": ["Uskedalen Marina"],
     "minPlayers": 54,
+    "maxPlayers": 80
+  },
+  "Skorpo Invasion v1": {
+    "map": "Skorpo",
+    "gamemode": "Invasion",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 65,
     "maxPlayers": 80
   },
   "Skorpo Invasion v2": {
