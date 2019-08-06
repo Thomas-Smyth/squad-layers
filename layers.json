@@ -368,6 +368,15 @@
     "minPlayers": 65,
     "maxPlayers": 80
   },
+    "Gorodok_Invasion_v2_CAF": {
+    "map": "Gorodok",
+    "gamemode": "Invasion",
+    "version": "v2 CAF",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 65,
+    "maxPlayers": 80
+  },
   "Gorodok RAAS v1": {
     "map": "Gorodok",
     "gamemode": "RAAS",
@@ -728,6 +737,33 @@
     "minPlayers": 0,
     "maxPlayers": 36
   },
+    "Manic_RAAS_v1": {
+    "map": "Manic",
+    "gamemode": "RAAS",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 65,
+    "maxPlayers": 80
+  },
+    "Manic_TC_v1": {
+    "map": "Manic",
+    "gamemode": "TC",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 65,
+    "maxPlayers": 80
+  },
+    "Manic_Skirmish_v1": {
+    "map": "Manic",
+    "gamemode": "Skirmish",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 0,
+    "maxPlayers": 36
+  },
   "Mestia AAS v1": {
     "map": "Mestia",
     "gamemode": "AAS",
@@ -780,6 +816,33 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 54,
+    "maxPlayers": 80
+  },
+    "Nanisivik_Invasion_v1": {
+    "map": "Nanisivik",
+    "gamemode": "Invasion",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 65,
+    "maxPlayers": 80
+  },
+    "Nanisivik_RAAS_v1": {
+    "map": "Nanisivik",
+    "gamemode": "RAAS",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 65,
+    "maxPlayers": 80
+  },
+    "Nanisivik_RAAS_v2": {
+    "map": "Nanisivik",
+    "gamemode": "RAAS",
+    "version": "v2",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 65,
     "maxPlayers": 80
   },
   "Narva AAS v1": {
@@ -1172,6 +1235,15 @@
   "Yehorivka RAAS v1": {
     "map": "Yehorivka",
     "gamemode": "RAAS",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 65,
+    "maxPlayers": 80
+  },
+    "Yehorivka CAF RAAS v1": {
+    "map": "Yehorivka",
+    "gamemode": "CAF RAAS",
     "version": "v1",
     "night": false,
     "middleFlags": [],
