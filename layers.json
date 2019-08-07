@@ -368,7 +368,7 @@
     "minPlayers": 65,
     "maxPlayers": 80
   },
-    "Gorodok_Invasion_v2_CAF": {
+  "Gorodok_Invasion_v2_CAF": {
     "map": "Gorodok",
     "gamemode": "Invasion",
     "version": "v2_CAF",
@@ -737,7 +737,7 @@
     "minPlayers": 0,
     "maxPlayers": 36
   },
-    "Manic_RAAS_v1": {
+  "Manic_RAAS_v1": {
     "map": "Manic",
     "gamemode": "RAAS",
     "version": "v1",
@@ -746,7 +746,7 @@
     "minPlayers": 65,
     "maxPlayers": 80
   },
-    "Manic_TC_v1": {
+  "Manic_TC_v1": {
     "map": "Manic",
     "gamemode": "TC",
     "version": "v1",
@@ -755,7 +755,7 @@
     "minPlayers": 65,
     "maxPlayers": 80
   },
-    "Manic_Skirmish_v1": {
+  "Manic_Skirmish_v1": {
     "map": "Manic",
     "gamemode": "Skirmish",
     "version": "v1",
@@ -818,7 +818,7 @@
     "minPlayers": 54,
     "maxPlayers": 80
   },
-    "Nanisivik_Invasion_v1": {
+  "Nanisivik_Invasion_v1": {
     "map": "Nanisivik",
     "gamemode": "Invasion",
     "version": "v1",
@@ -827,7 +827,7 @@
     "minPlayers": 65,
     "maxPlayers": 80
   },
-    "Nanisivik_RAAS_v1": {
+  "Nanisivik_RAAS_v1": {
     "map": "Nanisivik",
     "gamemode": "RAAS",
     "version": "v1",
@@ -836,7 +836,7 @@
     "minPlayers": 65,
     "maxPlayers": 80
   },
-    "Nanisivik_RAAS_v2": {
+  "Nanisivik_RAAS_v2": {
     "map": "Nanisivik",
     "gamemode": "RAAS",
     "version": "v2",
@@ -1241,7 +1241,7 @@
     "minPlayers": 65,
     "maxPlayers": 80
   },
-    "Yehorivka_CAF_RAAS_v1": {
+  "Yehorivka_CAF_RAAS_v1": {
     "map": "Yehorivka",
     "gamemode": "CAF_RAAS",
     "version": "v1",
