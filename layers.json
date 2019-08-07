@@ -371,7 +371,7 @@
     "Gorodok_Invasion_v2_CAF": {
     "map": "Gorodok",
     "gamemode": "Invasion",
-    "version": "v2 CAF",
+    "version": "v2_CAF",
     "night": false,
     "middleFlags": [],
     "minPlayers": 65,
@@ -1241,9 +1241,9 @@
     "minPlayers": 65,
     "maxPlayers": 80
   },
-    "Yehorivka CAF RAAS v1": {
+    "Yehorivka_CAF_RAAS_v1": {
     "map": "Yehorivka",
-    "gamemode": "CAF RAAS",
+    "gamemode": "CAF_RAAS",
     "version": "v1",
     "night": false,
     "middleFlags": [],
