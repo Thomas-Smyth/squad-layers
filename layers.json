@@ -1421,7 +1421,7 @@
     "minPlayers": 54,
     "maxPlayers": 80
   },
-    "Yehorivka_CAF_TC_v3": {
+  "Yehorivka_CAF_TC_v3": {
     "map": "Yehorivka",
     "gamemode": "TC",
     "version": "v3_CAF",
@@ -1430,7 +1430,7 @@
     "minPlayers": 50,
     "maxPlayers": 80
   },
-    "Yehorivka_Invasion_CAF_v1": {
+  "Yehorivka_Invasion_CAF_v1": {
     "map": "Yehorivka",
     "gamemode": "Invasion",
     "version": "v1_CAF",
