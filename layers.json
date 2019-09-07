@@ -368,15 +368,6 @@
     "minPlayers": 65,
     "maxPlayers": 80
   },
-  "Gorodok_Invasion_v2_CAF": {
-    "map": "Gorodok",
-    "gamemode": "Invasion",
-    "version": "v2_CAF",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 50,
-    "maxPlayers": 80
-  },
   "Gorodok RAAS v1": {
     "map": "Gorodok",
     "gamemode": "RAAS",
@@ -438,6 +429,24 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 65,
+    "maxPlayers": 80
+  },
+  "Gorodok_RAAS_v2_CAF_2": {
+    "map": "Gorodok",
+    "gamemode": "RAAS",
+    "version": "v2_CAF_2",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 50,
+    "maxPlayers": 80
+  },
+  "Gorodok_TC_v1_CAF": {
+    "map": "Gorodok",
+    "gamemode": "TC",
+    "version": "v1_CAF",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 64,
     "maxPlayers": 80
   },
   "Kamdesh AAS v1": {
@@ -548,6 +557,33 @@
     "minPlayers": 54,
     "maxPlayers": 80
   },
+  "Kamdesh_Invasion_v2_CAF": {
+    "map": "Kamdesh",
+    "gamemode": "Invasion",
+    "version": "v2_CAF",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 64,
+    "maxPlayers": 80
+  },
+  "Kamdesh_RAAS_v4_CAF": {
+    "map": "Kamdesh",
+    "gamemode": "RAAS",
+    "version": "v4_CAF",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 64,
+    "maxPlayers": 80
+  },
+  "Kamdesh_TC_v1_CAF": {
+    "map": "Kamdesh",
+    "gamemode": "TC",
+    "version": "v1_CAF",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 64,
+    "maxPlayers": 80
+  },
   "Kohat AAS v1": {
     "map": "Kohat",
     "gamemode": "AAS",
@@ -636,6 +672,33 @@
     "night": false,
     "middleFlags": [],
     "minPlayers":54,
+    "maxPlayers": 80
+  },
+  "Kohat_Invasion_v1_CAF": {
+    "map": "Kohat",
+    "gamemode": "Invasion",
+    "version": "v1_CAF",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 64,
+    "maxPlayers": 80
+  },
+  "Kohat_TC_v1": {
+    "map": "Kohat",
+    "gamemode": "TC",
+    "version": "v1_CAF",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 64,
+    "maxPlayers": 80
+  },
+  "Kohat_RAAS_v3_": {
+    "map": "Kohat",
+    "gamemode": "RAAS",
+    "version": "v3",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 64,
     "maxPlayers": 80
   },
   "Kokan Valley AAS v1": {
@@ -746,6 +809,33 @@
     "minPlayers": 50,
     "maxPlayers": 80
   },
+  "Manic_RAAS_v2": {
+    "map": "Manic",
+    "gamemode": "RAAS",
+    "version": "v2",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 50,
+    "maxPlayers": 80
+  },
+  "Manic_Invasion_v1": {
+    "map": "Manic",
+    "gamemode": "Invasion",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 64,
+    "maxPlayers": 80
+  },
+  "Manic_Invasion_v2": {
+    "map": "Manic",
+    "gamemode": "Invasion",
+    "version": "v2",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 64,
+    "maxPlayers": 80
+  },
   "Manic_TC_v1": {
     "map": "Manic",
     "gamemode": "TC",
@@ -822,6 +912,15 @@
     "map": "Nanisivik",
     "gamemode": "Invasion",
     "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 65,
+    "maxPlayers": 80
+  },
+  "Nanisivik_Invasion_v2": {
+    "map": "Nanisivik",
+    "gamemode": "Invasion",
+    "version": "v2",
     "night": false,
     "middleFlags": [],
     "minPlayers": 65,
@@ -1320,6 +1419,24 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 54,
+    "maxPlayers": 80
+  },
+    "Yehorivka_CAF_TC_v3": {
+    "map": "Yehorivka",
+    "gamemode": "TC",
+    "version": "v3_CAF",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 50,
+    "maxPlayers": 80
+  },
+    "Yehorivka_Invasion_CAF_v1": {
+    "map": "Yehorivka",
+    "gamemode": "Invasion",
+    "version": "v1_CAF",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 50,
     "maxPlayers": 80
   }
 }
