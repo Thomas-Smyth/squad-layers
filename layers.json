@@ -449,6 +449,15 @@
     "minPlayers": 64,
     "maxPlayers": 80
   },
+  "Gorodok_Invasion_v2_CAF": {
+    "map": "Gorodok",
+    "gamemode": "Invasion",
+    "version": "v2_CAF",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 64,
+    "maxPlayers": 80
+  },
   "Kamdesh AAS v1": {
     "map": "Kamdesh",
     "gamemode": "AAS",
@@ -787,6 +796,15 @@
     "gamemode": "RAAS",
     "version": "v1",
     "night": false,
+    "middleFlags": [],
+    "minPlayers": 36,
+    "maxPlayers": 80
+  },
+  "Logar Valley RAAS v1 Night": {
+    "map": "Logar Valley",
+    "gamemode": "RAAS",
+    "version": "v1",
+    "night": true,
     "middleFlags": [],
     "minPlayers": 36,
     "maxPlayers": 80
