@@ -701,7 +701,7 @@
     "minPlayers": 64,
     "maxPlayers": 80
   },
-  "Kohat_RAAS_v3_": {
+  "Kohat_RAAS_v3": {
     "map": "Kohat",
     "gamemode": "RAAS",
     "version": "v3",
