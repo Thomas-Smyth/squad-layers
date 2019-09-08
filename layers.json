@@ -683,6 +683,15 @@
     "minPlayers":54,
     "maxPlayers": 80
   },
+  "Kohat_Insurgency_v1_CAF": {
+    "map": "Kohat",
+    "gamemode": "Insurgency",
+    "version": "v1_CAF",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 65,
+    "maxPlayers": 80
+  },
   "Kohat_Invasion_v1_CAF": {
     "map": "Kohat",
     "gamemode": "Invasion",
