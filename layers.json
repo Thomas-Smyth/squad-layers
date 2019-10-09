@@ -935,6 +935,60 @@
     "minPlayers": 50,
     "maxPlayers": 80
   },
+  "Mutaha Skirmish v1": {
+    "map": "Mutaha",
+    "gamemode": "Skirmish",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 0,
+    "maxPlayers": 36
+  },
+  "Mutaha AAS v1": {
+    "map": "Mutaha",
+    "gamemode": "AAS",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 50,
+    "maxPlayers": 80
+  },
+  "Mutaha Invasion v1": {
+    "map": "Mutaha",
+    "gamemode": "Invasion",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 50,
+    "maxPlayers": 80
+  },
+  "Mutaha RAAS v1": {
+    "map": "Mutaha",
+    "gamemode": "RAAS",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 50,
+    "maxPlayers": 80
+  },
+  "Mutaha TC v1": {
+    "map": "Mutaha",
+    "gamemode": "TC",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 50,
+    "maxPlayers": 80
+  },
+  "Mutaha TC v2": {
+    "map": "Mutaha",
+    "gamemode": "TC",
+    "version": "v2",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 50,
+    "maxPlayers": 80
+  },
   "Nanisivik_Invasion_v1": {
     "map": "Nanisivik",
     "gamemode": "Invasion",
