@@ -940,7 +940,7 @@
     "gamemode": "Skirmish",
     "version": "v1",
     "night": false,
-    "middleFlags": [],
+    "middleFlags": ["Collapsed Crane"],
     "minPlayers": 0,
     "maxPlayers": 36
   },
