@@ -1020,7 +1020,7 @@
     "map": "Mutaha",
     "gamemode": "Invasion",
     "version": "v1",
-    "night": false,
+    "night": true,
     "middleFlags": [],
     "minPlayers": 50,
     "maxPlayers": 80
