@@ -17,6 +17,15 @@
     "minPlayers": 50,
     "maxPlayers": 80
   },
+  "Al Basrah AAS v1": {
+    "map": "Al Basrah",
+    "gamemode": "AAS",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 50,
+    "maxPlayers": 80
+  },
   "Al Basrah Invasion v2": {
     "map": "Al Basrah",
     "gamemode": "Invasion",
@@ -458,6 +467,33 @@
     "minPlayers": 50,
     "maxPlayers": 80
   },
+  "Jensen's Range v1": {
+    "map": "Jensen's",
+    "gamemode": "Range",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 0,
+    "maxPlayers": 80
+  },
+  "Jensen's Range v2": {
+    "map": "Jensen's",
+    "gamemode": "Range",
+    "version": "v2",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 0,
+    "maxPlayers": 80
+  },
+  "Jensen's Range v3": {
+    "map": "Jensen's",
+    "gamemode": "Range",
+    "version": "v3",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 0,
+    "maxPlayers": 80
+  },
   "Kamdesh AAS v1": {
     "map": "Kamdesh",
     "gamemode": "AAS",
@@ -561,6 +597,15 @@
     "map": "Kamdesh",
     "gamemode": "TC",
     "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 50,
+    "maxPlayers": 80
+  },
+  "Kamdesh TC v2": {
+    "map": "Kamdesh",
+    "gamemode": "TC",
+    "version": "v2",
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
@@ -791,10 +836,10 @@
     "minPlayers": 36,
     "maxPlayers": 80
   },
-  "Logar Valley Insurgency v1": {
+  "Logar Valley AAS v2": {
     "map": "Logar Valley",
-    "gamemode": "Insurgency",
-    "version": "v1",
+    "gamemode": "AAS",
+    "version": "v2",
     "night": false,
     "middleFlags": [],
     "minPlayers": 36,
@@ -818,6 +863,15 @@
     "minPlayers": 36,
     "maxPlayers": 80
   },
+  "Logar Valley Insurgency v1": {
+    "map": "Logar Valley",
+    "gamemode": "Insurgency",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 50,
+    "maxPlayers": 80
+  },
   "Logar Valley Skirmish v1": {
     "map": "Logar Valley",
     "gamemode": "Skirmish",
@@ -826,6 +880,15 @@
     "middleFlags": ["Central DC"],
     "minPlayers": 0,
     "maxPlayers": 36
+  },
+  "Logar Valley TC v1": {
+    "map": "Logar Valley",
+    "gamemode": "TC",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 36,
+    "maxPlayers": 80
   },
   "Manic_RAAS_v1": {
     "map": "Manic",
@@ -1034,6 +1097,15 @@
     "minPlayers": 50,
     "maxPlayers": 80
   },
+  "Narva AAS v2": {
+    "map": "Narva",
+    "gamemode": "AAS",
+    "version": "v2",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 50,
+    "maxPlayers": 80
+  },
   "Narva AAS v3": {
     "map": "Narva",
     "gamemode": "AAS",
@@ -1146,6 +1218,24 @@
     "map": "Skorpo",
     "gamemode": "RAAS",
     "version": "v2",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 50,
+    "maxPlayers": 80
+  },
+  "Skorpo RAAS v3": {
+    "map": "Skorpo",
+    "gamemode": "RAAS",
+    "version": "v3",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 50,
+    "maxPlayers": 80
+  },
+  "Skorpo RAAS v4": {
+    "map": "Skorpo",
+    "gamemode": "RAAS",
+    "version": "v4",
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
@@ -1358,7 +1448,7 @@
     "minPlayers": 50,
     "maxPlayers": 80
   },
-  "Yehorivka AAS v3": {
+  "Yehorivka AAS v1": {
     "map": "Yehorivka",
     "gamemode": "AAS",
     "version": "v3",
@@ -1367,21 +1457,12 @@
     "minPlayers": 50,
     "maxPlayers": 80
   },
-  "Yehorivka AAS v4": {
+  "Yehorivka AAS v2": {
     "map": "Yehorivka",
     "gamemode": "AAS",
     "version": "v4",
     "night": false,
     "middleFlags": ["West Mogilyovo","Bilovia"],
-    "minPlayers": 50,
-    "maxPlayers": 80
-  },
-  "Yehorivka AAS v5": {
-    "map": "Yehorivka",
-    "gamemode": "AAS",
-    "version": "v5",
-    "night": false,
-    "middleFlags": ["West Mogilyovo", "Lower Mogilyovo"],
     "minPlayers": 50,
     "maxPlayers": 80
   },
@@ -1481,6 +1562,15 @@
     "version": "v2",
     "night": false,
     "middleFlags": ["Thunderdome"],
+    "minPlayers": 0,
+    "maxPlayers": 36
+  },
+  "Yehorivka Skirmish v3": {
+    "map": "Yehorivka",
+    "gamemode": "Skirmish",
+    "version": "v3",
+    "night": false,
+    "middleFlags": ["West Mogilyovo"],
     "minPlayers": 0,
     "maxPlayers": 36
   },
