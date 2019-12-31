@@ -1,1253 +1,3862 @@
 {
-  "Al Basrah Insurgency v1": {
-    "map": "Al Basrah",
-    "gamemode": "Insurgency",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Al Basrah Invasion v1": {
-    "map": "Al Basrah",
-    "gamemode": "Invasion",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Al Basrah Invasion v2": {
-    "map": "Al Basrah",
-    "gamemode": "Invasion",
-    "version": "v2",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Al Basrah RAAS v1": {
-    "map": "Al Basrah",
-    "gamemode": "RAAS",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Al Basrah Skirmish v1": {
-    "map": "Al Basrah",
-    "gamemode": "Skirmish",
-    "version": "v1",
-    "night": false,
-    "middleFlags": ["Crossroads"],
-    "minPlayers": 0,
-    "maxPlayers": 36
-  },
-  "Al Basrah Skirmish v2": {
-    "map": "Al Basrah",
-    "gamemode": "Skirmish",
-    "version": "v2",
-    "night": false,
-    "middleFlags": ["Poppy West", "Poppy East"],
-    "minPlayers": 0,
-    "maxPlayers": 36
-  },
-  "Al Basrah TC v1": {
-    "map": "Al Basrah",
-    "gamemode": "TC",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers":56,
-    "maxPlayers": 80
-  },
-  "Al Basrah TC v2": {
-    "map": "Al Basrah",
-    "gamemode": "TC",
-    "version": "v2",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers":56,
-    "maxPlayers": 80
-  },
-  "Belaya AAS v1": {
-    "map": "Belaya",
-    "gamemode": "AAS",
-    "version": "v1",
-    "night": false,
-    "middleFlags": ["Train Tunnel"],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Belaya Invasion v1": {
-    "map": "Belaya",
-    "gamemode": "Invasion",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Belaya Invasion v2": {
-    "map": "Belaya",
-    "gamemode": "Invasion",
-    "version": "v2",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Belaya Invasion v3": {
-    "map": "Belaya",
-    "gamemode": "Invasion",
-    "version": "v3",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Belaya RAAS v1": {
-    "map": "Belaya",
-    "gamemode": "RAAS",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Belaya RAAS v2": {
-    "map": "Belaya",
-    "gamemode": "RAAS",
-    "version": "v2",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Belaya RAAS v3": {
-    "map": "Belaya",
-    "gamemode": "RAAS",
-    "version": "v3",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Belaya Skirmish v1": {
-    "map": "Belaya",
-    "gamemode": "Skirmish",
-    "version": "v1",
-    "night": false,
-    "middleFlags": ["Velino DC"],
-    "minPlayers": 0,
-    "maxPlayers": 36
-  },
-  "Belaya TC v1": {
-    "map": "Belaya",
-    "gamemode": "TC",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Chora AAS v1": {
-    "map": "Chora",
-    "gamemode": "AAS",
-    "version": "v1",
-    "night": false,
-    "middleFlags": ["Upper Orchard", "Radio Station"],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Chora AAS v2": {
-    "map": "Chora",
-    "gamemode": "AAS",
-    "version": "v2",
-    "night": false,
-    "middleFlags": ["Hemp Farm"],
-    "minPlayers": 36,
-    "maxPlayers": 80
-  },
-  "Chora Insurgency v1": {
-    "map": "Chora",
-    "gamemode": "Insurgency",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Chora Invasion v1": {
-    "map": "Chora",
-    "gamemode": "Invasion",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Chora Invasion v1 Night": {
-    "map": "Chora",
-    "gamemode": "Invasion",
-    "version": "v1",
-    "night": true,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Chora RAAS v1": {
-    "map": "Chora",
-    "gamemode": "RAAS",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Chora RAAS v2": {
-    "map": "Chora",
-    "gamemode": "RAAS",
-    "version": "v2",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Chora Skirmish v1": {
-    "map": "Chora",
-    "gamemode": "Skirmish",
-    "version": "v1",
-    "night": false,
-    "middleFlags": ["Vineyard", "RT&M"],
-    "minPlayers": 0,
-    "maxPlayers": 36
-  },
-  "Chora TC v1": {
-    "map": "Chora",
-    "gamemode": "TC",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Fool's Road AAS v1": {
-    "map": "Fool's Road",
-    "gamemode": "AAS",
-    "version": "v1",
-    "night": false,
-    "middleFlags": ["Ammo Hill"],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Fool's Road AAS v3": {
-    "map": "Fool's Road",
-    "gamemode": "AAS",
-    "version": "v3",
-    "night": false,
-    "middleFlags": ["FOB Papanov"],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Fool's Road Destruction v1": {
-    "map": "Fool's Road",
-    "gamemode": "Destruction",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Fool's Road RAAS v1": {
-    "map": "Fool's Road",
-    "gamemode": "RAAS",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Fool's Road RAAS v2": {
-    "map": "Fool's Road",
-    "gamemode": "RAAS",
-    "version": "v2",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Fool's Road RAAS v3": {
-    "map": "Fool's Road",
-    "gamemode": "RAAS",
-    "version": "v3",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Fool's Road Skirmish v1": {
-    "map": "Fool's Road",
-    "gamemode": "Skirmish",
-    "version": "v1",
-    "night": false,
-    "middleFlags": ["Train Station"],
-    "minPlayers": 0,
-    "maxPlayers": 36
-  },
-  "Fool's Road Skirmish v2": {
-    "map": "Fool's Road",
-    "gamemode": "Skirmish",
-    "version": "v2",
-    "night": false,
-    "middleFlags": ["Hilltop Encampment"],
-    "minPlayers": 0,
-    "maxPlayers": 36
-  },
-  "Fool's Road TC v1": {
-    "map": "Fool's Road",
-    "gamemode": "TC",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Gorodok AAS v1": {
-    "map": "Gorodok",
-    "gamemode": "AAS",
-    "version": "v1",
-    "night": false,
-    "middleFlags": ["Ambush Hill", "Niva Upper"],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Gorodok AAS v2": {
-    "map": "Gorodok",
-    "gamemode": "AAS",
-    "version": "v2",
-    "night": false,
-    "middleFlags": ["Industrial Park", "Pavlov's Farm"],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Gorodok Destruction v1": {
-    "map": "Gorodok",
-    "gamemode": "Destruction",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Gorodok Insurgency v1": {
-    "map": "Gorodok",
-    "gamemode": "Insurgency",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Gorodok Invasion v1": {
-    "map": "Gorodok",
-    "gamemode": "Invasion",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Gorodok Invasion v2": {
-    "map": "Gorodok",
-    "gamemode": "Invasion",
-    "version": "v2",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Gorodok RAAS v1": {
-    "map": "Gorodok",
-    "gamemode": "RAAS",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Gorodok RAAS v2": {
-    "map": "Gorodok",
-    "gamemode": "RAAS",
-    "version": "v2",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Gorodok RAAS v3": {
-    "map": "Gorodok",
-    "gamemode": "RAAS",
-    "version": "v3",
-    "night": true,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Gorodok RAAS v4": {
-    "map": "Gorodok",
-    "gamemode": "RAAS",
-    "version": "v4",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 36,
-    "maxPlayers": 65
-  },
-  "Gorodok RAAS v5": {
-    "map": "Gorodok",
-    "gamemode": "RAAS",
-    "version": "v5",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Gorodok Skirmish v1": {
-    "map": "Gorodok",
-    "gamemode": "Skirmish",
-    "version": "v1",
-    "night": false,
-    "middleFlags": ["Niva Foothills"],
-    "minPlayers": 0,
-    "maxPlayers": 36
-  },
-  "Gorodok TC v1": {
-    "map": "Gorodok",
-    "gamemode": "TC",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Kamdesh AAS v1": {
-    "map": "Kamdesh",
-    "gamemode": "AAS",
-    "version": "v1",
-    "night": false,
-    "middleFlags": ["Nahrain"],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Kamdesh Insurgency v1": {
-    "map": "Kamdesh",
-    "gamemode": "Insurgency",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Kamdesh Insurgency v2": {
-    "map": "Kamdesh",
-    "gamemode": "Insurgency",
-    "version": "v2",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Kamdesh Invasion v1": {
-    "map": "Kamdesh",
-    "gamemode": "Invasion",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Kamdesh Invasion v2": {
-    "map": "Kamdesh",
-    "gamemode": "Invasion",
-    "version": "v2",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Kamdesh Invasion v3": {
-    "map": "Kamdesh",
-    "gamemode": "Invasion",
-    "version": "v3",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Kamdesh RAAS v1": {
-    "map": "Kamdesh",
-    "gamemode": "RAAS",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Kamdesh RAAS v2": {
-    "map": "Kamdesh",
-    "gamemode": "RAAS",
-    "version": "v2",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Kamdesh RAAS v3": {
-    "map": "Kamdesh",
-    "gamemode": "RAAS",
-    "version": "v3",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Kamdesh RAAS v4": {
-    "map": "Kamdesh",
-    "gamemode": "RAAS",
-    "version": "v4",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Kamdesh Skirmish v1": {
-    "map": "Kamdesh",
-    "gamemode": "Skirmish",
-    "version": "v1",
-    "night": false,
-    "middleFlags": ["Nahrain"],
-    "minPlayers": 0,
-    "maxPlayers": 36
-  },
-  "Kamdesh TC v1": {
-    "map": "Kamdesh",
-    "gamemode": "TC",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Kohat AAS v1": {
-    "map": "Kohat",
-    "gamemode": "AAS",
-    "version": "v1",
-    "night": false,
-    "middleFlags": ["Malak Abad"],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Kohat Insurgency v1": {
-    "map": "Kohat",
-    "gamemode": "Insurgency",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Kohat Invasion v1": {
-    "map": "Kohat",
-    "gamemode": "Invasion",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Kohat Invasion v2": {
-    "map": "Kohat",
-    "gamemode": "Invasion",
-    "version": "v2",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Kohat RAAS v1": {
-    "map": "Kohat",
-    "gamemode": "RAAS",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Kohat RAAS v2": {
-    "map": "Kohat",
-    "gamemode": "RAAS",
-    "version": "v2",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Kohat RAAS v3": {
-    "map": "Kohat",
-    "gamemode": "RAAS",
-    "version": "v3",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Kohat RAAS v4": {
-    "map": "Kohat",
-    "gamemode": "RAAS",
-    "version": "v4",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Kohat Skirmish v1": {
-    "map": "Kohat",
-    "gamemode": "Skirmish",
-    "version": "v1",
-    "night": false,
-    "middleFlags": ["Syed Abad"],
-    "minPlayers": 0,
-    "maxPlayers": 36
-  },
-  "Kohat TC v1": {
-    "map": "Kohat",
-    "gamemode": "TC",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers":54,
-    "maxPlayers": 80
-  },
-  "Kokan Valley AAS v1": {
-    "map": "Kokan Valley",
-    "gamemode": "AAS",
-    "version": "v1",
-    "night": false,
-    "middleFlags": ["Tempest Estate"],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Kokan RAAS v1": {
-    "map": "Kokan",
-    "gamemode": "RAAS",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 45,
-    "maxPlayers": 80
-  },
-  "Kokan RAAS v2": {
-    "map": "Kokan",
-    "gamemode": "RAAS",
-    "version": "v2",
-  "night": false,
-    "middleFlags": [],
-    "minPlayers": 45,
-    "maxPlayers": 80
-  },
-  "Kokan Invasion v1": {
-    "map": "Kokan",
-    "gamemode": "Invasion",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Kokan Insurgency v1": {
-    "map": "Kokan",
-    "gamemode": "Insurgency",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Kokan Skirmish v1": {
-    "map": "Kokan",
-    "gamemode": "Skirmish",
-    "version": "v1",
-    "night": false,
-    "middleFlags": ["Slums"],
-    "minPlayers": 36,
-    "maxPlayers": 54
-  },
-  "Kokan TC v1": {
-    "map": "Kokan",
-    "gamemode": "TC",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Logar Valley AAS v1": {
-    "map": "Logar Valley",
-    "gamemode": "AAS",
-    "version": "v1",
-    "night": false,
-    "middleFlags": ["Central DC 1", "Central DC 2"],
-    "minPlayers": 36,
-    "maxPlayers": 80
-  },
-  "Logar Valley Insurgency v1": {
-    "map": "Logar Valley",
-    "gamemode": "Insurgency",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 36,
-    "maxPlayers": 80
-  },
-  "Logar Valley RAAS v1": {
-    "map": "Logar Valley",
-    "gamemode": "RAAS",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 36,
-    "maxPlayers": 80
-  },
-  "Logar Valley Skirmish v1": {
-    "map": "Logar Valley",
-    "gamemode": "Skirmish",
-    "version": "v1",
-    "night": false,
-    "middleFlags": ["Central DC"],
-    "minPlayers": 0,
-    "maxPlayers": 36
-  },
-  "Mestia AAS v1": {
-    "map": "Mestia",
-    "gamemode": "AAS",
-    "version": "v1",
-    "night": false,
-    "middleFlags": ["Crucible Alpha Bravo"],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Mestia Invasion v1": {
-    "map": "Mestia",
-    "gamemode": "Invasion",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Mestia Invasion v2": {
-    "map": "Mestia",
-    "gamemode": "Invasion",
-    "version": "v2",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Mestia RAAS v1": {
-    "map": "Mestia",
-    "gamemode": "RAAS",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Mestia Skirmish v1": {
-    "map": "Mestia",
-    "gamemode": "Skirmish",
-    "version": "v1",
-    "night": false,
-    "middleFlags": ["Tunnels North", "Abandoned Buildings"],
-    "minPlayers": 0,
-    "maxPlayers": 36
-  },
-  "Mestia TC v1": {
-    "map": "Mestia",
-    "gamemode": "TC",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Narva AAS v1": {
-    "map": "Narva",
-    "gamemode": "AAS",
-    "version": "v1",
-    "night": false,
-    "middleFlags": ["Geneva Apts", "Train Depot"],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Narva AAS v3": {
-    "map": "Narva",
-    "gamemode": "AAS",
-    "version": "v3",
-    "night": false,
-    "middleFlags": ["Quarry"],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Narva Destruction v1": {
-    "map": "Narva",
-    "gamemode": "Destruction",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Narva Invasion v1": {
-    "map": "Narva",
-    "gamemode": "Invasion",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Narva Invasion v2": {
-    "map": "Narva",
-    "gamemode": "Invasion",
-    "version": "v2",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Narva RAAS v1": {
-    "map": "Narva",
-    "gamemode": "RAAS",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Narva Skirmish v1": {
-    "map": "Narva",
-    "gamemode": "Skirmish",
-    "version": "v1",
-    "night": false,
-    "middleFlags": ["Geneva Apartments"],
-    "minPlayers": 0,
-    "maxPlayers": 36
-  },
-  "Narva TC v1": {
-    "map": "Narva",
-    "gamemode": "TC",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Narva TC v2": {
-    "map": "Narva",
-    "gamemode": "TC",
-    "version": "v2",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Skorpo AAS v1": {
-    "map": "Skorpo",
-    "gamemode": "AAS",
-    "version": "v1",
-    "night": false,
-    "middleFlags": ["Uskedalen Marina"],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Skorpo Invasion v1": {
-    "map": "Skorpo",
-    "gamemode": "Invasion",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Skorpo Invasion v2": {
-    "map": "Skorpo",
-    "gamemode": "Invasion",
-    "version": "v2",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Skorpo RAAS v1": {
-    "map": "Skorpo",
-    "gamemode": "RAAS",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Skorpo RAAS v2": {
-    "map": "Skorpo",
-    "gamemode": "RAAS",
-    "version": "v2",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Skorpo Skirmish v1": {
-    "map": "Skorpo",
-    "gamemode": "Skirmish",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 0,
-    "maxPlayers": 36
-  },
-  "Skorpo TC v1": {
-    "map": "Skorpo",
-    "gamemode": "TC",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Skorpo TC v2": {
-    "map": "Skorpo",
-    "gamemode": "TC",
-    "version": "v2",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Skorpo TC v3": {
-    "map": "Skorpo",
-    "gamemode": "TC",
-    "version": "v3",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Sumari AAS v1": {
-    "map": "Sumari",
-    "gamemode": "AAS",
-    "version": "v1",
-    "night": false,
-    "middleFlags": ["Mosque"],
-    "minPlayers": 36,
-    "maxPlayers": 80
-  },
-  "Sumari Insurgency v1": {
-    "map": "Sumari",
-    "gamemode": "Insurgency",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Sumari RAAS v1": {
-    "map": "Sumari",
-    "gamemode": "RAAS",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 36,
-    "maxPlayers": 80
-  },
-  "Sumari RAAS v2": {
-    "map": "Sumari",
-    "gamemode": "RAAS",
-    "version": "v2",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 36,
-    "maxPlayers": 80
-  },
-  "Sumari Skirmish v1": {
-    "map": "Sumari",
-    "gamemode": "Skirmish",
-    "version": "v1",
-    "night": false,
-    "middleFlags": ["Walled Courts"],
-    "minPlayers": 0,
-    "maxPlayers": 36
-  },
-  "Sumari TC v1": {
-    "map": "Sumari",
-    "gamemode": "TC",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 45,
-    "maxPlayers": 80
-  },
-  "Tallil Outskirts AAS v1": {
-    "map": "Tallil Outskirts",
-    "gamemode": "AAS",
-    "version": "v1",
-    "night": false,
-    "middleFlags": ["Abandoned Soviet Base"],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Tallil Outskirts Invasion v1": {
-    "map": "Tallil Outskirts",
-    "gamemode": "Invasion",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Tallil Outskirts Invasion v2": {
-    "map": "Tallil Outskirts",
-    "gamemode": "Invasion",
-    "version": "v2",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Tallil Outskirts RAAS v1": {
-    "map": "Tallil Outskirts",
-    "gamemode": "RAAS",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Tallil Outskirts RAAS v2": {
-    "map": "Tallil Outskirts",
-    "gamemode": "RAAS",
-    "version": "v2",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Tallil Outskirts RAAS v3": {
-    "map": "Tallil Outskirts",
-    "gamemode": "RAAS",
-    "version": "v3",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Tallil Outskirts RAAS v4": {
-    "map": "Tallil Outskirts",
-    "gamemode": "RAAS",
-    "version": "v4",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Tallil Outskirts Skirmish v1": {
-    "map": "Tallil Outskirts",
-    "gamemode": "Skirmish",
-    "version": "v1",
-    "night": false,
-    "middleFlags": ["Amiris Abode", "Riverside Khidhir"],
-    "minPlayers": 0,
-    "maxPlayers": 36
-  },
-  "Tallil Outskirts Skirmish v2": {
-    "map": "Tallil Outskirts",
-    "gamemode": "Skirmish",
-    "version": "v2",
-    "night": false,
-    "middleFlags": ["Central Barracks"],
-    "minPlayers": 0,
-    "maxPlayers": 36
-  },
-  "Tallil Outskirts Skirmish v3": {
-    "map": "Tallil Outskirts",
-    "gamemode": "Skirmish",
-    "version": "v3",
-    "night": false,
-    "middleFlags": ["Bwlyt Tawn"],
-    "minPlayers": 0,
-    "maxPlayers": 65
-  },
-  "Tallil Outskirts Tanks v1 Experimental": {
-    "map": "Tallil Outskirts",
-    "gamemode": "Tanks",
-    "version": "v1 Experimental",
-    "night": false,
-    "middleFlags": ["Central Airfield"],
-    "minPlayers": 0,
-    "maxPlayers": 80
-  },
-  "Tallil Outskirts Tanks v2 Experimental": {
-    "map": "Tallil Outskirts",
-    "gamemode": "Tanks",
-    "version": "v2 Experimental",
-    "night": false,
-    "middleFlags": ["Central Airfield"],
-    "minPlayers": 0,
-    "maxPlayers": 80
-  },
-  "Tallil Outskirts TC v1": {
-    "map": "Tallil Outskirts",
-    "gamemode": "TC",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Yehorivka AAS v3": {
-    "map": "Yehorivka",
-    "gamemode": "AAS",
-    "version": "v3",
-    "night": false,
-    "middleFlags": ["Yevhinivka"],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Yehorivka AAS v4": {
-    "map": "Yehorivka",
-    "gamemode": "AAS",
-    "version": "v4",
-    "night": false,
-    "middleFlags": ["West Mogilyovo","Bilovia"],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Yehorivka AAS v5": {
-    "map": "Yehorivka",
-    "gamemode": "AAS",
-    "version": "v5",
-    "night": false,
-    "middleFlags": ["West Mogilyovo", "Lower Mogilyovo"],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Yehorivka Destruction v1": {
-    "map": "Yehorivka",
-    "gamemode": "Destruction",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Yehorivka Invasion v1": {
-    "map": "Yehorivka",
-    "gamemode": "Invasion",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Yehorivka Invasion v2": {
-    "map": "Yehorivka",
-    "gamemode": "Invasion",
-    "version": "v2",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Yehorivka RAAS v1": {
-    "map": "Yehorivka",
-    "gamemode": "RAAS",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Yehorivka RAAS v2": {
-    "map": "Yehorivka",
-    "gamemode": "RAAS",
-    "version": "v2",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Yehorivka RAAS v3": {
-    "map": "Yehorivka",
-    "gamemode": "RAAS",
-    "version": "v3",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Yehorivka RAAS v4": {
-    "map": "Yehorivka",
-    "gamemode": "RAAS",
-    "version": "v4",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Yehorivka RAAS v5": {
-    "map": "Yehorivka",
-    "gamemode": "RAAS",
-    "version": "v5",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 65,
-    "maxPlayers": 80
-  },
-  "Yehorivka Skirmish v1": {
-    "map": "Yehorivka",
-    "gamemode": "Skirmish",
-    "version": "v1",
-    "night": false,
-    "middleFlags": ["Upper Petrivka"],
-    "minPlayers": 0,
-    "maxPlayers": 36
-  },
-  "Yehorivka Skirmish v2": {
-    "map": "Yehorivka",
-    "gamemode": "Skirmish",
-    "version": "v2",
-    "night": false,
-    "middleFlags": ["Thunderdome"],
-    "minPlayers": 0,
-    "maxPlayers": 36
-  },
-  "Yehorivka TC v1": {
-    "map": "Yehorivka",
-    "gamemode": "TC",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  },
-  "Yehorivka TC v2": {
-    "map": "Yehorivka",
-    "gamemode": "TC",
-    "version": "v2",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 54,
-    "maxPlayers": 80
-  }
+    "Al Basrah AAS v1": {
+        "map": "Al Basrah",
+        "mapSize": null,
+        "gamemode": "AAS",
+        "version": "v1",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 7,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "250"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "250"
+        },
+        "tanks": "x1 for INS",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Al Basrah Insurgency v1": {
+        "map": "Al Basrah",
+        "mapSize": "2x2 km",
+        "gamemode": "Insurgency",
+        "version": "v1",
+        "lighting": "Sunrise",
+        "info": "",
+        "commander": true,
+        "flagCount": 0,
+        "teamOne": {
+            "faction": "GB",
+            "tickets": "200"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "600"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Al Basrah Invasion v1": {
+        "map": "Al Basrah",
+        "mapSize": "2x2 km",
+        "gamemode": "Invasion",
+        "version": "v1",
+        "lighting": "Sunrise",
+        "info": "Random",
+        "commander": true,
+        "flagCount": 6,
+        "teamOne": {
+            "faction": "GB",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "900"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Al Basrah Invasion v2": {
+        "map": "Al Basrah",
+        "mapSize": "2x2 km",
+        "gamemode": "Invasion",
+        "version": "v2",
+        "lighting": "Sunny Mid Day",
+        "info": "Random",
+        "commander": true,
+        "flagCount": 6,
+        "teamOne": {
+            "faction": "GB",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "900"
+        },
+        "tanks": "x1 per team",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Al Basrah RAAS v1": {
+        "map": "Al Basrah",
+        "mapSize": "2x2 km",
+        "gamemode": "RAAS",
+        "version": "v1",
+        "lighting": "Sunny Mid Day",
+        "info": "Lanes",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "MIL",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "300"
+        },
+        "tanks": "x1 per team, 30min delay",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Al Basrah Skirmish v1": {
+        "map": "Al Basrah",
+        "mapSize": "2x2 km",
+        "gamemode": "Skirmish",
+        "version": "v1",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": false,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "GB",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "150"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Al Basrah Skirmish v2": {
+        "map": "Al Basrah",
+        "mapSize": "2x2 km",
+        "gamemode": "Skirmish",
+        "version": "v2",
+        "lighting": "Sunrise",
+        "info": "",
+        "commander": false,
+        "flagCount": 4,
+        "teamOne": {
+            "faction": "ML",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "150"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Al Basrah TC v1": {
+        "map": "Al Basrah",
+        "mapSize": "2x2 km",
+        "gamemode": "TC",
+        "version": "v1",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 67,
+        "teamOne": {
+            "faction": "GB",
+            "tickets": "400"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "400"
+        },
+        "tanks": "x1 for INS, 30 min delay",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Al Basrah TC v2": {
+        "map": "Al Basrah",
+        "mapSize": "2x2 km",
+        "gamemode": "TC",
+        "version": "v2",
+        "lighting": "Sunrise",
+        "info": "",
+        "commander": true,
+        "flagCount": 53,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "400"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "400"
+        },
+        "tanks": "x1 for INS, 20 min delay",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Belaya AAS v1": {
+        "map": "Belaya",
+        "mapSize": "2x2 km",
+        "gamemode": "AAS",
+        "version": "v1",
+        "lighting": "Overcast",
+        "info": "",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "RU",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "MIL",
+            "tickets": "300"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Belaya Invasion v1": {
+        "map": "Belaya",
+        "mapSize": "2x4 km",
+        "gamemode": "Invasion",
+        "version": "v1",
+        "lighting": "Sunny Mid Day",
+        "info": "Random",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "RU",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "MIL",
+            "tickets": "800"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Belaya Invasion v2": {
+        "map": "Belaya",
+        "mapSize": "2x4 km",
+        "gamemode": "Invasion",
+        "version": "v2",
+        "lighting": "Overcast",
+        "info": "Random",
+        "commander": true,
+        "flagCount": 6,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "900"
+        },
+        "tanks": "x1 per team, 20min delay",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Belaya Invasion v3": {
+        "map": "Belaya",
+        "mapSize": "2x4 km",
+        "gamemode": "Invasion",
+        "version": "v3",
+        "lighting": "Overcast",
+        "info": "Random",
+        "commander": true,
+        "flagCount": 4,
+        "teamOne": {
+            "faction": "GB",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "700"
+        },
+        "tanks": "x1 per team, 20min delay",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Belaya RAAS v1": {
+        "map": "Belaya",
+        "mapSize": "2x4 km",
+        "gamemode": "RAAS",
+        "version": "v1",
+        "lighting": "Overcast",
+        "info": "Lanes",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "300"
+        },
+        "tanks": "x1 per team, 20min delay",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Belaya RAAS v2": {
+        "map": "Belaya",
+        "mapSize": "2x4 km",
+        "gamemode": "RAAS",
+        "version": "v2",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "MIL",
+            "tickets": "300"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Belaya RAAS v3": {
+        "map": "Belaya",
+        "mapSize": "2x4 km",
+        "gamemode": "RAAS",
+        "version": "v3",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "GB",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "MIL",
+            "tickets": "300"
+        },
+        "tanks": "x1 per team, 20min delay",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Belaya Skirmish v1": {
+        "map": "Belaya",
+        "mapSize": "2x4 km",
+        "gamemode": "Skirmish",
+        "version": "v1",
+        "lighting": "Overcast",
+        "info": "",
+        "commander": false,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "RU",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "MIL",
+            "tickets": "150"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Belaya TC v1": {
+        "map": "Belaya",
+        "mapSize": "2x4 km",
+        "gamemode": "TC",
+        "version": "v1",
+        "lighting": "Overcast",
+        "info": "",
+        "commander": true,
+        "flagCount": 67,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "400"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "400"
+        },
+        "tanks": "x1 per team, 20min delay",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Chora AAS v1": {
+        "map": "Chora",
+        "mapSize": "2x4 km",
+        "gamemode": "AAS",
+        "version": "v1",
+        "lighting": "Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 6,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "300"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Chora AAS v2": {
+        "map": "Chora",
+        "mapSize": "1x2 km",
+        "gamemode": "AAS",
+        "version": "v2",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "300"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Chora Insurgency v1": {
+        "map": "Chora",
+        "mapSize": "1x2 km",
+        "gamemode": "Insurgency",
+        "version": "v1",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 0,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "200"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "600"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Chora Invasion v1": {
+        "map": "Chora",
+        "mapSize": "1x2 km",
+        "gamemode": "Invasion",
+        "version": "v1",
+        "lighting": "Sunny Mid Day",
+        "info": "Random",
+        "commander": true,
+        "flagCount": 6,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "900"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Chora Invasion v2": {
+        "map": "Chora",
+        "mapSize": "1x2 km",
+        "gamemode": "Invasion",
+        "version": "v2",
+        "lighting": "Early Dawn (Dark)",
+        "info": "Random",
+        "commander": true,
+        "flagCount": 6,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "900"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Chora RAAS v1": {
+        "map": "Chora",
+        "mapSize": "1x2 km",
+        "gamemode": "RAAS",
+        "version": "v1",
+        "lighting": "Sunny Mid Day",
+        "info": "Lanes",
+        "commander": true,
+        "flagCount": 6,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "300"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Chora RAAS v2": {
+        "map": "Chora",
+        "mapSize": "1x2 km",
+        "gamemode": "RAAS",
+        "version": "v2",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "GB",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "300"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Chora Skirmish v1": {
+        "map": "Chora",
+        "mapSize": "1x2 km",
+        "gamemode": "Skirmish",
+        "version": "v1",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": false,
+        "flagCount": 4,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "150"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Chora TC v1": {
+        "map": "Chora",
+        "mapSize": "1x2 km",
+        "gamemode": "TC",
+        "version": "v1",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 54,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "400"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "400"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Fool's Road AAS v1": {
+        "map": "Fool's Road",
+        "mapSize": "1x2 km",
+        "gamemode": "AAS",
+        "version": "v1",
+        "lighting": "Sunny Afternoon",
+        "info": "",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "RUS",
+            "tickets": "250"
+        },
+        "teamTwo": {
+            "faction": "MIL",
+            "tickets": "250"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Fool's Road AAS v2": {
+        "map": "Fool's Road",
+        "mapSize": "2x2 km",
+        "gamemode": "AAS",
+        "version": "v2",
+        "lighting": "Sunny Afternoon",
+        "info": "",
+        "commander": true,
+        "flagCount": 7,
+        "teamOne": {
+            "faction": "GB",
+            "tickets": "250"
+        },
+        "teamTwo": {
+            "faction": "MIL",
+            "tickets": "250"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Fool's Road Destruction v1": {
+        "map": "Fool's Road",
+        "mapSize": "2x2 km",
+        "gamemode": "Destruction",
+        "version": "v1",
+        "lighting": "Sunny Afternoon",
+        "info": "",
+        "commander": true,
+        "flagCount": 0,
+        "teamOne": {
+            "faction": "RU",
+            "tickets": "200"
+        },
+        "teamTwo": {
+            "faction": "MIL",
+            "tickets": "1000"
+        },
+        "tanks": "x1 for RUS",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Fool's Road Invasion v1": {
+        "map": "Fool's Road",
+        "mapSize": "2x2 km",
+        "gamemode": "Invasion",
+        "version": "v1",
+        "lighting": "Sunny Afternoon",
+        "info": "Random",
+        "commander": true,
+        "flagCount": 4,
+        "teamOne": {
+            "faction": "GB",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "MIL",
+            "tickets": "700"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Fool's Road RAAS v1": {
+        "map": "Fool's Road",
+        "mapSize": "2x2 km",
+        "gamemode": "RAAS",
+        "version": "v1",
+        "lighting": "Sunny Afternoon",
+        "info": "Lanes",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "GB",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "MIL",
+            "tickets": "300"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Fool's Road RAAS v2": {
+        "map": "Fool's Road",
+        "mapSize": "2x2 km",
+        "gamemode": "RAAS",
+        "version": "v2",
+        "lighting": "Sunny Afternoon",
+        "info": "",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "GB",
+            "tickets": "250"
+        },
+        "teamTwo": {
+            "faction": "MIL",
+            "tickets": "250"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Fool's Road RAAS v3": {
+        "map": "Fool's Road",
+        "mapSize": "2x2 km",
+        "gamemode": "RAAS",
+        "version": "v3",
+        "lighting": "Overcast",
+        "info": "",
+        "commander": true,
+        "flagCount": 6,
+        "teamOne": {
+            "faction": "GB",
+            "tickets": "250"
+        },
+        "teamTwo": {
+            "faction": "MIL",
+            "tickets": "250"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Fool's Road Skirmish v1": {
+        "map": "Fool's Road",
+        "mapSize": "2x2 km",
+        "gamemode": "Skirmish",
+        "version": "v1",
+        "lighting": "Sunny Afternoon",
+        "info": "",
+        "commander": false,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "150"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Fool's Road Skirmish v2": {
+        "map": "Fool's Road",
+        "mapSize": "2x2 km",
+        "gamemode": "Skirmish",
+        "version": "v2",
+        "lighting": "Sunny Afternoon",
+        "info": "",
+        "commander": false,
+        "flagCount": 3,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "150"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Fool's Road TC v1": {
+        "map": "Fool's Road",
+        "mapSize": "2x2 km",
+        "gamemode": "TC",
+        "version": "v1",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 30,
+        "teamOne": {
+            "faction": "RUS",
+            "tickets": "400"
+        },
+        "teamTwo": {
+            "faction": "MIL",
+            "tickets": "400"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Gorodok AAS v1": {
+        "map": "Gorodok",
+        "mapSize": "2x2 km",
+        "gamemode": "AAS",
+        "version": "v1",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 6,
+        "teamOne": {
+            "faction": "RUS",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "MIL",
+            "tickets": "300"
+        },
+        "tanks": "x1 for MIL",
+        "helicopters": "x1 for RUS, 20min delay",
+        "newForVersion": false
+    },
+    "Gorodok AAS v2": {
+        "map": "Gorodok",
+        "mapSize": "4x4 km",
+        "gamemode": "AAS",
+        "version": "v2",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 6,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "GB",
+            "tickets": "300"
+        },
+        "tanks": "x1 per team, 20min delay",
+        "helicopters": "x2 per team, 10min delay",
+        "newForVersion": false
+    },
+    "Gorodok Destruction v1": {
+        "map": "Gorodok",
+        "mapSize": "4x4 km",
+        "gamemode": "Destruction",
+        "version": "v1",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 0,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "200"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "1000"
+        },
+        "tanks": "x1 for RUS, 30min delay",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Gorodok Insurgency v1": {
+        "map": "Gorodok",
+        "mapSize": "4x4 km",
+        "gamemode": "Insurgency",
+        "version": "v1",
+        "lighting": "Sunset",
+        "info": "",
+        "commander": true,
+        "flagCount": 0,
+        "teamOne": {
+            "faction": "RUS",
+            "tickets": "200"
+        },
+        "teamTwo": {
+            "faction": "MIL",
+            "tickets": "600"
+        },
+        "tanks": "N/A",
+        "helicopters": "x1 for RUS, 20min delay",
+        "newForVersion": false
+    },
+    "Gorodok Invasion v1": {
+        "map": "Gorodok",
+        "mapSize": "4x4 km",
+        "gamemode": "Invasion",
+        "version": "v1",
+        "lighting": "Sunset",
+        "info": "Random",
+        "commander": true,
+        "flagCount": 6,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "900"
+        },
+        "tanks": "N/A",
+        "helicopters": "x2 for USA, x2 for RUS, 6min delay",
+        "newForVersion": false
+    },
+    "Gorodok Invasion v2": {
+        "map": "Gorodok",
+        "mapSize": "4x4 km",
+        "gamemode": "Invasion",
+        "version": "v2",
+        "lighting": "Sunset",
+        "info": "Random",
+        "commander": true,
+        "flagCount": 6,
+        "teamOne": {
+            "faction": "RUS",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "MIL",
+            "tickets": "900"
+        },
+        "tanks": "x1 for MIL, 20min delay",
+        "helicopters": "x2 for RUS, 6min delay",
+        "newForVersion": false
+    },
+    "Gorodok RAAS v1": {
+        "map": "Gorodok",
+        "mapSize": "4x4 km",
+        "gamemode": "RAAS",
+        "version": "v1",
+        "lighting": "Sunny Mid Day",
+        "info": "Lanes",
+        "commander": true,
+        "flagCount": 7,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "300"
+        },
+        "tanks": "x1 per team, 20min delay",
+        "helicopters": "x2 per team",
+        "newForVersion": false
+    },
+    "Gorodok RAAS v2": {
+        "map": "Gorodok",
+        "mapSize": "4x4 km",
+        "gamemode": "RAAS",
+        "version": "v2",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 6,
+        "teamOne": {
+            "faction": "GB",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "300"
+        },
+        "tanks": "x1 per team, 20min delay",
+        "helicopters": "x2 per team",
+        "newForVersion": false
+    },
+    "Gorodok RAAS v3": {
+        "map": "Gorodok",
+        "mapSize": "4x4 km",
+        "gamemode": "RAAS",
+        "version": "v3",
+        "lighting": "Sunset",
+        "info": "",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "300"
+        },
+        "tanks": "x1 per team, 20min delay",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Gorodok RAAS v4": {
+        "map": "Gorodok",
+        "mapSize": "4x4 km",
+        "gamemode": "RAAS",
+        "version": "v4",
+        "lighting": "Sunset",
+        "info": "",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "300"
+        },
+        "tanks": "x1 per team, 15min delay",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Gorodok RAAS v5": {
+        "map": "Gorodok",
+        "mapSize": "4x4 km",
+        "gamemode": "RAAS",
+        "version": "v5",
+        "lighting": "Sunset",
+        "info": "",
+        "commander": true,
+        "flagCount": 7,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "300"
+        },
+        "tanks": "x1 per team, 20min delay",
+        "helicopters": "x2 per team",
+        "newForVersion": false
+    },
+    "Gorodok Skirmish v1": {
+        "map": "Gorodok",
+        "mapSize": "4x4 km",
+        "gamemode": "Skirmish",
+        "version": "v1",
+        "lighting": "Overcast",
+        "info": "",
+        "commander": false,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "RUS",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "MIL",
+            "tickets": "150"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Gorodok TC v1": {
+        "map": "Gorodok",
+        "mapSize": "4x4 km",
+        "gamemode": "TC",
+        "version": "v1",
+        "lighting": "Sunset",
+        "info": "",
+        "commander": true,
+        "flagCount": 64,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "400"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "400"
+        },
+        "tanks": "N/A",
+        "helicopters": "x1 per team",
+        "newForVersion": false
+    },
+    "Jensen's Range Training v1": {
+        "map": "Jensen's Range",
+        "mapSize": "4x4 km",
+        "gamemode": "Training",
+        "version": "v1",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 0,
+        "teamOne": {
+            "faction": "GB",
+            "tickets": "99999"
+        },
+        "teamTwo": {
+            "faction": "MIL",
+            "tickets": "99999"
+        },
+        "tanks": "x1 per team",
+        "helicopters": "x1 per team",
+        "newForVersion": false
+    },
+    "Jensen's Range Training v2": {
+        "map": "Jensen's Range",
+        "mapSize": "4x4 km",
+        "gamemode": "Training",
+        "version": "v2",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 0,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "99999"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "99999"
+        },
+        "tanks": "x1 per team",
+        "helicopters": "x1 per team",
+        "newForVersion": false
+    },
+    "Jensen's Range Training v3": {
+        "map": "Jensen's Range",
+        "mapSize": "4x4 km",
+        "gamemode": "Training",
+        "version": "v3",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 0,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "99999"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "99999"
+        },
+        "tanks": "x1 per team",
+        "helicopters": "x1 per team",
+        "newForVersion": false
+    },
+    "Kamdesh AAS v1": {
+        "map": "Kamdesh",
+        "mapSize": "4x4 km",
+        "gamemode": "AAS",
+        "version": "v1",
+        "lighting": "Stormy",
+        "info": "",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "GB",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "RU_DE",
+            "tickets": "300"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Kamdesh Insurgency v1": {
+        "map": "Kamdesh",
+        "mapSize": "4x4 km",
+        "gamemode": "Insurgency",
+        "version": "v1",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 0,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "200"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "600"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Kamdesh Insurgency v2": {
+        "map": "Kamdesh",
+        "mapSize": "4x4 km",
+        "gamemode": "Insurgency",
+        "version": "v2",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 0,
+        "teamOne": {
+            "faction": "GB",
+            "tickets": "200"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "600"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Kamdesh Invasion v1": {
+        "map": "Kamdesh",
+        "mapSize": "4x4 km",
+        "gamemode": "Invasion",
+        "version": "v1",
+        "lighting": "Stormy",
+        "info": "Random",
+        "commander": true,
+        "flagCount": 6,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "900"
+        },
+        "tanks": "N/A",
+        "helicopters": "x1 for USA, 40min delay",
+        "newForVersion": false
+    },
+    "Kamdesh Invasion v2": {
+        "map": "Kamdesh",
+        "mapSize": "4x4 km",
+        "gamemode": "Invasion",
+        "version": "v2",
+        "lighting": "Sunset",
+        "info": "Random",
+        "commander": true,
+        "flagCount": 6,
+        "teamOne": {
+            "faction": "GB",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "900"
+        },
+        "tanks": "x1 per team",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Kamdesh Invasion v3": {
+        "map": "Kamdesh",
+        "mapSize": "4x4 km",
+        "gamemode": "Invasion",
+        "version": "v3",
+        "lighting": "Sunny Mid Day",
+        "info": "Random",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "800"
+        },
+        "tanks": "x1 for INS, 20min delay",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Kamdesh RAAS v1": {
+        "map": "Kamdesh",
+        "mapSize": "4x4 km",
+        "gamemode": "RAAS",
+        "version": "v1",
+        "lighting": "Stormy",
+        "info": "Lanes",
+        "commander": true,
+        "flagCount": 6,
+        "teamOne": {
+            "faction": "MIL",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "300"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Kamdesh RAAS v2": {
+        "map": "Kamdesh",
+        "mapSize": "4x4 km",
+        "gamemode": "RAAS",
+        "version": "v2",
+        "lighting": "Stormy",
+        "info": "",
+        "commander": true,
+        "flagCount": 7,
+        "teamOne": {
+            "faction": "GB",
+            "tickets": "250"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "250"
+        },
+        "tanks": "x1 per team, 20min delay",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Kamdesh RAAS v3": {
+        "map": "Kamdesh",
+        "mapSize": "4x4 km",
+        "gamemode": "RAAS",
+        "version": "v3",
+        "lighting": "Stormy",
+        "info": "",
+        "commander": true,
+        "flagCount": 7,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "300"
+        },
+        "tanks": "x1 per team, 20min delay",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Kamdesh RAAS v4": {
+        "map": "Kamdesh",
+        "mapSize": "4x4 km",
+        "gamemode": "RAAS",
+        "version": "v4",
+        "lighting": "Stormy",
+        "info": "",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "GB",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "300"
+        },
+        "tanks": "x1 for INS, 10min delay",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Kamdesh Skirmish v1": {
+        "map": "Kamdesh",
+        "mapSize": "4x4 km",
+        "gamemode": "Skirmish",
+        "version": "v1",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": false,
+        "flagCount": 3,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "GB",
+            "tickets": "150"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Kamdesh TC v1": {
+        "map": "Kamdesh",
+        "mapSize": "4x4 km",
+        "gamemode": "TC",
+        "version": "v1",
+        "lighting": "Stormy",
+        "info": "",
+        "commander": true,
+        "flagCount": 43,
+        "teamOne": {
+            "faction": "GB",
+            "tickets": "400"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "400"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Kamdesh TC v2": {
+        "map": "Kamdesh",
+        "mapSize": "4x4 km",
+        "gamemode": "TC",
+        "version": "v2",
+        "lighting": "Stormy",
+        "info": "",
+        "commander": true,
+        "flagCount": 44,
+        "teamOne": {
+            "faction": "MIL",
+            "tickets": "400"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "400"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Kohat AAS v1": {
+        "map": "Kohat",
+        "mapSize": "4x4 km",
+        "gamemode": "AAS",
+        "version": "v1",
+        "lighting": "Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 7,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "300"
+        },
+        "tanks": "N/A",
+        "helicopters": "x1 per team",
+        "newForVersion": false
+    },
+    "Kohat Insurgency v1": {
+        "map": "Kohat",
+        "mapSize": "4x4 km",
+        "gamemode": "Insurgency",
+        "version": "v1",
+        "lighting": "Early Morning",
+        "info": "",
+        "commander": true,
+        "flagCount": 0,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "200"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "600"
+        },
+        "tanks": "N/A",
+        "helicopters": "x2 for USA",
+        "newForVersion": false
+    },
+    "Kohat Invasion v1": {
+        "map": "Kohat",
+        "mapSize": "4x4 km",
+        "gamemode": "Invasion",
+        "version": "v1",
+        "lighting": "Sunny Mid Day",
+        "info": "Random",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "800"
+        },
+        "tanks": "x1 for INS, 10min delay",
+        "helicopters": "x1 for USA",
+        "newForVersion": false
+    },
+    "Kohat Invasion v2": {
+        "map": "Kohat",
+        "mapSize": "4x4 km",
+        "gamemode": "Invasion",
+        "version": "v2",
+        "lighting": "Sunny Mid Day",
+        "info": "Random",
+        "commander": true,
+        "flagCount": 4,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "700"
+        },
+        "tanks": "x1 for INS, 10 min delay",
+        "helicopters": "x1 for USA, 6min delay",
+        "newForVersion": false
+    },
+    "Kohat RAAS v1": {
+        "map": "Kohat",
+        "mapSize": "4x4 km",
+        "gamemode": "RAAS",
+        "version": "v1",
+        "lighting": "Sunny Mid Day",
+        "info": "Lanes",
+        "commander": true,
+        "flagCount": 7,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "300"
+        },
+        "tanks": "N/A",
+        "helicopters": "x2 per team",
+        "newForVersion": false
+    },
+    "Kohat RAAS v2": {
+        "map": "Kohat",
+        "mapSize": "4x4 km",
+        "gamemode": "RAAS",
+        "version": "v2",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 6,
+        "teamOne": {
+            "faction": "GB",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "300"
+        },
+        "tanks": "N/A",
+        "helicopters": "x1 per team",
+        "newForVersion": false
+    },
+    "Kohat RAAS v3": {
+        "map": "Kohat",
+        "mapSize": "4x4 km",
+        "gamemode": "RAAS",
+        "version": "v3",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "RUS_DE",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "300"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Kohat RAAS v4": {
+        "map": "Kohat",
+        "mapSize": "4x4 km",
+        "gamemode": "RAAS",
+        "version": "v4",
+        "lighting": "Early Morning",
+        "info": "",
+        "commander": true,
+        "flagCount": 8,
+        "teamOne": {
+            "faction": "GB",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "300"
+        },
+        "tanks": "N/A",
+        "helicopters": "x2 per team",
+        "newForVersion": false
+    },
+    "Kohat Skirmish v1": {
+        "map": "Kohat",
+        "mapSize": "4x4 km",
+        "gamemode": "Skirmish",
+        "version": "v1",
+        "lighting": "Early Morning",
+        "info": "",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "GB",
+            "tickets": "150"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Kohat TC v1": {
+        "map": "Kohat",
+        "mapSize": "4x4 km",
+        "gamemode": "TC",
+        "version": "v1",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 39,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "400"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "400"
+        },
+        "tanks": "N/A",
+        "helicopters": "x2 per team",
+        "newForVersion": false
+    },
+    "Kokan AAS v1": {
+        "map": "Kokan",
+        "mapSize": "4x4 km",
+        "gamemode": "AAS",
+        "version": "v1",
+        "lighting": "Overcast",
+        "info": "",
+        "commander": true,
+        "flagCount": 7,
+        "teamOne": {
+            "faction": "GB",
+            "tickets": "250"
+        },
+        "teamTwo": {
+            "faction": "RU",
+            "tickets": "250"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Kokan Insurgency v1": {
+        "map": "Kokan",
+        "mapSize": "2x2 km",
+        "gamemode": "Insurgency",
+        "version": "v1",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 0,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "200"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "600"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Kokan Invasion v1": {
+        "map": "Kokan",
+        "mapSize": "2x2 km",
+        "gamemode": "Invasion",
+        "version": "v1",
+        "lighting": "Sunrise",
+        "info": "Random",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "RUS_DE",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "800"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Kokan RAAS v1": {
+        "map": "Kokan",
+        "mapSize": "2x2 km",
+        "gamemode": "RAAS",
+        "version": "v1",
+        "lighting": "Overcast",
+        "info": "",
+        "commander": true,
+        "flagCount": 6,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "250"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "250"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Kokan RAAS v2": {
+        "map": "Kokan",
+        "mapSize": "2x2 km",
+        "gamemode": "RAAS",
+        "version": "v2",
+        "lighting": "Sunrise",
+        "info": "",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "RUS_DE",
+            "tickets": "250"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "250"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Kokan Skirmish v1": {
+        "map": "Kokan",
+        "mapSize": "2x2 km",
+        "gamemode": "Skirmish",
+        "version": "v1",
+        "lighting": "Overcast",
+        "info": "",
+        "commander": false,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "MIL",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "150"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Kokan TC v1": {
+        "map": "Kokan",
+        "mapSize": "2x2 km",
+        "gamemode": "TC",
+        "version": "v1",
+        "lighting": "Overcast",
+        "info": "",
+        "commander": true,
+        "flagCount": 37,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "400"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "400"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Logar AAS v1": {
+        "map": "Logar",
+        "mapSize": "2x2 km",
+        "gamemode": "AAS",
+        "version": "v1",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": false,
+        "flagCount": 8,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "200"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "200"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Logar AAS v2": {
+        "map": "Logar",
+        "mapSize": "1x1 km",
+        "gamemode": "AAS",
+        "version": "v2",
+        "lighting": "Overcast",
+        "info": "",
+        "commander": false,
+        "flagCount": 6,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "200"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "200"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Logar Insurgency v1": {
+        "map": "Logar",
+        "mapSize": "1x1 km",
+        "gamemode": "Insurgency",
+        "version": "v1",
+        "lighting": "Evening",
+        "info": "",
+        "commander": false,
+        "flagCount": 0,
+        "teamOne": {
+            "faction": "RUS_DE",
+            "tickets": "200"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "800"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Logar RAAS v1": {
+        "map": "Logar",
+        "mapSize": "1x1 km",
+        "gamemode": "RAAS",
+        "version": "v1",
+        "lighting": "Sunny Mid Day",
+        "info": "Lanes",
+        "commander": false,
+        "flagCount": 7,
+        "teamOne": {
+            "faction": "RUS_DE",
+            "tickets": "250"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "250"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Logar Skirmish v1": {
+        "map": "Logar",
+        "mapSize": "1x1 km",
+        "gamemode": "Skirmish",
+        "version": "v1",
+        "lighting": "Evening",
+        "info": "",
+        "commander": false,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "MIL",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "150"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Logar TC v1": {
+        "map": "Logar",
+        "mapSize": "1x1 km",
+        "gamemode": "TC",
+        "version": "v1",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": false,
+        "flagCount": 42,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "400"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "400"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Mestia AAS v1": {
+        "map": "Mestia",
+        "mapSize": "1x1 km",
+        "gamemode": "AAS",
+        "version": "v1",
+        "lighting": "Sunset",
+        "info": "",
+        "commander": true,
+        "flagCount": 7,
+        "teamOne": {
+            "faction": "RUS",
+            "tickets": "250"
+        },
+        "teamTwo": {
+            "faction": "MIL",
+            "tickets": "250"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Mestia Invasion v1": {
+        "map": "Mestia",
+        "mapSize": "2x2 km",
+        "gamemode": "Invasion",
+        "version": "v1",
+        "lighting": "Sunset",
+        "info": "Random",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "RUS",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "MIL",
+            "tickets": "800"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Mestia Invasion v2": {
+        "map": "Mestia",
+        "mapSize": "2x2 km",
+        "gamemode": "Invasion",
+        "version": "v2",
+        "lighting": "Sunny Afternoon",
+        "info": "Random",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "MIL",
+            "tickets": "800"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Mestia RAAS v1": {
+        "map": "Mestia",
+        "mapSize": "2x2 km",
+        "gamemode": "RAAS",
+        "version": "v1",
+        "lighting": "Overcast",
+        "info": "",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "250"
+        },
+        "teamTwo": {
+            "faction": "MIL",
+            "tickets": "250"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Mestia Skirmish v1": {
+        "map": "Mestia",
+        "mapSize": "2x2 km",
+        "gamemode": "Skirmish",
+        "version": "v1",
+        "lighting": "Sunset",
+        "info": "",
+        "commander": false,
+        "flagCount": 4,
+        "teamOne": {
+            "faction": "RUS",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "MIL",
+            "tickets": "150"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Mestia TC v1": {
+        "map": "Mestia",
+        "mapSize": "2x2 km",
+        "gamemode": "TC",
+        "version": "v1",
+        "lighting": "Overcast",
+        "info": "",
+        "commander": true,
+        "flagCount": 22,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "400"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "400"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Mutaha AAS v1": {
+        "map": "Mutaha",
+        "mapSize": "2x2 km",
+        "gamemode": "AAS",
+        "version": "v1",
+        "lighting": "Sunrise",
+        "info": "",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "300"
+        },
+        "tanks": "x1 per team, 20min delay",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Mutaha Invasion v1": {
+        "map": "Mutaha",
+        "mapSize": "2x2 km",
+        "gamemode": "Invasion",
+        "version": "v1",
+        "lighting": "Dusk",
+        "info": "Random",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "GB",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "800"
+        },
+        "tanks": "x1 per team, 20min delay",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Mutaha RAAS v1": {
+        "map": "Mutaha",
+        "mapSize": "2x2 km",
+        "gamemode": "RAAS",
+        "version": "v1",
+        "lighting": "Sunny Mid Day",
+        "info": "Lanes",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "300"
+        },
+        "tanks": "x1 per team, 20min delay",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Mutaha Skirmish v1": {
+        "map": "Mutaha",
+        "mapSize": "2x2 km",
+        "gamemode": "Skirmish",
+        "version": "v1",
+        "lighting": "Sandstorm",
+        "info": "",
+        "commander": false,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "150"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Mutaha TC v1": {
+        "map": "Mutaha",
+        "mapSize": "2x2 km",
+        "gamemode": "TC",
+        "version": "v1",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 19,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "300"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Mutaha TC v2": {
+        "map": "Mutaha",
+        "mapSize": "2x2 km",
+        "gamemode": "TC",
+        "version": "v2",
+        "lighting": "Sunrise",
+        "info": "",
+        "commander": true,
+        "flagCount": 36,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "400"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "400"
+        },
+        "tanks": "x1 per team, 20min delay",
+        "helicopters": "x1 per team",
+        "newForVersion": false
+    },
+    "Narva AAS v1": {
+        "map": "Narva",
+        "mapSize": "2x2 km",
+        "gamemode": "AAS",
+        "version": "v1",
+        "lighting": "Mixed Clouds Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 6,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "300"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Narva AAS v2": {
+        "map": "Narva",
+        "mapSize": "2x2 km",
+        "gamemode": "AAS",
+        "version": "v2",
+        "lighting": "Mixed Clouds Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 6,
+        "teamOne": {
+            "faction": "GB",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "300"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Narva AAS v3": {
+        "map": "Narva",
+        "mapSize": "2x2 km",
+        "gamemode": "AAS",
+        "version": "v3",
+        "lighting": "Foggy",
+        "info": "",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "300"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Narva Destruction v1": {
+        "map": "Narva",
+        "mapSize": "2x2 km",
+        "gamemode": "Destruction",
+        "version": "v1",
+        "lighting": "Mixed Clouds Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 0,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "1000"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "200"
+        },
+        "tanks": "x1 for RUS",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Narva Invasion v1": {
+        "map": "Narva",
+        "mapSize": "2x2 km",
+        "gamemode": "Invasion",
+        "version": "v1",
+        "lighting": "Sunrise",
+        "info": "Random",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "800"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "150"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Narva Invasion v2": {
+        "map": "Narva",
+        "mapSize": "2x2 km",
+        "gamemode": "Invasion",
+        "version": "v2",
+        "lighting": "Mixed Clouds Mid Day",
+        "info": "Random",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "GB",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "800"
+        },
+        "tanks": "x1 per team, 20min delay",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Narva RAAS v1": {
+        "map": "Narva",
+        "mapSize": "2x2 km",
+        "gamemode": "RAAS",
+        "version": "v1",
+        "lighting": "Mixed Clouds Mid Day",
+        "info": "Lanes",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "300"
+        },
+        "tanks": "x1 per team, 30min delay",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Narva Skirmish v1": {
+        "map": "Narva",
+        "mapSize": "2x2 km",
+        "gamemode": "Skirmish",
+        "version": "v1",
+        "lighting": "Overcast",
+        "info": "",
+        "commander": false,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "150"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Narva TC v1": {
+        "map": "Narva",
+        "mapSize": "2x2 km",
+        "gamemode": "TC",
+        "version": "v1",
+        "lighting": "Foggy",
+        "info": "",
+        "commander": true,
+        "flagCount": 30,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "400"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "400"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Narva TC v2": {
+        "map": "Narva",
+        "mapSize": "2x2 km",
+        "gamemode": "TC",
+        "version": "v2",
+        "lighting": "Mixed Clouds Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 56,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "400"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "400"
+        },
+        "tanks": "x1 per team, 30min delay",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Skorpo AAS v1": {
+        "map": "Skorpo",
+        "mapSize": "2x2 km",
+        "gamemode": "AAS",
+        "version": "v1",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "300"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Skorpo Invasion v1": {
+        "map": "Skorpo",
+        "mapSize": "5x5 km",
+        "gamemode": "Invasion",
+        "version": "v1",
+        "lighting": "Sunset",
+        "info": "Random",
+        "commander": true,
+        "flagCount": 6,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "MIL",
+            "tickets": "900"
+        },
+        "tanks": "x2 for USA",
+        "helicopters": "x3 for USA",
+        "newForVersion": false
+    },
+    "Skorpo Invasion v2": {
+        "map": "Skorpo",
+        "mapSize": "5x5 km",
+        "gamemode": "Invasion",
+        "version": "v2",
+        "lighting": "Foggy",
+        "info": "Random",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "RUS",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "MIL",
+            "tickets": "800"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Skorpo RAAS v1": {
+        "map": "Skorpo",
+        "mapSize": "5x5 km",
+        "gamemode": "RAAS",
+        "version": "v1",
+        "lighting": "Foggy",
+        "info": "Lanes",
+        "commander": true,
+        "flagCount": 7,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "350"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "350"
+        },
+        "tanks": "x1 per team, 20min delay",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Skorpo RAAS v2": {
+        "map": "Skorpo",
+        "mapSize": "5x5 km",
+        "gamemode": "RAAS",
+        "version": "v2",
+        "lighting": "Stormy",
+        "info": "Lanes",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "350"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "350"
+        },
+        "tanks": "x1 per team, 30min delay",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Skorpo RAAS v3": {
+        "map": "Skorpo",
+        "mapSize": "5x5 km",
+        "gamemode": "RAAS",
+        "version": "v3",
+        "lighting": "Stormy",
+        "info": "Lanes",
+        "commander": true,
+        "flagCount": 6,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "350"
+        },
+        "teamTwo": {
+            "faction": "MIL",
+            "tickets": "350"
+        },
+        "tanks": "x1 per team, 30min delay",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Skorpo RAAS v4": {
+        "map": "Skorpo",
+        "mapSize": "5x5 km",
+        "gamemode": "RAAS",
+        "version": "v4",
+        "lighting": "Stormy",
+        "info": "Lanes",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "350"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "350"
+        },
+        "tanks": "x1 per team, 20min delay",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Skorpo Skirmish v1": {
+        "map": "Skorpo",
+        "mapSize": "5x5 km",
+        "gamemode": "Skirmish",
+        "version": "v1",
+        "lighting": "Foggy",
+        "info": "",
+        "commander": false,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "150"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Skorpo TC v1": {
+        "map": "Skorpo",
+        "mapSize": "5x5 km",
+        "gamemode": "TC",
+        "version": "v1",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 34,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "400"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "400"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Skorpo TC v2": {
+        "map": "Skorpo",
+        "mapSize": "5x5 km",
+        "gamemode": "TC",
+        "version": "v2",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 41,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "400"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "400"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Skorpo TC v3": {
+        "map": "Skorpo",
+        "mapSize": "5x5 km",
+        "gamemode": "TC",
+        "version": "v3",
+        "lighting": "Foggy",
+        "info": "",
+        "commander": true,
+        "flagCount": 110,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "500"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "500"
+        },
+        "tanks": "x1 per team, 20min delay",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Sumari AAS v1": {
+        "map": "Sumari",
+        "mapSize": "5x5 km",
+        "gamemode": "AAS",
+        "version": "v1",
+        "lighting": "Ultra Dynamic Sky",
+        "info": "",
+        "commander": false,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "GB",
+            "tickets": "250"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "250"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Sumari Invasion v1": {
+        "map": "Sumari",
+        "mapSize": "1x1 km",
+        "gamemode": "Invasion",
+        "version": "v1",
+        "lighting": "Sunrise",
+        "info": "Random",
+        "commander": false,
+        "flagCount": 6,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "900"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Sumari Insurgency v1": {
+        "map": "Sumari",
+        "mapSize": "1x1 km",
+        "gamemode": "Insurgency",
+        "version": "v1",
+        "lighting": "Sunrise",
+        "info": "",
+        "commander": false,
+        "flagCount": 0,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "200"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "600"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Sumari RAAS v1": {
+        "map": "Sumari",
+        "mapSize": "1x1 km",
+        "gamemode": "RAAS",
+        "version": "v1",
+        "lighting": "Mixed Clouds Mid Day",
+        "info": "",
+        "commander": false,
+        "flagCount": 6,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "250"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "250"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Sumari RAAS v2": {
+        "map": "Sumari",
+        "mapSize": "1x1 km",
+        "gamemode": "RAAS",
+        "version": "v2",
+        "lighting": "Mixed Clouds Mid Day",
+        "info": "",
+        "commander": false,
+        "flagCount": 6,
+        "teamOne": {
+            "faction": "GB",
+            "tickets": "250"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "250"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Sumari Skirmish v1": {
+        "map": "Sumari",
+        "mapSize": "1x1 km",
+        "gamemode": "Skirmish",
+        "version": "v1",
+        "lighting": "Full Moon (Dark)",
+        "info": "",
+        "commander": false,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "MIL",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "150"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Sumari TC v1": {
+        "map": "Sumari",
+        "mapSize": "1x1 km",
+        "gamemode": "TC",
+        "version": "v1",
+        "lighting": "Mixed Clouds Mid Day",
+        "info": "",
+        "commander": false,
+        "flagCount": 24,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "300"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Tallil Outskirts AAS v1": {
+        "map": "Tallil Outskirts",
+        "mapSize": "1x1 km",
+        "gamemode": "AAS",
+        "version": "v1",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 7,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "350"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "350"
+        },
+        "tanks": "x2 per team, 20min delay",
+        "helicopters": "x2 per team",
+        "newForVersion": false
+    },
+    "Tallil Outskirts Invasion v1": {
+        "map": "Tallil Outskirts",
+        "mapSize": "4x4 km",
+        "gamemode": "Invasion",
+        "version": "v1",
+        "lighting": "Morning Sunrise",
+        "info": "Random",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "800"
+        },
+        "tanks": "x2 per team, 5 min delay for RUS",
+        "helicopters": "x2 per team, 5m delay for RUS",
+        "newForVersion": false
+    },
+    "Tallil Outskirts Invasion v2": {
+        "map": "Tallil Outskirts",
+        "mapSize": "4x4 km",
+        "gamemode": "Invasion",
+        "version": "v2",
+        "lighting": "Morning Sunrise",
+        "info": "Random",
+        "commander": true,
+        "flagCount": 3,
+        "teamOne": {
+            "faction": "RUS_DE",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "700"
+        },
+        "tanks": "x1 for INS 20 min delay",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Tallil Outskirts Invasion v3": {
+        "map": "Tallil Outskirts",
+        "mapSize": "4x4 km",
+        "gamemode": "Invasion",
+        "version": "v3",
+        "lighting": "Morning Sunrise",
+        "info": "Random",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "800"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Tallil Outskirts RAAS v1": {
+        "map": "Tallil Outskirts",
+        "mapSize": "4x4 km",
+        "gamemode": "RAAS",
+        "version": "v1",
+        "lighting": "Sunny Mid Day",
+        "info": "Lanes",
+        "commander": true,
+        "flagCount": 6,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "350"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "350"
+        },
+        "tanks": "x2 per team, 20min delay",
+        "helicopters": "x2 per team",
+        "newForVersion": false
+    },
+    "Tallil Outskirts RAAS v2": {
+        "map": "Tallil Outskirts",
+        "mapSize": "4x4 km",
+        "gamemode": "RAAS",
+        "version": "v2",
+        "lighting": "Morning Sunrise",
+        "info": "",
+        "commander": true,
+        "flagCount": 6,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "300"
+        },
+        "tanks": "N/A",
+        "helicopters": "x2 per team",
+        "newForVersion": false
+    },
+    "Tallil Outskirts RAAS v3": {
+        "map": "Tallil Outskirts",
+        "mapSize": "4x4 km",
+        "gamemode": "RAAS",
+        "version": "v3",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "300"
+        },
+        "tanks": "x1 per team",
+        "helicopters": "x2 per team",
+        "newForVersion": false
+    },
+    "Tallil Outskirts RAAS v4": {
+        "map": "Tallil Outskirts",
+        "mapSize": "4x4 km",
+        "gamemode": "RAAS",
+        "version": "v4",
+        "lighting": "Sunny Mid Day",
+        "info": "Lanes",
+        "commander": true,
+        "flagCount": 6,
+        "teamOne": {
+            "faction": "GB",
+            "tickets": "350"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "350"
+        },
+        "tanks": "x2 per team, 20min delay",
+        "helicopters": "x2 per team",
+        "newForVersion": false
+    },
+    "Tallil Outskirts Skirmish v1": {
+        "map": "Tallil Outskirts",
+        "mapSize": "4x4 km",
+        "gamemode": "Skirmish",
+        "version": "v1",
+        "lighting": "Sandstorm",
+        "info": "",
+        "commander": false,
+        "flagCount": 6,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "150"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Tallil Outskirts Skirmish v2": {
+        "map": "Tallil Outskirts",
+        "mapSize": "4x4 km",
+        "gamemode": "Skirmish",
+        "version": "v2",
+        "lighting": "Morning Sunrise",
+        "info": "",
+        "commander": false,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "150"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Tallil Outskirts Skirmish v3": {
+        "map": "Tallil Outskirts",
+        "mapSize": "4x4 km",
+        "gamemode": "Skirmish",
+        "version": "v3",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": false,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "MIL",
+            "tickets": "200"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "200"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Tallil Outskirts Tanks v1": {
+        "map": "Tallil Outskirts",
+        "mapSize": "4x4 km",
+        "gamemode": "Tanks",
+        "version": "v1",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "300"
+        },
+        "tanks": "x6 per team",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Tallil Outskirts Tanks v2": {
+        "map": "Tallil Outskirts",
+        "mapSize": "4x4 km",
+        "gamemode": "Tanks",
+        "version": "v2",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "GB",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "300"
+        },
+        "tanks": "x6 per team",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Tallil Outskirts TC v1": {
+        "map": "Tallil Outskirts",
+        "mapSize": "4x4 km",
+        "gamemode": "TC",
+        "version": "v1",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 64,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "500"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "500"
+        },
+        "tanks": "x2 per team, 20min delay",
+        "helicopters": "x2 per team",
+        "newForVersion": false
+    },
+    "Tutorials Infantry Training Tutorial": {
+        "map": "Tutorials",
+        "mapSize": "4x4 km",
+        "gamemode": "Infantry",
+        "version": "Training",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": false,
+        "flagCount": 0,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "N/A"
+        },
+        "teamTwo": {
+            "faction": "N/A",
+            "tickets": "N/A"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Tutorials Helicopter Training Tutorial": {
+        "map": "Tutorials",
+        "mapSize": "4x4 km",
+        "gamemode": "Helicopter",
+        "version": "Training",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": false,
+        "flagCount": 0,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "N/A"
+        },
+        "teamTwo": {
+            "faction": "N/A",
+            "tickets": "N/A"
+        },
+        "tanks": "N/A",
+        "helicopters": "x1",
+        "newForVersion": false
+    },
+    "Yehorivka AAS v1": {
+        "map": "Yehorivka",
+        "mapSize": "4x4 km",
+        "gamemode": "AAS",
+        "version": "v1",
+        "lighting": "Sunrise",
+        "info": "",
+        "commander": true,
+        "flagCount": 7,
+        "teamOne": {
+            "faction": "GB",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "300"
+        },
+        "tanks": "x1 per team, 20min delay",
+        "helicopters": "x2 per team",
+        "newForVersion": false
+    },
+    "Yehorivka AAS v2": {
+        "map": "Yehorivka",
+        "mapSize": "5x5 km",
+        "gamemode": "AAS",
+        "version": "v2",
+        "lighting": "Mixed Clouds Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 7,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "350"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "350"
+        },
+        "tanks": "x1 per team, 20min delay",
+        "helicopters": "x2 per team",
+        "newForVersion": false
+    },
+    "Yehorivka Destruction v1": {
+        "map": "Yehorivka",
+        "mapSize": "5x5 km",
+        "gamemode": "Destruction",
+        "version": "v1",
+        "lighting": "Mixed Clouds Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 0,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "200"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "1000"
+        },
+        "tanks": "x1 per team",
+        "helicopters": "x1 per team, 4m delay for RUS",
+        "newForVersion": false
+    },
+    "Yehorivka Invasion v1": {
+        "map": "Yehorivka",
+        "mapSize": "5x5 km",
+        "gamemode": "Invasion",
+        "version": "v1",
+        "lighting": "Sunrise",
+        "info": "Random",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "GB",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "MIL",
+            "tickets": "800"
+        },
+        "tanks": "x1 per team, 20min delay",
+        "helicopters": "x2 for GB",
+        "newForVersion": false
+    },
+    "Yehorivka Invasion v2": {
+        "map": "Yehorivka",
+        "mapSize": "5x5 km",
+        "gamemode": "Invasion",
+        "version": "v2",
+        "lighting": "Mixed Clouds Mid Day",
+        "info": "Random",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "800"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "150"
+        },
+        "tanks": "x1 per team",
+        "helicopters": "x2 per team, 2m delay for USA",
+        "newForVersion": false
+    },
+    "Yehorivka RAAS v1": {
+        "map": "Yehorivka",
+        "mapSize": "5x5 km",
+        "gamemode": "RAAS",
+        "version": "v1",
+        "lighting": "Mixed Clouds Mid Day",
+        "info": "Lanes",
+        "commander": true,
+        "flagCount": 7,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "350"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "350"
+        },
+        "tanks": "x2 per team, 20min delay",
+        "helicopters": "x2 per team",
+        "newForVersion": false
+    },
+    "Yehorivka RAAS v2": {
+        "map": "Yehorivka",
+        "mapSize": "5x5 km",
+        "gamemode": "RAAS",
+        "version": "v2",
+        "lighting": "Mixed Clouds Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "300"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Yehorivka RAAS v3": {
+        "map": "Yehorivka",
+        "mapSize": "5x5 km",
+        "gamemode": "RAAS",
+        "version": "v3",
+        "lighting": "Mixed Clouds Mid Day",
+        "info": "Lanes",
+        "commander": true,
+        "flagCount": 7,
+        "teamOne": {
+            "faction": "GB",
+            "tickets": "350"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "350"
+        },
+        "tanks": "x1 per team, 20min delay",
+        "helicopters": "x2 per team",
+        "newForVersion": false
+    },
+    "Yehorivka RAAS v4": {
+        "map": "Yehorivka",
+        "mapSize": "5x5 km",
+        "gamemode": "RAAS",
+        "version": "v4",
+        "lighting": "Overcast",
+        "info": "",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "RU",
+            "tickets": "300"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Yehorivka RAAS v5": {
+        "map": "Yehorivka",
+        "mapSize": "5x5 km",
+        "gamemode": "RAAS",
+        "version": "v5",
+        "lighting": "Mixed Clouds Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "350"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "350"
+        },
+        "tanks": "N/A",
+        "helicopters": "x2 per team",
+        "newForVersion": false
+    },
+    "Yehorivka Skirmish v1": {
+        "map": "Yehorivka",
+        "mapSize": "5x5 km",
+        "gamemode": "Skirmish",
+        "version": "v1",
+        "lighting": "Overcast",
+        "info": "",
+        "commander": false,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "150"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Yehorivka Skirmish v2": {
+        "map": "Yehorivka",
+        "mapSize": "5x5 km",
+        "gamemode": "Skirmish",
+        "version": "v2",
+        "lighting": "Overcast",
+        "info": "",
+        "commander": false,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "150"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Yehorivka Skirmish v3": {
+        "map": "Yehorivka",
+        "mapSize": "5x5 km",
+        "gamemode": "Skirmish",
+        "version": "v3",
+        "lighting": "Mixed Clouds Mid Day",
+        "info": "",
+        "commander": false,
+        "flagCount": 4,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "200"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "200"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "Yehorivka TC v1": {
+        "map": "Yehorivka",
+        "mapSize": "5x5 km",
+        "gamemode": "TC",
+        "version": "v1",
+        "lighting": "Mixed Clouds Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 57,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "400"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "400"
+        },
+        "tanks": "x2 per team, 20min delay",
+        "helicopters": "x1 per team",
+        "newForVersion": false
+    },
+    "Yehorivka TC v2": {
+        "map": "Yehorivka",
+        "mapSize": "5x5 km",
+        "gamemode": "TC",
+        "version": "v2",
+        "lighting": "Mixed Clouds Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 67,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "500"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "500"
+        },
+        "tanks": "x1 per team",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "CAF_Gorodok_Invasion_v1": {
+        "map": "CAF_Gorodok",
+        "gamemode": "Invasion",
+        "version": "v1",
+        "lighting": "Sunset",
+        "info": "Random",
+        "commander": true,
+        "flagCount": 6,
+        "teamOne": {
+            "faction": "CAF",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "MIL",
+            "tickets": "900"
+        },
+        "tanks": "x1 per team, 20min delay",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "CAF_Gorodok_RAAS_v1": {
+        "map": "CAF_Gorodok",
+        "gamemode": "RAAS",
+        "version": "v1",
+        "lighting": "Sunny Mid Day",
+        "info": null,
+        "commander": true,
+        "flagCount": 6,
+        "teamOne": {
+            "faction": "CAF",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "300"
+        },
+        "tanks": "x1 per team",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "CAF_Gorodok_RAAS_v2": {
+        "map": "CAF_Gorodok",
+        "gamemode": "RAAS",
+        "version": "v2",
+        "lighting": "Sunny Mid Day",
+        "info": "Lanes",
+        "commander": true,
+        "flagCount": 7,
+        "teamOne": {
+            "faction": "CAF",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "300"
+        },
+        "tanks": "x1 per team, 20min delay",
+        "helicopters": "x2 per team",
+        "newForVersion": false
+    },
+    "CAF_Gorodok_TC_v1": {
+        "map": "CAF_Gorodok",
+        "gamemode": "TC",
+        "version": "v1",
+        "lighting": "Sunset",
+        "info": null,
+        "commander": true,
+        "flagCount": 64,
+        "teamOne": {
+            "faction": "CAF",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "300"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "CAF_Jensens_Range_Training_v4": {
+        "map": "CAF_Jensens_Range",
+        "gamemode": "Training",
+        "version": "v4",
+        "lighting": "Sunny Mid Day",
+        "info": null,
+        "commander": true,
+        "flagCount": 0,
+        "teamOne": {
+            "faction": "CAF",
+            "tickets": "99999"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "99999"
+        },
+        "tanks": "x1 per team",
+        "helicopters": "x1 per team",
+        "newForVersion": false
+    },
+    "CAF_Kamdesh_Invasion_v1": {
+        "map": "CAF_Kamdesh",
+        "gamemode": "Invasion",
+        "version": "v1",
+        "lighting": "Sunset",
+        "info": "Random",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "CAF",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "800"
+        },
+        "tanks": "x1 per team",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "CAF_Kamdesh_RAAS_v1": {
+        "map": "CAF_Kamdesh",
+        "gamemode": "RAAS",
+        "version": "v1",
+        "lighting": "Stormy",
+        "info": null,
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "CAF",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "300"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "CAF_Kamdesh_TC_v1": {
+        "map": "CAF_Kamdesh",
+        "gamemode": "TC",
+        "version": "v1",
+        "lighting": "Stormy",
+        "info": null,
+        "commander": true,
+        "flagCount": 33,
+        "teamOne": {
+            "faction": "CAF",
+            "tickets": "400"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "400"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "CAF_Kohat_Invasion_v1": {
+        "map": "CAF_Kohat",
+        "gamemode": "Invasion",
+        "version": "v1",
+        "lighting": "Sunny Mid Day",
+        "info": "Random",
+        "commander": true,
+        "flagCount": 4,
+        "teamOne": {
+            "faction": "CAF",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "700"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "CAF_Manic_Invasion_v1": {
+        "map": "CAF_Manic",
+        "gamemode": "Invasion",
+        "version": "v1",
+        "lighting": "Overcast",
+        "info": "Random",
+        "commander": true,
+        "flagCount": 4,
+        "teamOne": {
+            "faction": "CAF",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "700"
+        },
+        "tanks": "x1 per team",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "CAF_Manic_Invasion_v2": {
+        "map": "CAF_Manic",
+        "gamemode": "Invasion",
+        "version": "v2",
+        "lighting": "Sunset",
+        "info": "Random",
+        "commander": true,
+        "flagCount": 4,
+        "teamOne": {
+            "faction": "CAF",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "USA",
+            "tickets": "700"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "CAF_Manic_RAAS_v1": {
+        "map": "CAF_Manic",
+        "gamemode": "RAAS",
+        "version": "v1",
+        "lighting": "Overcast",
+        "info": "Lanes",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "CAF",
+            "tickets": "350"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "350"
+        },
+        "tanks": "x1 per team, 20min delay",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "CAF_Manic_RAAS_v2": {
+        "map": "CAF_Manic",
+        "gamemode": "RAAS",
+        "version": "v2",
+        "lighting": "Sunset",
+        "info": "Lanes ",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "CAF",
+            "tickets": "350"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "350"
+        },
+        "tanks": "x1 per team, 20min delay",
+        "helicopters": "x2 per team",
+        "newForVersion": false
+    },
+    "CAF_Manic_RAAS_v3": {
+        "map": "CAF_Manic",
+        "gamemode": "RAAS",
+        "version": "v3",
+        "lighting": "Overcast",
+        "info": "Lanes",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "CAF",
+            "tickets": "350"
+        },
+        "teamTwo": {
+            "faction": "USA",
+            "tickets": "350"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "CAF_Manic_RAAS_v4": {
+        "map": "CAF_Manic",
+        "gamemode": "RAAS",
+        "version": "v4",
+        "lighting": "Overcast",
+        "info": "Lanes",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "CAF",
+            "tickets": "350"
+        },
+        "teamTwo": {
+            "faction": "MIL",
+            "tickets": "400"
+        },
+        "tanks": "N/A",
+        "helicopters": "x1 for CAF",
+        "newForVersion": false
+    },
+    "CAF_Manic_Skirmish_v1": {
+        "map": "CAF_Manic",
+        "gamemode": "Skirmish",
+        "version": "v1",
+        "lighting": "Overcast",
+        "info": null,
+        "commander": false,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "CAF",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "MIL",
+            "tickets": "150"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "CAF_Manic_Skirmish_v2": {
+        "map": "CAF_Manic",
+        "gamemode": "Skirmish",
+        "version": "v2",
+        "lighting": "Overcast",
+        "info": null,
+        "commander": false,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "CAF",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "USA",
+            "tickets": "150"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "CAF_Manic_TC_v1": {
+        "map": "CAF_Manic",
+        "gamemode": "TC",
+        "version": "v1",
+        "lighting": "Sunset",
+        "info": null,
+        "commander": true,
+        "flagCount": 55,
+        "teamOne": {
+            "faction": "CAF",
+            "tickets": "350"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "350"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "CAF_Nanisivik_Invasion_v1": {
+        "map": "CAF_Nanisivik",
+        "gamemode": "Invasion",
+        "version": "v1",
+        "lighting": "Snowstorm",
+        "info": "Random",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "CAF",
+            "tickets": "800"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "150"
+        },
+        "tanks": "x1 per team, 4min delay",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    "CAF_Nanisivik_RAAS_v1": {
+        "map": "CAF_Nanisivik",
+        "gamemode": "RAAS",
+        "version": "v1",
+        "lighting": "Snowstorm",
+        "info": "Lanes",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "CAF",
+            "tickets": "350"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "350"
+        },
+        "tanks": "x1 per team",
+        "helicopters": "x1 per team",
+        "newForVersion": false
+    },
+    "CAF_Narva_RAAS_v1": {
+        "map": "CAF_Narva",
+        "gamemode": "RAAS",
+        "version": "v1",
+        "lighting": "Mixed Clouds Mid Day",
+        "info": "Lanes",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "CAF",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "300"
+        },
+        "tanks": "x1 per team",
+        "helicopters": "N/A",
+        "newForVersion": true
+    },
+    "CAF_Tallil Outskirts_RAAS_v1": {
+        "map": "CAF_Tallil Outskirts",
+        "gamemode": "RAAS",
+        "version": "v1",
+        "lighting": "Sunny Mid Day",
+        "info": null,
+        "commander": true,
+        "flagCount": 6,
+        "teamOne": {
+            "faction": "CAF",
+            "tickets": "350"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "350"
+        },
+        "tanks": "x2 per team, 20min delay",
+        "helicopters": "x2 per team",
+        "newForVersion": true
+    },
+    "CAF_Yehorivka_Invasion_v1": {
+        "map": "CAF_Yehorivka",
+        "gamemode": "Invasion",
+        "version": "v1",
+        "lighting": "Sunrise",
+        "info": "Random",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "CAF",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "MIL",
+            "tickets": "800"
+        },
+        "tanks": "x1 per team",
+        "helicopters": "x1 for CAF",
+        "newForVersion": false
+    },
+    "CAF_Yehorivka_RAAS_v1": {
+        "map": "CAF_Yehorivka",
+        "gamemode": "RAAS",
+        "version": "v1",
+        "lighting": "Mixed Clouds Mid Day",
+        "info": null,
+        "commander": true,
+        "flagCount": 7,
+        "teamOne": {
+            "faction": "CAF",
+            "tickets": "350"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "350"
+        },
+        "tanks": "x2 per team, 20min delay",
+        "helicopters": "x2 per team",
+        "newForVersion": false
+    },
+    "CAF_Yehorivka_TC_v1": {
+        "map": "CAF_Yehorivka",
+        "gamemode": "TC",
+        "version": "v1",
+        "lighting": "Mixed Clouds Mid Day",
+        "info": null,
+        "commander": true,
+        "flagCount": 67,
+        "teamOne": {
+            "faction": "CAF",
+            "tickets": "400"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "400"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    }
 }

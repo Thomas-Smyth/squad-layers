@@ -1,0 +1,11 @@
+{
+  "name": "squad-layers-updater",
+  "version": "1.0.0",
+  "description": "A tool to pull from OWI's Google Spreadsheets and compile JSON data file.",
+  "main": "index.js",
+  "author": "Thomas Smyth",
+  "license": "MIT",
+  "dependencies": {
+    "googleapis": "^46.0.0"
+  }
+}
