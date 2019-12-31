@@ -66,6 +66,7 @@ function getNewToken(oAuth2Client, callback) {
     });
 }
 
+
 async function loadLayers(auth) {
     const sheets = google.sheets({version: 'v4', auth});
 
@@ -86,7 +87,7 @@ async function loadLayers(auth) {
         if(row.length === 0) continue;
 
         const [
-            map,
+            mapRaw,
             layer,
             lighting,
             info,
@@ -101,10 +102,20 @@ async function loadLayers(auth) {
             newForVersion
         ] = row;
 
+        const map = mapRaw
+            .replace('Logar', 'Logar Valley');
+
         const [gamemode, version] = layer.split(' ');
 
         if(map !== '' && !map.includes('km')) currentMapName = map;
         if(map !== '' && map.includes('km')) currentMapSize = map;
+
+        let estimatedSuitablePlayerCount = {};
+        if(gamemode === 'Skirmish') estimatedSuitablePlayerCount = { min: 0, max: 36 };
+        else if(commander === 'No') estimatedSuitablePlayerCount = { min: 18, max: 80 };
+        else if(helicopters === 'N/A' && tanks === 'N/A') estimatedSuitablePlayerCount = { min: 36, max: 80 };
+        else if(tanks === 'N/A') estimatedSuitablePlayerCount = { min: 45, max: 80 };
+        else estimatedSuitablePlayerCount = { min: 54, max: 80 };
 
         layers[`${currentMapName} ${layer}`] = {
             map: currentMapName,
@@ -125,7 +136,8 @@ async function loadLayers(auth) {
             },
             tanks,
             helicopters,
-            newForVersion: !!newForVersion
+            newForVersion: !!newForVersion,
+            estimatedSuitablePlayerCount
         };
     }
 
@@ -164,6 +176,13 @@ async function loadLayers(auth) {
         const layer = layerRaw.replace(' ', '_');
         const [gamemode, version] = layerRaw.split(' ');
 
+        let estimatedSuitablePlayerCount = {};
+        if(gamemode === 'Skirmish') estimatedSuitablePlayerCount = { min: 0, max: 36 };
+        else if(commander === 'No') estimatedSuitablePlayerCount = { min: 18, max: 80 };
+        else if(helicopters === 'N/A' && tanks === 'N/A') estimatedSuitablePlayerCount = { min: 36, max: 80 };
+        else if(tanks === 'N/A') estimatedSuitablePlayerCount = { min: 45, max: 80 };
+        else estimatedSuitablePlayerCount = { min: 54, max: 80 };
+
 
         layers[`${map}_${layer}`] = {
             map,
@@ -183,7 +202,8 @@ async function loadLayers(auth) {
             },
             tanks,
             helicopters,
-            newForVersion: !!newForVersion
+            newForVersion: !!newForVersion,
+            estimatedSuitablePlayerCount
         };
     }
 
