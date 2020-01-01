@@ -1,7 +1,7 @@
 {
     "Al Basrah AAS v1": {
         "map": "Al Basrah",
-        "mapSize": null,
+        "mapSize": "2x2 km",
         "gamemode": "AAS",
         "version": "v1",
         "lighting": "Sunny Mid Day",
@@ -20,7 +20,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 54,
+            "min": 45,
             "max": 80
         }
     },
@@ -45,7 +45,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 36,
+            "min": 54,
             "max": 80
         }
     },
@@ -70,7 +70,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 36,
+            "min": 54,
             "max": 80
         }
     },
@@ -120,7 +120,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 54,
+            "min": 45,
             "max": 80
         }
     },
@@ -145,7 +145,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 0,
+            "mix": 0,
             "max": 40
         }
     },
@@ -170,63 +170,13 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 0,
+            "mix": 0,
             "max": 40
-        }
-    },
-    "Al Basrah TC v1": {
-        "map": "Al Basrah",
-        "mapSize": "2x2 km",
-        "gamemode": "TC",
-        "version": "v1",
-        "lighting": "Sunny Mid Day",
-        "info": "",
-        "commander": true,
-        "flagCount": 67,
-        "teamOne": {
-            "faction": "GB",
-            "tickets": "400"
-        },
-        "teamTwo": {
-            "faction": "INS",
-            "tickets": "400"
-        },
-        "tanks": "x1 for INS, 30 min delay",
-        "helicopters": "N/A",
-        "newForVersion": false,
-        "estimatedSuitablePlayerCount": {
-            "min": 54,
-            "max": 80
-        }
-    },
-    "Al Basrah TC v2": {
-        "map": "Al Basrah",
-        "mapSize": "2x2 km",
-        "gamemode": "TC",
-        "version": "v2",
-        "lighting": "Sunrise",
-        "info": "",
-        "commander": true,
-        "flagCount": 53,
-        "teamOne": {
-            "faction": "USA",
-            "tickets": "400"
-        },
-        "teamTwo": {
-            "faction": "INS",
-            "tickets": "400"
-        },
-        "tanks": "x1 for INS, 20 min delay",
-        "helicopters": "N/A",
-        "newForVersion": false,
-        "estimatedSuitablePlayerCount": {
-            "min": 54,
-            "max": 80
         }
     },
     "Belaya AAS v1": {
         "map": "Belaya",
-        "mapSize": "2x2 km",
+        "mapSize": "2x4 km",
         "gamemode": "AAS",
         "version": "v1",
         "lighting": "Overcast",
@@ -245,7 +195,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 36,
+            "min": 45,
             "max": 80
         }
     },
@@ -270,7 +220,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 36,
+            "min": 54,
             "max": 80
         }
     },
@@ -345,7 +295,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 54,
+            "min": 45,
             "max": 80
         }
     },
@@ -370,7 +320,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 36,
+            "min": 45,
             "max": 80
         }
     },
@@ -395,7 +345,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 54,
+            "min": 45,
             "max": 80
         }
     },
@@ -420,38 +370,13 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 0,
+            "mix": 0,
             "max": 40
-        }
-    },
-    "Belaya TC v1": {
-        "map": "Belaya",
-        "mapSize": "2x4 km",
-        "gamemode": "TC",
-        "version": "v1",
-        "lighting": "Overcast",
-        "info": "",
-        "commander": true,
-        "flagCount": 67,
-        "teamOne": {
-            "faction": "USA",
-            "tickets": "400"
-        },
-        "teamTwo": {
-            "faction": "RUS",
-            "tickets": "400"
-        },
-        "tanks": "x1 per team, 20min delay",
-        "helicopters": "N/A",
-        "newForVersion": false,
-        "estimatedSuitablePlayerCount": {
-            "min": 54,
-            "max": 80
         }
     },
     "Chora AAS v1": {
         "map": "Chora",
-        "mapSize": "2x4 km",
+        "mapSize": "1x2 km",
         "gamemode": "AAS",
         "version": "v1",
         "lighting": "Mid Day",
@@ -520,7 +445,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 36,
+            "min": 54,
             "max": 80
         }
     },
@@ -545,7 +470,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 36,
+            "min": 54,
             "max": 80
         }
     },
@@ -570,7 +495,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 36,
+            "min": 54,
             "max": 80
         }
     },
@@ -645,38 +570,13 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 0,
+            "mix": 0,
             "max": 40
-        }
-    },
-    "Chora TC v1": {
-        "map": "Chora",
-        "mapSize": "1x2 km",
-        "gamemode": "TC",
-        "version": "v1",
-        "lighting": "Sunny Mid Day",
-        "info": "",
-        "commander": true,
-        "flagCount": 54,
-        "teamOne": {
-            "faction": "USA",
-            "tickets": "400"
-        },
-        "teamTwo": {
-            "faction": "RUS_DE",
-            "tickets": "400"
-        },
-        "tanks": "N/A",
-        "helicopters": "N/A",
-        "newForVersion": false,
-        "estimatedSuitablePlayerCount": {
-            "min": 36,
-            "max": 80
         }
     },
     "Fool's Road AAS v1": {
         "map": "Fool's Road",
-        "mapSize": "1x2 km",
+        "mapSize": "2x2 km",
         "gamemode": "AAS",
         "version": "v1",
         "lighting": "Sunny Afternoon",
@@ -770,7 +670,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 36,
+            "min": 54,
             "max": 80
         }
     },
@@ -870,7 +770,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 0,
+            "mix": 0,
             "max": 40
         }
     },
@@ -895,38 +795,13 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 0,
+            "mix": 0,
             "max": 40
-        }
-    },
-    "Fool's Road TC v1": {
-        "map": "Fool's Road",
-        "mapSize": "2x2 km",
-        "gamemode": "TC",
-        "version": "v1",
-        "lighting": "Sunny Mid Day",
-        "info": "",
-        "commander": true,
-        "flagCount": 30,
-        "teamOne": {
-            "faction": "RUS",
-            "tickets": "400"
-        },
-        "teamTwo": {
-            "faction": "MIL",
-            "tickets": "400"
-        },
-        "tanks": "N/A",
-        "helicopters": "N/A",
-        "newForVersion": false,
-        "estimatedSuitablePlayerCount": {
-            "min": 36,
-            "max": 80
         }
     },
     "Gorodok AAS v1": {
         "map": "Gorodok",
-        "mapSize": "2x2 km",
+        "mapSize": "4x4 km",
         "gamemode": "AAS",
         "version": "v1",
         "lighting": "Sunny Mid Day",
@@ -1020,7 +895,7 @@
         "helicopters": "x1 for RUS, 20min delay",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 45,
+            "min": 54,
             "max": 80
         }
     },
@@ -1045,7 +920,7 @@
         "helicopters": "x2 for USA, x2 for RUS, 6min delay",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 45,
+            "min": 54,
             "max": 80
         }
     },
@@ -1145,7 +1020,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 54,
+            "min": 45,
             "max": 80
         }
     },
@@ -1170,7 +1045,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 54,
+            "min": 45,
             "max": 80
         }
     },
@@ -1220,33 +1095,8 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 0,
+            "mix": 0,
             "max": 40
-        }
-    },
-    "Gorodok TC v1": {
-        "map": "Gorodok",
-        "mapSize": "4x4 km",
-        "gamemode": "TC",
-        "version": "v1",
-        "lighting": "Sunset",
-        "info": "",
-        "commander": true,
-        "flagCount": 64,
-        "teamOne": {
-            "faction": "USA",
-            "tickets": "400"
-        },
-        "teamTwo": {
-            "faction": "RUS",
-            "tickets": "400"
-        },
-        "tanks": "N/A",
-        "helicopters": "x1 per team",
-        "newForVersion": false,
-        "estimatedSuitablePlayerCount": {
-            "min": 45,
-            "max": 80
         }
     },
     "Jensen's Range Training v1": {
@@ -1270,7 +1120,7 @@
         "helicopters": "x1 per team",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 54,
+            "min": 0,
             "max": 80
         }
     },
@@ -1295,7 +1145,7 @@
         "helicopters": "x1 per team",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 54,
+            "min": 0,
             "max": 80
         }
     },
@@ -1320,7 +1170,7 @@
         "helicopters": "x1 per team",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 54,
+            "min": 0,
             "max": 80
         }
     },
@@ -1345,7 +1195,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 36,
+            "min": 54,
             "max": 80
         }
     },
@@ -1370,7 +1220,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 36,
+            "min": 54,
             "max": 80
         }
     },
@@ -1395,7 +1245,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 36,
+            "min": 54,
             "max": 80
         }
     },
@@ -1420,7 +1270,7 @@
         "helicopters": "x1 for USA, 40min delay",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 45,
+            "min": 54,
             "max": 80
         }
     },
@@ -1495,7 +1345,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 36,
+            "min": 54,
             "max": 80
         }
     },
@@ -1520,7 +1370,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 54,
+            "min": 45,
             "max": 80
         }
     },
@@ -1545,7 +1395,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 54,
+            "min": 45,
             "max": 80
         }
     },
@@ -1570,7 +1420,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 54,
+            "min": 45,
             "max": 80
         }
     },
@@ -1595,58 +1445,8 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 0,
+            "mix": 0,
             "max": 40
-        }
-    },
-    "Kamdesh TC v1": {
-        "map": "Kamdesh",
-        "mapSize": "4x4 km",
-        "gamemode": "TC",
-        "version": "v1",
-        "lighting": "Stormy",
-        "info": "",
-        "commander": true,
-        "flagCount": 43,
-        "teamOne": {
-            "faction": "GB",
-            "tickets": "400"
-        },
-        "teamTwo": {
-            "faction": "RUS_DE",
-            "tickets": "400"
-        },
-        "tanks": "N/A",
-        "helicopters": "N/A",
-        "newForVersion": false,
-        "estimatedSuitablePlayerCount": {
-            "min": 36,
-            "max": 80
-        }
-    },
-    "Kamdesh TC v2": {
-        "map": "Kamdesh",
-        "mapSize": "4x4 km",
-        "gamemode": "TC",
-        "version": "v2",
-        "lighting": "Stormy",
-        "info": "",
-        "commander": true,
-        "flagCount": 44,
-        "teamOne": {
-            "faction": "MIL",
-            "tickets": "400"
-        },
-        "teamTwo": {
-            "faction": "INS",
-            "tickets": "400"
-        },
-        "tanks": "N/A",
-        "helicopters": "N/A",
-        "newForVersion": false,
-        "estimatedSuitablePlayerCount": {
-            "min": 36,
-            "max": 80
         }
     },
     "Kohat AAS v1": {
@@ -1695,7 +1495,7 @@
         "helicopters": "x2 for USA",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 45,
+            "min": 54,
             "max": 80
         }
     },
@@ -1820,7 +1620,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 36,
+            "min": 54,
             "max": 80
         }
     },
@@ -1870,38 +1670,13 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 0,
+            "mix": 0,
             "max": 40
-        }
-    },
-    "Kohat TC v1": {
-        "map": "Kohat",
-        "mapSize": "4x4 km",
-        "gamemode": "TC",
-        "version": "v1",
-        "lighting": "Sunny Mid Day",
-        "info": "",
-        "commander": true,
-        "flagCount": 39,
-        "teamOne": {
-            "faction": "USA",
-            "tickets": "400"
-        },
-        "teamTwo": {
-            "faction": "RUS_DE",
-            "tickets": "400"
-        },
-        "tanks": "N/A",
-        "helicopters": "x2 per team",
-        "newForVersion": false,
-        "estimatedSuitablePlayerCount": {
-            "min": 45,
-            "max": 80
         }
     },
     "Kokan AAS v1": {
         "map": "Kokan",
-        "mapSize": "4x4 km",
+        "mapSize": "2x2 km",
         "gamemode": "AAS",
         "version": "v1",
         "lighting": "Overcast",
@@ -1945,7 +1720,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 36,
+            "min": 54,
             "max": 80
         }
     },
@@ -1970,7 +1745,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 36,
+            "min": 54,
             "max": 80
         }
     },
@@ -2045,38 +1820,13 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 0,
+            "mix": 0,
             "max": 40
-        }
-    },
-    "Kokan TC v1": {
-        "map": "Kokan",
-        "mapSize": "2x2 km",
-        "gamemode": "TC",
-        "version": "v1",
-        "lighting": "Overcast",
-        "info": "",
-        "commander": true,
-        "flagCount": 37,
-        "teamOne": {
-            "faction": "USA",
-            "tickets": "400"
-        },
-        "teamTwo": {
-            "faction": "INS",
-            "tickets": "400"
-        },
-        "tanks": "N/A",
-        "helicopters": "N/A",
-        "newForVersion": false,
-        "estimatedSuitablePlayerCount": {
-            "min": 36,
-            "max": 80
         }
     },
     "Logar Valley AAS v1": {
         "map": "Logar Valley",
-        "mapSize": "2x2 km",
+        "mapSize": "1x1 km",
         "gamemode": "AAS",
         "version": "v1",
         "lighting": "Sunny Mid Day",
@@ -2095,7 +1845,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 18,
+            "min": 36,
             "max": 80
         }
     },
@@ -2120,7 +1870,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 18,
+            "min": 36,
             "max": 80
         }
     },
@@ -2145,7 +1895,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 18,
+            "min": 54,
             "max": 80
         }
     },
@@ -2170,7 +1920,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 18,
+            "min": 36,
             "max": 80
         }
     },
@@ -2195,38 +1945,13 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 0,
+            "mix": 0,
             "max": 40
-        }
-    },
-    "Logar Valley TC v1": {
-        "map": "Logar Valley",
-        "mapSize": "1x1 km",
-        "gamemode": "TC",
-        "version": "v1",
-        "lighting": "Sunny Mid Day",
-        "info": "",
-        "commander": false,
-        "flagCount": 42,
-        "teamOne": {
-            "faction": "USA",
-            "tickets": "400"
-        },
-        "teamTwo": {
-            "faction": "INS",
-            "tickets": "400"
-        },
-        "tanks": "N/A",
-        "helicopters": "N/A",
-        "newForVersion": false,
-        "estimatedSuitablePlayerCount": {
-            "min": 18,
-            "max": 80
         }
     },
     "Mestia AAS v1": {
         "map": "Mestia",
-        "mapSize": "1x1 km",
+        "mapSize": "2x2 km",
         "gamemode": "AAS",
         "version": "v1",
         "lighting": "Sunset",
@@ -2270,7 +1995,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 36,
+            "min": 54,
             "max": 80
         }
     },
@@ -2295,7 +2020,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 36,
+            "min": 54,
             "max": 80
         }
     },
@@ -2345,33 +2070,8 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 0,
+            "mix": 0,
             "max": 40
-        }
-    },
-    "Mestia TC v1": {
-        "map": "Mestia",
-        "mapSize": "2x2 km",
-        "gamemode": "TC",
-        "version": "v1",
-        "lighting": "Overcast",
-        "info": "",
-        "commander": true,
-        "flagCount": 22,
-        "teamOne": {
-            "faction": "USA",
-            "tickets": "400"
-        },
-        "teamTwo": {
-            "faction": "RUS",
-            "tickets": "400"
-        },
-        "tanks": "N/A",
-        "helicopters": "N/A",
-        "newForVersion": false,
-        "estimatedSuitablePlayerCount": {
-            "min": 36,
-            "max": 80
         }
     },
     "Mutaha AAS v1": {
@@ -2395,7 +2095,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 54,
+            "min": 45,
             "max": 80
         }
     },
@@ -2445,7 +2145,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 54,
+            "min": 45,
             "max": 80
         }
     },
@@ -2470,58 +2170,8 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 0,
+            "mix": 0,
             "max": 40
-        }
-    },
-    "Mutaha TC v1": {
-        "map": "Mutaha",
-        "mapSize": "2x2 km",
-        "gamemode": "TC",
-        "version": "v1",
-        "lighting": "Sunny Mid Day",
-        "info": "",
-        "commander": true,
-        "flagCount": 19,
-        "teamOne": {
-            "faction": "USA",
-            "tickets": "300"
-        },
-        "teamTwo": {
-            "faction": "RUS_DE",
-            "tickets": "300"
-        },
-        "tanks": "N/A",
-        "helicopters": "N/A",
-        "newForVersion": false,
-        "estimatedSuitablePlayerCount": {
-            "min": 36,
-            "max": 80
-        }
-    },
-    "Mutaha TC v2": {
-        "map": "Mutaha",
-        "mapSize": "2x2 km",
-        "gamemode": "TC",
-        "version": "v2",
-        "lighting": "Sunrise",
-        "info": "",
-        "commander": true,
-        "flagCount": 36,
-        "teamOne": {
-            "faction": "USA",
-            "tickets": "400"
-        },
-        "teamTwo": {
-            "faction": "RUS_DE",
-            "tickets": "400"
-        },
-        "tanks": "x1 per team, 20min delay",
-        "helicopters": "x1 per team",
-        "newForVersion": false,
-        "estimatedSuitablePlayerCount": {
-            "min": 54,
-            "max": 80
         }
     },
     "Narva AAS v1": {
@@ -2645,7 +2295,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 36,
+            "min": 54,
             "max": 80
         }
     },
@@ -2695,7 +2345,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 54,
+            "min": 45,
             "max": 80
         }
     },
@@ -2720,63 +2370,13 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 0,
+            "mix": 0,
             "max": 40
-        }
-    },
-    "Narva TC v1": {
-        "map": "Narva",
-        "mapSize": "2x2 km",
-        "gamemode": "TC",
-        "version": "v1",
-        "lighting": "Foggy",
-        "info": "",
-        "commander": true,
-        "flagCount": 30,
-        "teamOne": {
-            "faction": "USA",
-            "tickets": "400"
-        },
-        "teamTwo": {
-            "faction": "RUS",
-            "tickets": "400"
-        },
-        "tanks": "N/A",
-        "helicopters": "N/A",
-        "newForVersion": false,
-        "estimatedSuitablePlayerCount": {
-            "min": 36,
-            "max": 80
-        }
-    },
-    "Narva TC v2": {
-        "map": "Narva",
-        "mapSize": "2x2 km",
-        "gamemode": "TC",
-        "version": "v2",
-        "lighting": "Mixed Clouds Mid Day",
-        "info": "",
-        "commander": true,
-        "flagCount": 56,
-        "teamOne": {
-            "faction": "USA",
-            "tickets": "400"
-        },
-        "teamTwo": {
-            "faction": "RUS",
-            "tickets": "400"
-        },
-        "tanks": "x1 per team, 30min delay",
-        "helicopters": "N/A",
-        "newForVersion": false,
-        "estimatedSuitablePlayerCount": {
-            "min": 54,
-            "max": 80
         }
     },
     "Skorpo AAS v1": {
         "map": "Skorpo",
-        "mapSize": "2x2 km",
+        "mapSize": "5x5 km",
         "gamemode": "AAS",
         "version": "v1",
         "lighting": "Sunny Mid Day",
@@ -2795,7 +2395,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 36,
+            "min": 54,
             "max": 80
         }
     },
@@ -2845,7 +2445,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 36,
+            "min": 54,
             "max": 80
         }
     },
@@ -2870,7 +2470,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 54,
+            "min": 45,
             "max": 80
         }
     },
@@ -2895,7 +2495,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 54,
+            "min": 45,
             "max": 80
         }
     },
@@ -2920,7 +2520,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 54,
+            "min": 45,
             "max": 80
         }
     },
@@ -2945,7 +2545,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 54,
+            "min": 45,
             "max": 80
         }
     },
@@ -2970,88 +2570,13 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 0,
+            "mix": 0,
             "max": 40
-        }
-    },
-    "Skorpo TC v1": {
-        "map": "Skorpo",
-        "mapSize": "5x5 km",
-        "gamemode": "TC",
-        "version": "v1",
-        "lighting": "Sunny Mid Day",
-        "info": "",
-        "commander": true,
-        "flagCount": 34,
-        "teamOne": {
-            "faction": "USA",
-            "tickets": "400"
-        },
-        "teamTwo": {
-            "faction": "RUS",
-            "tickets": "400"
-        },
-        "tanks": "N/A",
-        "helicopters": "N/A",
-        "newForVersion": false,
-        "estimatedSuitablePlayerCount": {
-            "min": 36,
-            "max": 80
-        }
-    },
-    "Skorpo TC v2": {
-        "map": "Skorpo",
-        "mapSize": "5x5 km",
-        "gamemode": "TC",
-        "version": "v2",
-        "lighting": "Sunny Mid Day",
-        "info": "",
-        "commander": true,
-        "flagCount": 41,
-        "teamOne": {
-            "faction": "USA",
-            "tickets": "400"
-        },
-        "teamTwo": {
-            "faction": "RUS",
-            "tickets": "400"
-        },
-        "tanks": "N/A",
-        "helicopters": "N/A",
-        "newForVersion": false,
-        "estimatedSuitablePlayerCount": {
-            "min": 36,
-            "max": 80
-        }
-    },
-    "Skorpo TC v3": {
-        "map": "Skorpo",
-        "mapSize": "5x5 km",
-        "gamemode": "TC",
-        "version": "v3",
-        "lighting": "Foggy",
-        "info": "",
-        "commander": true,
-        "flagCount": 110,
-        "teamOne": {
-            "faction": "USA",
-            "tickets": "500"
-        },
-        "teamTwo": {
-            "faction": "RUS",
-            "tickets": "500"
-        },
-        "tanks": "x1 per team, 20min delay",
-        "helicopters": "N/A",
-        "newForVersion": false,
-        "estimatedSuitablePlayerCount": {
-            "min": 54,
-            "max": 80
         }
     },
     "Sumari AAS v1": {
         "map": "Sumari",
-        "mapSize": "5x5 km",
+        "mapSize": "1x1 km",
         "gamemode": "AAS",
         "version": "v1",
         "lighting": "Ultra Dynamic Sky",
@@ -3070,7 +2595,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 18,
+            "min": 36,
             "max": 80
         }
     },
@@ -3095,7 +2620,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 18,
+            "min": 54,
             "max": 80
         }
     },
@@ -3120,7 +2645,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 18,
+            "min": 54,
             "max": 80
         }
     },
@@ -3145,7 +2670,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 18,
+            "min": 36,
             "max": 80
         }
     },
@@ -3170,7 +2695,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 18,
+            "min": 36,
             "max": 80
         }
     },
@@ -3195,38 +2720,13 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 0,
+            "mix": 0,
             "max": 40
-        }
-    },
-    "Sumari TC v1": {
-        "map": "Sumari",
-        "mapSize": "1x1 km",
-        "gamemode": "TC",
-        "version": "v1",
-        "lighting": "Mixed Clouds Mid Day",
-        "info": "",
-        "commander": false,
-        "flagCount": 24,
-        "teamOne": {
-            "faction": "USA",
-            "tickets": "300"
-        },
-        "teamTwo": {
-            "faction": "INS",
-            "tickets": "300"
-        },
-        "tanks": "N/A",
-        "helicopters": "N/A",
-        "newForVersion": false,
-        "estimatedSuitablePlayerCount": {
-            "min": 18,
-            "max": 80
         }
     },
     "Tallil Outskirts AAS v1": {
         "map": "Tallil Outskirts",
-        "mapSize": "1x1 km",
+        "mapSize": "4x4 km",
         "gamemode": "AAS",
         "version": "v1",
         "lighting": "Sunny Mid Day",
@@ -3320,7 +2820,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 36,
+            "min": 54,
             "max": 80
         }
     },
@@ -3445,7 +2945,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 0,
+            "mix": 0,
             "max": 40
         }
     },
@@ -3470,7 +2970,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 0,
+            "mix": 0,
             "max": 40
         }
     },
@@ -3495,138 +2995,13 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 0,
+            "mix": 0,
             "max": 40
-        }
-    },
-    "Tallil Outskirts Tanks v1": {
-        "map": "Tallil Outskirts",
-        "mapSize": "4x4 km",
-        "gamemode": "Tanks",
-        "version": "v1",
-        "lighting": "Sunny Mid Day",
-        "info": "",
-        "commander": true,
-        "flagCount": 5,
-        "teamOne": {
-            "faction": "USA",
-            "tickets": "300"
-        },
-        "teamTwo": {
-            "faction": "RUS_DE",
-            "tickets": "300"
-        },
-        "tanks": "x6 per team",
-        "helicopters": "N/A",
-        "newForVersion": false,
-        "estimatedSuitablePlayerCount": {
-            "min": 54,
-            "max": 80
-        }
-    },
-    "Tallil Outskirts Tanks v2": {
-        "map": "Tallil Outskirts",
-        "mapSize": "4x4 km",
-        "gamemode": "Tanks",
-        "version": "v2",
-        "lighting": "Sunny Mid Day",
-        "info": "",
-        "commander": true,
-        "flagCount": 5,
-        "teamOne": {
-            "faction": "GB",
-            "tickets": "300"
-        },
-        "teamTwo": {
-            "faction": "RUS_DE",
-            "tickets": "300"
-        },
-        "tanks": "x6 per team",
-        "helicopters": "N/A",
-        "newForVersion": false,
-        "estimatedSuitablePlayerCount": {
-            "min": 54,
-            "max": 80
-        }
-    },
-    "Tallil Outskirts TC v1": {
-        "map": "Tallil Outskirts",
-        "mapSize": "4x4 km",
-        "gamemode": "TC",
-        "version": "v1",
-        "lighting": "Sunny Mid Day",
-        "info": "",
-        "commander": true,
-        "flagCount": 64,
-        "teamOne": {
-            "faction": "USA",
-            "tickets": "500"
-        },
-        "teamTwo": {
-            "faction": "RUS_DE",
-            "tickets": "500"
-        },
-        "tanks": "x2 per team, 20min delay",
-        "helicopters": "x2 per team",
-        "newForVersion": false,
-        "estimatedSuitablePlayerCount": {
-            "min": 54,
-            "max": 80
-        }
-    },
-    "Tutorials Infantry Training Tutorial": {
-        "map": "Tutorials",
-        "mapSize": "4x4 km",
-        "gamemode": "Infantry",
-        "version": "Training",
-        "lighting": "Sunny Mid Day",
-        "info": "",
-        "commander": false,
-        "flagCount": 0,
-        "teamOne": {
-            "faction": "USA",
-            "tickets": "N/A"
-        },
-        "teamTwo": {
-            "faction": "N/A",
-            "tickets": "N/A"
-        },
-        "tanks": "N/A",
-        "helicopters": "N/A",
-        "newForVersion": false,
-        "estimatedSuitablePlayerCount": {
-            "min": 18,
-            "max": 80
-        }
-    },
-    "Tutorials Helicopter Training Tutorial": {
-        "map": "Tutorials",
-        "mapSize": "4x4 km",
-        "gamemode": "Helicopter",
-        "version": "Training",
-        "lighting": "Sunny Mid Day",
-        "info": "",
-        "commander": false,
-        "flagCount": 0,
-        "teamOne": {
-            "faction": "USA",
-            "tickets": "N/A"
-        },
-        "teamTwo": {
-            "faction": "N/A",
-            "tickets": "N/A"
-        },
-        "tanks": "N/A",
-        "helicopters": "x1",
-        "newForVersion": false,
-        "estimatedSuitablePlayerCount": {
-            "min": 18,
-            "max": 80
         }
     },
     "Yehorivka AAS v1": {
         "map": "Yehorivka",
-        "mapSize": "4x4 km",
+        "mapSize": "5x5 km",
         "gamemode": "AAS",
         "version": "v1",
         "lighting": "Sunrise",
@@ -3795,7 +3170,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 36,
+            "min": 54,
             "max": 80
         }
     },
@@ -3845,7 +3220,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 36,
+            "min": 54,
             "max": 80
         }
     },
@@ -3895,7 +3270,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 0,
+            "mix": 0,
             "max": 40
         }
     },
@@ -3920,7 +3295,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 0,
+            "mix": 0,
             "max": 40
         }
     },
@@ -3945,64 +3320,15 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 0,
+            "mix": 0,
             "max": 40
-        }
-    },
-    "Yehorivka TC v1": {
-        "map": "Yehorivka",
-        "mapSize": "5x5 km",
-        "gamemode": "TC",
-        "version": "v1",
-        "lighting": "Mixed Clouds Mid Day",
-        "info": "",
-        "commander": true,
-        "flagCount": 57,
-        "teamOne": {
-            "faction": "USA",
-            "tickets": "400"
-        },
-        "teamTwo": {
-            "faction": "RUS",
-            "tickets": "400"
-        },
-        "tanks": "x2 per team, 20min delay",
-        "helicopters": "x1 per team",
-        "newForVersion": false,
-        "estimatedSuitablePlayerCount": {
-            "min": 54,
-            "max": 80
-        }
-    },
-    "Yehorivka TC v2": {
-        "map": "Yehorivka",
-        "mapSize": "5x5 km",
-        "gamemode": "TC",
-        "version": "v2",
-        "lighting": "Mixed Clouds Mid Day",
-        "info": "",
-        "commander": true,
-        "flagCount": 67,
-        "teamOne": {
-            "faction": "USA",
-            "tickets": "500"
-        },
-        "teamTwo": {
-            "faction": "RUS",
-            "tickets": "500"
-        },
-        "tanks": "x1 per team",
-        "helicopters": "N/A",
-        "newForVersion": false,
-        "estimatedSuitablePlayerCount": {
-            "min": 54,
-            "max": 80
         }
     },
     "CAF_Gorodok_Invasion_v1": {
         "map": "CAF_Gorodok",
         "gamemode": "Invasion",
         "version": "v1",
+        "dlc": "CAF",
         "lighting": "Sunset",
         "info": "Random",
         "commander": true,
@@ -4027,6 +3353,7 @@
         "map": "CAF_Gorodok",
         "gamemode": "RAAS",
         "version": "v1",
+        "dlc": "CAF",
         "lighting": "Sunny Mid Day",
         "info": null,
         "commander": true,
@@ -4043,7 +3370,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 54,
+            "min": 45,
             "max": 80
         }
     },
@@ -4051,6 +3378,7 @@
         "map": "CAF_Gorodok",
         "gamemode": "RAAS",
         "version": "v2",
+        "dlc": "CAF",
         "lighting": "Sunny Mid Day",
         "info": "Lanes",
         "commander": true,
@@ -4071,34 +3399,11 @@
             "max": 80
         }
     },
-    "CAF_Gorodok_TC_v1": {
-        "map": "CAF_Gorodok",
-        "gamemode": "TC",
-        "version": "v1",
-        "lighting": "Sunset",
-        "info": null,
-        "commander": true,
-        "flagCount": 64,
-        "teamOne": {
-            "faction": "CAF",
-            "tickets": "300"
-        },
-        "teamTwo": {
-            "faction": "RUS",
-            "tickets": "300"
-        },
-        "tanks": "N/A",
-        "helicopters": "N/A",
-        "newForVersion": false,
-        "estimatedSuitablePlayerCount": {
-            "min": 36,
-            "max": 80
-        }
-    },
     "CAF_Jensens_Range_Training_v4": {
         "map": "CAF_Jensens_Range",
         "gamemode": "Training",
         "version": "v4",
+        "dlc": "CAF",
         "lighting": "Sunny Mid Day",
         "info": null,
         "commander": true,
@@ -4115,7 +3420,7 @@
         "helicopters": "x1 per team",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 54,
+            "min": 0,
             "max": 80
         }
     },
@@ -4123,6 +3428,7 @@
         "map": "CAF_Kamdesh",
         "gamemode": "Invasion",
         "version": "v1",
+        "dlc": "CAF",
         "lighting": "Sunset",
         "info": "Random",
         "commander": true,
@@ -4147,6 +3453,7 @@
         "map": "CAF_Kamdesh",
         "gamemode": "RAAS",
         "version": "v1",
+        "dlc": "CAF",
         "lighting": "Stormy",
         "info": null,
         "commander": true,
@@ -4163,31 +3470,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 36,
-            "max": 80
-        }
-    },
-    "CAF_Kamdesh_TC_v1": {
-        "map": "CAF_Kamdesh",
-        "gamemode": "TC",
-        "version": "v1",
-        "lighting": "Stormy",
-        "info": null,
-        "commander": true,
-        "flagCount": 33,
-        "teamOne": {
-            "faction": "CAF",
-            "tickets": "400"
-        },
-        "teamTwo": {
-            "faction": "RUS_DE",
-            "tickets": "400"
-        },
-        "tanks": "N/A",
-        "helicopters": "N/A",
-        "newForVersion": false,
-        "estimatedSuitablePlayerCount": {
-            "min": 36,
+            "min": 40,
             "max": 80
         }
     },
@@ -4195,6 +3478,7 @@
         "map": "CAF_Kohat",
         "gamemode": "Invasion",
         "version": "v1",
+        "dlc": "CAF",
         "lighting": "Sunny Mid Day",
         "info": "Random",
         "commander": true,
@@ -4211,7 +3495,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 36,
+            "min": 54,
             "max": 80
         }
     },
@@ -4219,6 +3503,7 @@
         "map": "CAF_Manic",
         "gamemode": "Invasion",
         "version": "v1",
+        "dlc": "CAF",
         "lighting": "Overcast",
         "info": "Random",
         "commander": true,
@@ -4243,6 +3528,7 @@
         "map": "CAF_Manic",
         "gamemode": "Invasion",
         "version": "v2",
+        "dlc": "CAF",
         "lighting": "Sunset",
         "info": "Random",
         "commander": true,
@@ -4259,7 +3545,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 36,
+            "min": 54,
             "max": 80
         }
     },
@@ -4267,6 +3553,7 @@
         "map": "CAF_Manic",
         "gamemode": "RAAS",
         "version": "v1",
+        "dlc": "CAF",
         "lighting": "Overcast",
         "info": "Lanes",
         "commander": true,
@@ -4283,7 +3570,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 54,
+            "min": 45,
             "max": 80
         }
     },
@@ -4291,6 +3578,7 @@
         "map": "CAF_Manic",
         "gamemode": "RAAS",
         "version": "v2",
+        "dlc": "CAF",
         "lighting": "Sunset",
         "info": "Lanes ",
         "commander": true,
@@ -4315,6 +3603,7 @@
         "map": "CAF_Manic",
         "gamemode": "RAAS",
         "version": "v3",
+        "dlc": "CAF",
         "lighting": "Overcast",
         "info": "Lanes",
         "commander": true,
@@ -4331,7 +3620,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 36,
+            "min": 40,
             "max": 80
         }
     },
@@ -4339,6 +3628,7 @@
         "map": "CAF_Manic",
         "gamemode": "RAAS",
         "version": "v4",
+        "dlc": "CAF",
         "lighting": "Overcast",
         "info": "Lanes",
         "commander": true,
@@ -4363,6 +3653,7 @@
         "map": "CAF_Manic",
         "gamemode": "Skirmish",
         "version": "v1",
+        "dlc": "CAF",
         "lighting": "Overcast",
         "info": null,
         "commander": false,
@@ -4379,7 +3670,7 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 0,
+            "mix": 0,
             "max": 40
         }
     },
@@ -4387,6 +3678,7 @@
         "map": "CAF_Manic",
         "gamemode": "Skirmish",
         "version": "v2",
+        "dlc": "CAF",
         "lighting": "Overcast",
         "info": null,
         "commander": false,
@@ -4403,38 +3695,15 @@
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 0,
+            "mix": 0,
             "max": 40
-        }
-    },
-    "CAF_Manic_TC_v1": {
-        "map": "CAF_Manic",
-        "gamemode": "TC",
-        "version": "v1",
-        "lighting": "Sunset",
-        "info": null,
-        "commander": true,
-        "flagCount": 55,
-        "teamOne": {
-            "faction": "CAF",
-            "tickets": "350"
-        },
-        "teamTwo": {
-            "faction": "RUS",
-            "tickets": "350"
-        },
-        "tanks": "N/A",
-        "helicopters": "N/A",
-        "newForVersion": false,
-        "estimatedSuitablePlayerCount": {
-            "min": 36,
-            "max": 80
         }
     },
     "CAF_Nanisivik_Invasion_v1": {
         "map": "CAF_Nanisivik",
         "gamemode": "Invasion",
         "version": "v1",
+        "dlc": "CAF",
         "lighting": "Snowstorm",
         "info": "Random",
         "commander": true,
@@ -4459,6 +3728,7 @@
         "map": "CAF_Nanisivik",
         "gamemode": "RAAS",
         "version": "v1",
+        "dlc": "CAF",
         "lighting": "Snowstorm",
         "info": "Lanes",
         "commander": true,
@@ -4483,6 +3753,7 @@
         "map": "CAF_Narva",
         "gamemode": "RAAS",
         "version": "v1",
+        "dlc": "CAF",
         "lighting": "Mixed Clouds Mid Day",
         "info": "Lanes",
         "commander": true,
@@ -4499,7 +3770,7 @@
         "helicopters": "N/A",
         "newForVersion": true,
         "estimatedSuitablePlayerCount": {
-            "min": 54,
+            "min": 45,
             "max": 80
         }
     },
@@ -4507,6 +3778,7 @@
         "map": "CAF_Tallil Outskirts",
         "gamemode": "RAAS",
         "version": "v1",
+        "dlc": "CAF",
         "lighting": "Sunny Mid Day",
         "info": null,
         "commander": true,
@@ -4531,6 +3803,7 @@
         "map": "CAF_Yehorivka",
         "gamemode": "Invasion",
         "version": "v1",
+        "dlc": "CAF",
         "lighting": "Sunrise",
         "info": "Random",
         "commander": true,
@@ -4555,6 +3828,7 @@
         "map": "CAF_Yehorivka",
         "gamemode": "RAAS",
         "version": "v1",
+        "dlc": "CAF",
         "lighting": "Mixed Clouds Mid Day",
         "info": null,
         "commander": true,
@@ -4572,30 +3846,6 @@
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
             "min": 54,
-            "max": 80
-        }
-    },
-    "CAF_Yehorivka_TC_v1": {
-        "map": "CAF_Yehorivka",
-        "gamemode": "TC",
-        "version": "v1",
-        "lighting": "Mixed Clouds Mid Day",
-        "info": null,
-        "commander": true,
-        "flagCount": 67,
-        "teamOne": {
-            "faction": "CAF",
-            "tickets": "400"
-        },
-        "teamTwo": {
-            "faction": "RUS",
-            "tickets": "400"
-        },
-        "tanks": "N/A",
-        "helicopters": "N/A",
-        "newForVersion": false,
-        "estimatedSuitablePlayerCount": {
-            "min": 36,
             "max": 80
         }
     }

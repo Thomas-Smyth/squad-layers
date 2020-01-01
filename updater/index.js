@@ -1,89 +1,42 @@
-const fs = require('fs');
-const readline = require('readline');
-const {google} = require('googleapis');
+import fs from 'fs';
 
-// If modifying these scopes, delete token.json.
-const SCOPES = ['https://www.googleapis.com/auth/spreadsheets.readonly'];
-// The file token.json stores the user's access and refresh tokens, and is
-// created automatically when the authorization flow completes for the first
-// time.
-const TOKEN_PATH = 'token.json';
+import getSheets from './google-sheets.js';
+import getEstimatedSuitablePlayerCount from './get-estimated-suitable-player-count.js';
 
-// Load client secrets from a local file.
-fs.readFile('credentials.json', (err, content) => {
-    if (err) return console.log('Error loading client secret file:', err);
-    // Authorize a client with credentials, then call the Google Sheets API.
-    authorize(JSON.parse(content), loadLayers);
-});
+const spreadsheetId = '1Ej4vcnOAAGWGRoUlwQSPa8jM9wMaN7pH7lSLf2ery_A';
+const spreadsheetName = 'B18 Map Layers!';
+const vanillaRange = `${spreadsheetName}B8:N184`;
+const cafRange = `${spreadsheetName}B187:N211`;
 
-/**
- * Create an OAuth2 client with the given credentials, and then execute the
- * given callback function.
- * @param {Object} credentials The authorization client credentials.
- * @param {function} callback The callback to call with the authorized client.
- */
-function authorize(credentials, callback) {
-    const {client_secret, client_id, redirect_uris} = credentials.installed;
-    const oAuth2Client = new google.auth.OAuth2(
-        client_id, client_secret, redirect_uris[0]);
+async function main(){
+    const layers = await getLayers();
 
-    // Check if we have previously stored a token.
-    fs.readFile(TOKEN_PATH, (err, token) => {
-        if (err) return getNewToken(oAuth2Client, callback);
-        oAuth2Client.setCredentials(JSON.parse(token));
-        callback(oAuth2Client);
-    });
+    Object.keys(layers).forEach(key => { layers[key] = getEstimatedSuitablePlayerCount(key, layers[key] )});
+
+    fs.writeFileSync('../layers.json', JSON.stringify(layers, null, 4), 'utf8');
 }
 
-/**
- * Get and store new token after prompting for user authorization, and then
- * execute the given callback with the authorized OAuth2 client.
- * @param {google.auth.OAuth2} oAuth2Client The OAuth2 client to get token for.
- * @param {getEventsCallback} callback The callback for the authorized client.
- */
-function getNewToken(oAuth2Client, callback) {
-    const authUrl = oAuth2Client.generateAuthUrl({
-        access_type: 'offline',
-        scope: SCOPES,
-    });
-    console.log('Authorize this app by visiting this url:', authUrl);
-    const rl = readline.createInterface({
-        input: process.stdin,
-        output: process.stdout,
-    });
-    rl.question('Enter the code from that page here: ', (code) => {
-        rl.close();
-        oAuth2Client.getToken(code, (err, token) => {
-            if (err) return console.error('Error while trying to retrieve access token', err);
-            oAuth2Client.setCredentials(token);
-            // Store the token to disk for later program executions
-            fs.writeFile(TOKEN_PATH, JSON.stringify(token), (err) => {
-                if (err) return console.error(err);
-                console.log('Token stored to', TOKEN_PATH);
-            });
-            callback(oAuth2Client);
-        });
-    });
+async function getLayers(){
+    const sheets = await getSheets();
+    return {
+        ...await getVanillaLayers(sheets),
+        ...await getCAFLayers(sheets)
+    }
 }
 
+async function getVanillaLayers(sheets){
+    let layers = {};
 
-async function loadLayers(auth) {
-    const sheets = google.sheets({version: 'v4', auth});
-
-    const layers = {};
-
-    // get vanilla layers
-    const vanillaRows = (
-        await sheets.spreadsheets.values.get({
-            spreadsheetId: '1Ej4vcnOAAGWGRoUlwQSPa8jM9wMaN7pH7lSLf2ery_A',
-            range: 'B18 Map Layers!B8:N184',
-        })
+    const rows = (
+        await sheets.spreadsheets.values.get({ spreadsheetId, range: vanillaRange })
     ).data.values;
 
     let currentMapName = null;
     let currentMapSize = null;
 
-    for(let row of vanillaRows){
+    for(let i = 0; i < rows.length; i++){
+        const row = rows[i];
+
         if(row.length === 0) continue;
 
         const [
@@ -107,15 +60,10 @@ async function loadLayers(auth) {
 
         const [gamemode, version] = layer.split(' ');
 
-        if(map !== '' && !map.includes('km')) currentMapName = map;
-        if(map !== '' && map.includes('km')) currentMapSize = map;
-
-        let estimatedSuitablePlayerCount = {};
-        if(gamemode === 'Skirmish') estimatedSuitablePlayerCount = { min: 0, max: 40 };
-        else if(commander === 'No') estimatedSuitablePlayerCount = { min: 18, max: 80 };
-        else if(helicopters === 'N/A' && tanks === 'N/A') estimatedSuitablePlayerCount = { min: 36, max: 80 };
-        else if(tanks === 'N/A') estimatedSuitablePlayerCount = { min: 45, max: 80 };
-        else estimatedSuitablePlayerCount = { min: 54, max: 80 };
+        if(map !== '' && !map.includes('km')) {
+            currentMapName = map;
+            currentMapSize = rows[i+1][0];
+        }
 
         layers[`${currentMapName} ${layer}`] = {
             map: currentMapName,
@@ -136,17 +84,18 @@ async function loadLayers(auth) {
             },
             tanks,
             helicopters,
-            newForVersion: !!newForVersion,
-            estimatedSuitablePlayerCount
+            newForVersion: !!newForVersion
         };
     }
 
-    // get vanilla layers
+    return layers;
+}
+
+async function getCAFLayers(sheets){
+    let layers = {};
+
     const cafRows = (
-        await sheets.spreadsheets.values.get({
-            spreadsheetId: '1Ej4vcnOAAGWGRoUlwQSPa8jM9wMaN7pH7lSLf2ery_A',
-            range: 'B18 Map Layers!B187:N211',
-        })
+        await sheets.spreadsheets.values.get({ spreadsheetId, range: cafRange })
     ).data.values;
 
     for(let row of cafRows){
@@ -176,18 +125,12 @@ async function loadLayers(auth) {
         const layer = layerRaw.replace(' ', '_');
         const [gamemode, version] = layerRaw.split(' ');
 
-        let estimatedSuitablePlayerCount = {};
-        if(gamemode === 'Skirmish') estimatedSuitablePlayerCount = { min: 0, max: 40 };
-        else if(commander === 'No') estimatedSuitablePlayerCount = { min: 18, max: 80 };
-        else if(helicopters === 'N/A' && tanks === 'N/A') estimatedSuitablePlayerCount = { min: 36, max: 80 };
-        else if(tanks === 'N/A') estimatedSuitablePlayerCount = { min: 45, max: 80 };
-        else estimatedSuitablePlayerCount = { min: 54, max: 80 };
-
 
         layers[`${map}_${layer}`] = {
             map,
             gamemode,
             version,
+            dlc: 'CAF',
             lighting,
             info: info || null,
             commander: commander === 'Yes',
@@ -202,10 +145,11 @@ async function loadLayers(auth) {
             },
             tanks,
             helicopters,
-            newForVersion: !!newForVersion,
-            estimatedSuitablePlayerCount
+            newForVersion: !!newForVersion
         };
     }
 
-    fs.writeFileSync('../layers.json', JSON.stringify(layers, null, 4), 'utf8');
+    return layers;
 }
+
+main().then(() => { console.log('Main finished.'); }).catch((err) => { console.log(`Main throw an error: ${err}`); });
