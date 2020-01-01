@@ -111,7 +111,7 @@ async function loadLayers(auth) {
         if(map !== '' && map.includes('km')) currentMapSize = map;
 
         let estimatedSuitablePlayerCount = {};
-        if(gamemode === 'Skirmish') estimatedSuitablePlayerCount = { min: 0, max: 36 };
+        if(gamemode === 'Skirmish') estimatedSuitablePlayerCount = { min: 0, max: 40 };
         else if(commander === 'No') estimatedSuitablePlayerCount = { min: 18, max: 80 };
         else if(helicopters === 'N/A' && tanks === 'N/A') estimatedSuitablePlayerCount = { min: 36, max: 80 };
         else if(tanks === 'N/A') estimatedSuitablePlayerCount = { min: 45, max: 80 };
@@ -177,7 +177,7 @@ async function loadLayers(auth) {
         const [gamemode, version] = layerRaw.split(' ');
 
         let estimatedSuitablePlayerCount = {};
-        if(gamemode === 'Skirmish') estimatedSuitablePlayerCount = { min: 0, max: 36 };
+        if(gamemode === 'Skirmish') estimatedSuitablePlayerCount = { min: 0, max: 40 };
         else if(commander === 'No') estimatedSuitablePlayerCount = { min: 18, max: 80 };
         else if(helicopters === 'N/A' && tanks === 'N/A') estimatedSuitablePlayerCount = { min: 36, max: 80 };
         else if(tanks === 'N/A') estimatedSuitablePlayerCount = { min: 45, max: 80 };

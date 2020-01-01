@@ -146,7 +146,7 @@
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
             "min": 0,
-            "max": 36
+            "max": 40
         }
     },
     "Al Basrah Skirmish v2": {
@@ -171,7 +171,7 @@
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
             "min": 0,
-            "max": 36
+            "max": 40
         }
     },
     "Al Basrah TC v1": {
@@ -421,7 +421,7 @@
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
             "min": 0,
-            "max": 36
+            "max": 40
         }
     },
     "Belaya TC v1": {
@@ -646,7 +646,7 @@
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
             "min": 0,
-            "max": 36
+            "max": 40
         }
     },
     "Chora TC v1": {
@@ -871,7 +871,7 @@
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
             "min": 0,
-            "max": 36
+            "max": 40
         }
     },
     "Fool's Road Skirmish v2": {
@@ -896,7 +896,7 @@
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
             "min": 0,
-            "max": 36
+            "max": 40
         }
     },
     "Fool's Road TC v1": {
@@ -1221,7 +1221,7 @@
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
             "min": 0,
-            "max": 36
+            "max": 40
         }
     },
     "Gorodok TC v1": {
@@ -1596,7 +1596,7 @@
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
             "min": 0,
-            "max": 36
+            "max": 40
         }
     },
     "Kamdesh TC v1": {
@@ -1871,7 +1871,7 @@
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
             "min": 0,
-            "max": 36
+            "max": 40
         }
     },
     "Kohat TC v1": {
@@ -2046,7 +2046,7 @@
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
             "min": 0,
-            "max": 36
+            "max": 40
         }
     },
     "Kokan TC v1": {
@@ -2196,7 +2196,7 @@
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
             "min": 0,
-            "max": 36
+            "max": 40
         }
     },
     "Logar Valley TC v1": {
@@ -2346,7 +2346,7 @@
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
             "min": 0,
-            "max": 36
+            "max": 40
         }
     },
     "Mestia TC v1": {
@@ -2471,7 +2471,7 @@
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
             "min": 0,
-            "max": 36
+            "max": 40
         }
     },
     "Mutaha TC v1": {
@@ -2721,7 +2721,7 @@
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
             "min": 0,
-            "max": 36
+            "max": 40
         }
     },
     "Narva TC v1": {
@@ -2971,7 +2971,7 @@
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
             "min": 0,
-            "max": 36
+            "max": 40
         }
     },
     "Skorpo TC v1": {
@@ -3196,7 +3196,7 @@
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
             "min": 0,
-            "max": 36
+            "max": 40
         }
     },
     "Sumari TC v1": {
@@ -3446,7 +3446,7 @@
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
             "min": 0,
-            "max": 36
+            "max": 40
         }
     },
     "Tallil Outskirts Skirmish v2": {
@@ -3471,7 +3471,7 @@
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
             "min": 0,
-            "max": 36
+            "max": 40
         }
     },
     "Tallil Outskirts Skirmish v3": {
@@ -3496,7 +3496,7 @@
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
             "min": 0,
-            "max": 36
+            "max": 40
         }
     },
     "Tallil Outskirts Tanks v1": {
@@ -3896,7 +3896,7 @@
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
             "min": 0,
-            "max": 36
+            "max": 40
         }
     },
     "Yehorivka Skirmish v2": {
@@ -3921,7 +3921,7 @@
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
             "min": 0,
-            "max": 36
+            "max": 40
         }
     },
     "Yehorivka Skirmish v3": {
@@ -3946,7 +3946,7 @@
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
             "min": 0,
-            "max": 36
+            "max": 40
         }
     },
     "Yehorivka TC v1": {
@@ -4380,7 +4380,7 @@
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
             "min": 0,
-            "max": 36
+            "max": 40
         }
     },
     "CAF_Manic_Skirmish_v2": {
@@ -4404,7 +4404,7 @@
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
             "min": 0,
-            "max": 36
+            "max": 40
         }
     },
     "CAF_Manic_TC_v1": {
