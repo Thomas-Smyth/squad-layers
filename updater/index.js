@@ -10,23 +10,23 @@ const vanillaRange = `${spreadsheetName}B8:N184`;
 const cafRange = `${spreadsheetName}B187:N211`;
 
 async function main(){
-    const layers = await getLayers();
-
-    Object.keys(layers).forEach(key => { layers[key] = getEstimatedSuitablePlayerCount(key, layers[key] )});
+    const layers = (await getLayers()).map(layer => getEstimatedSuitablePlayerCount(layer));
 
     fs.writeFileSync('../layers.json', JSON.stringify(layers, null, 4), 'utf8');
 }
 
 async function getLayers(){
     const sheets = await getSheets();
-    return {
-        ...await getVanillaLayers(sheets),
-        ...await getCAFLayers(sheets)
-    }
+
+    let layers = [];
+    layers = layers.concat(await getVanillaLayers(sheets));
+    layers = layers.concat(await getCAFLayers(sheets));
+
+    return layers;
 }
 
 async function getVanillaLayers(sheets){
-    let layers = {};
+    let layers = [];
 
     const rows = (
         await sheets.spreadsheets.values.get({ spreadsheetId, range: vanillaRange })
@@ -66,9 +66,7 @@ async function getVanillaLayers(sheets){
         const layer = `${currentMapName} ${layerRaw}`;
         const [gamemode, version] = layerRaw.split(' ');
 
-        console.log(layer);
-
-        layers[layer] = {
+        layers.push({
             layer: layer,
             map: currentMapName,
             layerClassname: classnameConverter(layer),
@@ -91,14 +89,14 @@ async function getVanillaLayers(sheets){
             tanks,
             helicopters,
             newForVersion: !!newForVersion
-        };
+        });
     }
 
     return layers;
 }
 
 async function getCAFLayers(sheets){
-    let layers = {};
+    let layers = [];
 
     const cafRows = (
         await sheets.spreadsheets.values.get({ spreadsheetId, range: cafRange })
@@ -127,7 +125,7 @@ async function getCAFLayers(sheets){
         const layer = classnameConverter(`${map}_${layerRaw}`, false);
         const [gamemode, version] = layerRaw.split(' ');
 
-        layers[layer] = {
+        layers.push({
             layer: layer,
             map,
             layerClassname: layer,
@@ -150,7 +148,7 @@ async function getCAFLayers(sheets){
             tanks,
             helicopters,
             newForVersion: !!newForVersion
-        };
+        });
     }
 
     return layers;

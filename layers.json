@@ -1,5 +1,5 @@
-{
-    "Al Basrah AAS v1": {
+[
+    {
         "layer": "Al Basrah AAS v1",
         "map": "Al Basrah",
         "layerClassname": "Al_Basrah_AAS_v1",
@@ -27,7 +27,7 @@
             "max": 80
         }
     },
-    "Al Basrah Insurgency v1": {
+    {
         "layer": "Al Basrah Insurgency v1",
         "map": "Al Basrah",
         "layerClassname": "Al_Basrah_Insurgency_v1",
@@ -55,7 +55,7 @@
             "max": 80
         }
     },
-    "Al Basrah Invasion v1": {
+    {
         "layer": "Al Basrah Invasion v1",
         "map": "Al Basrah",
         "layerClassname": "Al_Basrah_Invasion_v1",
@@ -83,7 +83,7 @@
             "max": 80
         }
     },
-    "Al Basrah Invasion v2": {
+    {
         "layer": "Al Basrah Invasion v2",
         "map": "Al Basrah",
         "layerClassname": "Al_Basrah_Invasion_v2",
@@ -111,7 +111,7 @@
             "max": 80
         }
     },
-    "Al Basrah RAAS v1": {
+    {
         "layer": "Al Basrah RAAS v1",
         "map": "Al Basrah",
         "layerClassname": "Al_Basrah_RAAS_v1",
@@ -139,7 +139,7 @@
             "max": 80
         }
     },
-    "Al Basrah Skirmish v1": {
+    {
         "layer": "Al Basrah Skirmish v1",
         "map": "Al Basrah",
         "layerClassname": "Al_Basrah_Skirmish_v1",
@@ -167,7 +167,7 @@
             "max": 40
         }
     },
-    "Al Basrah Skirmish v2": {
+    {
         "layer": "Al Basrah Skirmish v2",
         "map": "Al Basrah",
         "layerClassname": "Al_Basrah_Skirmish_v2",
@@ -195,7 +195,55 @@
             "max": 40
         }
     },
-    "Belaya AAS v1": {
+    {
+        "layer": "Al Basrah TC v1",
+        "map": "Al Basrah",
+        "layerClassname": "Al_Basrah_TC_v1",
+        "mapClassname": "Al_Basrah",
+        "mapSize": "2x2 km",
+        "gamemode": "TC",
+        "version": "v1",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 67,
+        "teamOne": {
+            "faction": "GB",
+            "tickets": "400"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "400"
+        },
+        "tanks": "x1 for INS, 30 min delay",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    {
+        "layer": "Al Basrah TC v2",
+        "map": "Al Basrah",
+        "layerClassname": "Al_Basrah_TC_v2",
+        "mapClassname": "Al_Basrah",
+        "mapSize": "2x2 km",
+        "gamemode": "TC",
+        "version": "v2",
+        "lighting": "Sunrise",
+        "info": "",
+        "commander": true,
+        "flagCount": 53,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "400"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "400"
+        },
+        "tanks": "x1 for INS, 20 min delay",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    {
         "layer": "Belaya AAS v1",
         "map": "Belaya",
         "layerClassname": "Belaya_AAS_v1",
@@ -223,7 +271,7 @@
             "max": 80
         }
     },
-    "Belaya Invasion v1": {
+    {
         "layer": "Belaya Invasion v1",
         "map": "Belaya",
         "layerClassname": "Belaya_Invasion_v1",
@@ -251,7 +299,7 @@
             "max": 80
         }
     },
-    "Belaya Invasion v2": {
+    {
         "layer": "Belaya Invasion v2",
         "map": "Belaya",
         "layerClassname": "Belaya_Invasion_v2",
@@ -279,7 +327,7 @@
             "max": 80
         }
     },
-    "Belaya Invasion v3": {
+    {
         "layer": "Belaya Invasion v3",
         "map": "Belaya",
         "layerClassname": "Belaya_Invasion_v3",
@@ -307,7 +355,7 @@
             "max": 80
         }
     },
-    "Belaya RAAS v1": {
+    {
         "layer": "Belaya RAAS v1",
         "map": "Belaya",
         "layerClassname": "Belaya_RAAS_v1",
@@ -335,7 +383,7 @@
             "max": 80
         }
     },
-    "Belaya RAAS v2": {
+    {
         "layer": "Belaya RAAS v2",
         "map": "Belaya",
         "layerClassname": "Belaya_RAAS_v2",
@@ -363,7 +411,7 @@
             "max": 80
         }
     },
-    "Belaya RAAS v3": {
+    {
         "layer": "Belaya RAAS v3",
         "map": "Belaya",
         "layerClassname": "Belaya_RAAS_v3",
@@ -391,7 +439,7 @@
             "max": 80
         }
     },
-    "Belaya Skirmish v1": {
+    {
         "layer": "Belaya Skirmish v1",
         "map": "Belaya",
         "layerClassname": "Belaya_Skirmish_v1",
@@ -419,7 +467,31 @@
             "max": 40
         }
     },
-    "Chora AAS v1": {
+    {
+        "layer": "Belaya TC v1",
+        "map": "Belaya",
+        "layerClassname": "Belaya_TC_v1",
+        "mapClassname": "Belaya",
+        "mapSize": "2x4 km",
+        "gamemode": "TC",
+        "version": "v1",
+        "lighting": "Overcast",
+        "info": "",
+        "commander": true,
+        "flagCount": 67,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "400"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "400"
+        },
+        "tanks": "x1 per team, 20min delay",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    {
         "layer": "Chora AAS v1",
         "map": "Chora",
         "layerClassname": "Chora_AAS_v1",
@@ -447,7 +519,7 @@
             "max": 80
         }
     },
-    "Chora AAS v2": {
+    {
         "layer": "Chora AAS v2",
         "map": "Chora",
         "layerClassname": "Chora_AAS_v2",
@@ -475,7 +547,7 @@
             "max": 80
         }
     },
-    "Chora Insurgency v1": {
+    {
         "layer": "Chora Insurgency v1",
         "map": "Chora",
         "layerClassname": "Chora_Insurgency_v1",
@@ -503,7 +575,7 @@
             "max": 80
         }
     },
-    "Chora Invasion v1": {
+    {
         "layer": "Chora Invasion v1",
         "map": "Chora",
         "layerClassname": "Chora_Invasion_v1",
@@ -531,7 +603,7 @@
             "max": 80
         }
     },
-    "Chora Invasion v2": {
+    {
         "layer": "Chora Invasion v2",
         "map": "Chora",
         "layerClassname": "Chora_Invasion_v2",
@@ -559,7 +631,7 @@
             "max": 80
         }
     },
-    "Chora RAAS v1": {
+    {
         "layer": "Chora RAAS v1",
         "map": "Chora",
         "layerClassname": "Chora_RAAS_v1",
@@ -587,7 +659,7 @@
             "max": 80
         }
     },
-    "Chora RAAS v2": {
+    {
         "layer": "Chora RAAS v2",
         "map": "Chora",
         "layerClassname": "Chora_RAAS_v2",
@@ -615,7 +687,7 @@
             "max": 80
         }
     },
-    "Chora Skirmish v1": {
+    {
         "layer": "Chora Skirmish v1",
         "map": "Chora",
         "layerClassname": "Chora_Skirmish_v1",
@@ -643,7 +715,31 @@
             "max": 40
         }
     },
-    "Fool's Road AAS v1": {
+    {
+        "layer": "Chora TC v1",
+        "map": "Chora",
+        "layerClassname": "Chora_TC_v1",
+        "mapClassname": "Chora",
+        "mapSize": "1x2 km",
+        "gamemode": "TC",
+        "version": "v1",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 54,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "400"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "400"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    {
         "layer": "Fool's Road AAS v1",
         "map": "Fool's Road",
         "layerClassname": "FoolsRoad_AAS_v1",
@@ -671,7 +767,7 @@
             "max": 80
         }
     },
-    "Fool's Road AAS v2": {
+    {
         "layer": "Fool's Road AAS v2",
         "map": "Fool's Road",
         "layerClassname": "FoolsRoad_AAS_v2",
@@ -699,7 +795,7 @@
             "max": 80
         }
     },
-    "Fool's Road Destruction v1": {
+    {
         "layer": "Fool's Road Destruction v1",
         "map": "Fool's Road",
         "layerClassname": "FoolsRoad_Destruction_v1",
@@ -727,7 +823,7 @@
             "max": 80
         }
     },
-    "Fool's Road Invasion v1": {
+    {
         "layer": "Fool's Road Invasion v1",
         "map": "Fool's Road",
         "layerClassname": "FoolsRoad_Invasion_v1",
@@ -755,7 +851,7 @@
             "max": 80
         }
     },
-    "Fool's Road RAAS v1": {
+    {
         "layer": "Fool's Road RAAS v1",
         "map": "Fool's Road",
         "layerClassname": "FoolsRoad_RAAS_v1",
@@ -783,7 +879,7 @@
             "max": 80
         }
     },
-    "Fool's Road RAAS v2": {
+    {
         "layer": "Fool's Road RAAS v2",
         "map": "Fool's Road",
         "layerClassname": "FoolsRoad_RAAS_v2",
@@ -811,7 +907,7 @@
             "max": 80
         }
     },
-    "Fool's Road RAAS v3": {
+    {
         "layer": "Fool's Road RAAS v3",
         "map": "Fool's Road",
         "layerClassname": "FoolsRoad_RAAS_v3",
@@ -839,7 +935,7 @@
             "max": 80
         }
     },
-    "Fool's Road Skirmish v1": {
+    {
         "layer": "Fool's Road Skirmish v1",
         "map": "Fool's Road",
         "layerClassname": "FoolsRoad_Skirmish_v1",
@@ -867,7 +963,7 @@
             "max": 40
         }
     },
-    "Fool's Road Skirmish v2": {
+    {
         "layer": "Fool's Road Skirmish v2",
         "map": "Fool's Road",
         "layerClassname": "FoolsRoad_Skirmish_v2",
@@ -895,7 +991,31 @@
             "max": 40
         }
     },
-    "Gorodok AAS v1": {
+    {
+        "layer": "Fool's Road TC v1",
+        "map": "Fool's Road",
+        "layerClassname": "FoolsRoad_TC_v1",
+        "mapClassname": "Fools_Road",
+        "mapSize": "2x2 km",
+        "gamemode": "TC",
+        "version": "v1",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 30,
+        "teamOne": {
+            "faction": "RUS",
+            "tickets": "400"
+        },
+        "teamTwo": {
+            "faction": "MIL",
+            "tickets": "400"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    {
         "layer": "Gorodok AAS v1",
         "map": "Gorodok",
         "layerClassname": "Gorodok_AAS_v1",
@@ -923,7 +1043,7 @@
             "max": 80
         }
     },
-    "Gorodok AAS v2": {
+    {
         "layer": "Gorodok AAS v2",
         "map": "Gorodok",
         "layerClassname": "Gorodok_AAS_v2",
@@ -951,7 +1071,7 @@
             "max": 80
         }
     },
-    "Gorodok Destruction v1": {
+    {
         "layer": "Gorodok Destruction v1",
         "map": "Gorodok",
         "layerClassname": "Gorodok_Destruction_v1",
@@ -979,7 +1099,7 @@
             "max": 80
         }
     },
-    "Gorodok Insurgency v1": {
+    {
         "layer": "Gorodok Insurgency v1",
         "map": "Gorodok",
         "layerClassname": "Gorodok_Insurgency_v1",
@@ -1007,7 +1127,7 @@
             "max": 80
         }
     },
-    "Gorodok Invasion v1": {
+    {
         "layer": "Gorodok Invasion v1",
         "map": "Gorodok",
         "layerClassname": "Gorodok_Invasion_v1",
@@ -1035,7 +1155,7 @@
             "max": 80
         }
     },
-    "Gorodok Invasion v2": {
+    {
         "layer": "Gorodok Invasion v2",
         "map": "Gorodok",
         "layerClassname": "Gorodok_Invasion_v2",
@@ -1063,7 +1183,7 @@
             "max": 80
         }
     },
-    "Gorodok RAAS v1": {
+    {
         "layer": "Gorodok RAAS v1",
         "map": "Gorodok",
         "layerClassname": "Gorodok_RAAS_v1",
@@ -1091,7 +1211,7 @@
             "max": 80
         }
     },
-    "Gorodok RAAS v2": {
+    {
         "layer": "Gorodok RAAS v2",
         "map": "Gorodok",
         "layerClassname": "Gorodok_RAAS_v2",
@@ -1119,7 +1239,7 @@
             "max": 80
         }
     },
-    "Gorodok RAAS v3": {
+    {
         "layer": "Gorodok RAAS v3",
         "map": "Gorodok",
         "layerClassname": "Gorodok_RAAS_v3",
@@ -1147,7 +1267,7 @@
             "max": 80
         }
     },
-    "Gorodok RAAS v4": {
+    {
         "layer": "Gorodok RAAS v4",
         "map": "Gorodok",
         "layerClassname": "Gorodok_RAAS_v4",
@@ -1175,7 +1295,7 @@
             "max": 80
         }
     },
-    "Gorodok RAAS v5": {
+    {
         "layer": "Gorodok RAAS v5",
         "map": "Gorodok",
         "layerClassname": "Gorodok_RAAS_v5",
@@ -1203,7 +1323,7 @@
             "max": 80
         }
     },
-    "Gorodok Skirmish v1": {
+    {
         "layer": "Gorodok Skirmish v1",
         "map": "Gorodok",
         "layerClassname": "Gorodok_Skirmish_v1",
@@ -1231,7 +1351,31 @@
             "max": 40
         }
     },
-    "Jensen's Range Training v1": {
+    {
+        "layer": "Gorodok TC v1",
+        "map": "Gorodok",
+        "layerClassname": "Gorodok_TC_v1",
+        "mapClassname": "Gorodok",
+        "mapSize": "4x4 km",
+        "gamemode": "TC",
+        "version": "v1",
+        "lighting": "Sunset",
+        "info": "",
+        "commander": true,
+        "flagCount": 64,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "400"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "400"
+        },
+        "tanks": "N/A",
+        "helicopters": "x1 per team",
+        "newForVersion": false
+    },
+    {
         "layer": "Jensen's Range Training v1",
         "map": "Jensen's Range",
         "layerClassname": "Jensens_Range_Training_v1",
@@ -1259,7 +1403,7 @@
             "max": 80
         }
     },
-    "Jensen's Range Training v2": {
+    {
         "layer": "Jensen's Range Training v2",
         "map": "Jensen's Range",
         "layerClassname": "Jensens_Range_Training_v2",
@@ -1287,7 +1431,7 @@
             "max": 80
         }
     },
-    "Jensen's Range Training v3": {
+    {
         "layer": "Jensen's Range Training v3",
         "map": "Jensen's Range",
         "layerClassname": "Jensens_Range_Training_v3",
@@ -1315,7 +1459,7 @@
             "max": 80
         }
     },
-    "Kamdesh AAS v1": {
+    {
         "layer": "Kamdesh AAS v1",
         "map": "Kamdesh",
         "layerClassname": "Kamdesh_AAS_v1",
@@ -1343,7 +1487,7 @@
             "max": 80
         }
     },
-    "Kamdesh Insurgency v1": {
+    {
         "layer": "Kamdesh Insurgency v1",
         "map": "Kamdesh",
         "layerClassname": "Kamdesh_Insurgency_v1",
@@ -1371,7 +1515,7 @@
             "max": 80
         }
     },
-    "Kamdesh Insurgency v2": {
+    {
         "layer": "Kamdesh Insurgency v2",
         "map": "Kamdesh",
         "layerClassname": "Kamdesh_Insurgency_v2",
@@ -1399,7 +1543,7 @@
             "max": 80
         }
     },
-    "Kamdesh Invasion v1": {
+    {
         "layer": "Kamdesh Invasion v1",
         "map": "Kamdesh",
         "layerClassname": "Kamdesh_Invasion_v1",
@@ -1427,7 +1571,7 @@
             "max": 80
         }
     },
-    "Kamdesh Invasion v2": {
+    {
         "layer": "Kamdesh Invasion v2",
         "map": "Kamdesh",
         "layerClassname": "Kamdesh_Invasion_v2",
@@ -1455,7 +1599,7 @@
             "max": 80
         }
     },
-    "Kamdesh Invasion v3": {
+    {
         "layer": "Kamdesh Invasion v3",
         "map": "Kamdesh",
         "layerClassname": "Kamdesh_Invasion_v3",
@@ -1483,7 +1627,7 @@
             "max": 80
         }
     },
-    "Kamdesh RAAS v1": {
+    {
         "layer": "Kamdesh RAAS v1",
         "map": "Kamdesh",
         "layerClassname": "Kamdesh_RAAS_v1",
@@ -1511,7 +1655,7 @@
             "max": 80
         }
     },
-    "Kamdesh RAAS v2": {
+    {
         "layer": "Kamdesh RAAS v2",
         "map": "Kamdesh",
         "layerClassname": "Kamdesh_RAAS_v2",
@@ -1539,7 +1683,7 @@
             "max": 80
         }
     },
-    "Kamdesh RAAS v3": {
+    {
         "layer": "Kamdesh RAAS v3",
         "map": "Kamdesh",
         "layerClassname": "Kamdesh_RAAS_v3",
@@ -1567,7 +1711,7 @@
             "max": 80
         }
     },
-    "Kamdesh RAAS v4": {
+    {
         "layer": "Kamdesh RAAS v4",
         "map": "Kamdesh",
         "layerClassname": "Kamdesh_RAAS_v4",
@@ -1595,7 +1739,7 @@
             "max": 80
         }
     },
-    "Kamdesh Skirmish v1": {
+    {
         "layer": "Kamdesh Skirmish v1",
         "map": "Kamdesh",
         "layerClassname": "Kamdesh_Skirmish_v1",
@@ -1623,7 +1767,55 @@
             "max": 40
         }
     },
-    "Kohat AAS v1": {
+    {
+        "layer": "Kamdesh TC v1",
+        "map": "Kamdesh",
+        "layerClassname": "Kamdesh_TC_v1",
+        "mapClassname": "Kamdesh",
+        "mapSize": "4x4 km",
+        "gamemode": "TC",
+        "version": "v1",
+        "lighting": "Stormy",
+        "info": "",
+        "commander": true,
+        "flagCount": 43,
+        "teamOne": {
+            "faction": "GB",
+            "tickets": "400"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "400"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    {
+        "layer": "Kamdesh TC v2",
+        "map": "Kamdesh",
+        "layerClassname": "Kamdesh_TC_v2",
+        "mapClassname": "Kamdesh",
+        "mapSize": "4x4 km",
+        "gamemode": "TC",
+        "version": "v2",
+        "lighting": "Stormy",
+        "info": "",
+        "commander": true,
+        "flagCount": 44,
+        "teamOne": {
+            "faction": "MIL",
+            "tickets": "400"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "400"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    {
         "layer": "Kohat AAS v1",
         "map": "Kohat",
         "layerClassname": "Kohat_AAS_v1",
@@ -1651,7 +1843,7 @@
             "max": 80
         }
     },
-    "Kohat Insurgency v1": {
+    {
         "layer": "Kohat Insurgency v1",
         "map": "Kohat",
         "layerClassname": "Kohat_Insurgency_v1",
@@ -1679,7 +1871,7 @@
             "max": 80
         }
     },
-    "Kohat Invasion v1": {
+    {
         "layer": "Kohat Invasion v1",
         "map": "Kohat",
         "layerClassname": "Kohat_Invasion_v1",
@@ -1707,7 +1899,7 @@
             "max": 80
         }
     },
-    "Kohat Invasion v2": {
+    {
         "layer": "Kohat Invasion v2",
         "map": "Kohat",
         "layerClassname": "Kohat_Invasion_v2",
@@ -1735,7 +1927,7 @@
             "max": 80
         }
     },
-    "Kohat RAAS v1": {
+    {
         "layer": "Kohat RAAS v1",
         "map": "Kohat",
         "layerClassname": "Kohat_RAAS_v1",
@@ -1763,7 +1955,7 @@
             "max": 80
         }
     },
-    "Kohat RAAS v2": {
+    {
         "layer": "Kohat RAAS v2",
         "map": "Kohat",
         "layerClassname": "Kohat_RAAS_v2",
@@ -1791,7 +1983,7 @@
             "max": 80
         }
     },
-    "Kohat RAAS v3": {
+    {
         "layer": "Kohat RAAS v3",
         "map": "Kohat",
         "layerClassname": "Kohat_RAAS_v3",
@@ -1819,7 +2011,7 @@
             "max": 80
         }
     },
-    "Kohat RAAS v4": {
+    {
         "layer": "Kohat RAAS v4",
         "map": "Kohat",
         "layerClassname": "Kohat_RAAS_v4",
@@ -1847,7 +2039,7 @@
             "max": 80
         }
     },
-    "Kohat Skirmish v1": {
+    {
         "layer": "Kohat Skirmish v1",
         "map": "Kohat",
         "layerClassname": "Kohat_Skirmish_v1",
@@ -1875,7 +2067,31 @@
             "max": 40
         }
     },
-    "Kokan AAS v1": {
+    {
+        "layer": "Kohat TC v1",
+        "map": "Kohat",
+        "layerClassname": "Kohat_TC_v1",
+        "mapClassname": "Kohat",
+        "mapSize": "4x4 km",
+        "gamemode": "TC",
+        "version": "v1",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 39,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "400"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "400"
+        },
+        "tanks": "N/A",
+        "helicopters": "x2 per team",
+        "newForVersion": false
+    },
+    {
         "layer": "Kokan AAS v1",
         "map": "Kokan",
         "layerClassname": "Kokan_AAS_v1",
@@ -1903,7 +2119,7 @@
             "max": 80
         }
     },
-    "Kokan Insurgency v1": {
+    {
         "layer": "Kokan Insurgency v1",
         "map": "Kokan",
         "layerClassname": "Kokan_Insurgency_v1",
@@ -1931,7 +2147,7 @@
             "max": 80
         }
     },
-    "Kokan Invasion v1": {
+    {
         "layer": "Kokan Invasion v1",
         "map": "Kokan",
         "layerClassname": "Kokan_Invasion_v1",
@@ -1959,7 +2175,7 @@
             "max": 80
         }
     },
-    "Kokan RAAS v1": {
+    {
         "layer": "Kokan RAAS v1",
         "map": "Kokan",
         "layerClassname": "Kokan_RAAS_v1",
@@ -1987,7 +2203,7 @@
             "max": 80
         }
     },
-    "Kokan RAAS v2": {
+    {
         "layer": "Kokan RAAS v2",
         "map": "Kokan",
         "layerClassname": "Kokan_RAAS_v2",
@@ -2015,7 +2231,7 @@
             "max": 80
         }
     },
-    "Kokan Skirmish v1": {
+    {
         "layer": "Kokan Skirmish v1",
         "map": "Kokan",
         "layerClassname": "Kokan_Skirmish_v1",
@@ -2043,7 +2259,31 @@
             "max": 40
         }
     },
-    "Logar Valley AAS v1": {
+    {
+        "layer": "Kokan TC v1",
+        "map": "Kokan",
+        "layerClassname": "Kokan_TC_v1",
+        "mapClassname": "Kokan",
+        "mapSize": "2x2 km",
+        "gamemode": "TC",
+        "version": "v1",
+        "lighting": "Overcast",
+        "info": "",
+        "commander": true,
+        "flagCount": 37,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "400"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "400"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    {
         "layer": "Logar Valley AAS v1",
         "map": "Logar Valley",
         "layerClassname": "Logar_Valley_AAS_v1",
@@ -2071,7 +2311,7 @@
             "max": 80
         }
     },
-    "Logar Valley AAS v2": {
+    {
         "layer": "Logar Valley AAS v2",
         "map": "Logar Valley",
         "layerClassname": "Logar_Valley_AAS_v2",
@@ -2099,7 +2339,7 @@
             "max": 80
         }
     },
-    "Logar Valley Insurgency v1": {
+    {
         "layer": "Logar Valley Insurgency v1",
         "map": "Logar Valley",
         "layerClassname": "Logar_Valley_Insurgency_v1",
@@ -2127,7 +2367,7 @@
             "max": 80
         }
     },
-    "Logar Valley RAAS v1": {
+    {
         "layer": "Logar Valley RAAS v1",
         "map": "Logar Valley",
         "layerClassname": "Logar_Valley_RAAS_v1",
@@ -2155,7 +2395,7 @@
             "max": 80
         }
     },
-    "Logar Valley Skirmish v1": {
+    {
         "layer": "Logar Valley Skirmish v1",
         "map": "Logar Valley",
         "layerClassname": "Logar_Valley_Skirmish_v1",
@@ -2183,7 +2423,31 @@
             "max": 40
         }
     },
-    "Mestia AAS v1": {
+    {
+        "layer": "Logar Valley TC v1",
+        "map": "Logar Valley",
+        "layerClassname": "Logar_Valley_TC_v1",
+        "mapClassname": "Logar_Valley",
+        "mapSize": "1x1 km",
+        "gamemode": "TC",
+        "version": "v1",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": false,
+        "flagCount": 42,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "400"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "400"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    {
         "layer": "Mestia AAS v1",
         "map": "Mestia",
         "layerClassname": "Mestia_AAS_v1",
@@ -2211,7 +2475,7 @@
             "max": 80
         }
     },
-    "Mestia Invasion v1": {
+    {
         "layer": "Mestia Invasion v1",
         "map": "Mestia",
         "layerClassname": "Mestia_Invasion_v1",
@@ -2239,7 +2503,7 @@
             "max": 80
         }
     },
-    "Mestia Invasion v2": {
+    {
         "layer": "Mestia Invasion v2",
         "map": "Mestia",
         "layerClassname": "Mestia_Invasion_v2",
@@ -2267,7 +2531,7 @@
             "max": 80
         }
     },
-    "Mestia RAAS v1": {
+    {
         "layer": "Mestia RAAS v1",
         "map": "Mestia",
         "layerClassname": "Mestia_RAAS_v1",
@@ -2295,7 +2559,7 @@
             "max": 80
         }
     },
-    "Mestia Skirmish v1": {
+    {
         "layer": "Mestia Skirmish v1",
         "map": "Mestia",
         "layerClassname": "Mestia_Skirmish_v1",
@@ -2323,7 +2587,31 @@
             "max": 40
         }
     },
-    "Mutaha AAS v1": {
+    {
+        "layer": "Mestia TC v1",
+        "map": "Mestia",
+        "layerClassname": "Mestia_TC_v1",
+        "mapClassname": "Mestia",
+        "mapSize": "2x2 km",
+        "gamemode": "TC",
+        "version": "v1",
+        "lighting": "Overcast",
+        "info": "",
+        "commander": true,
+        "flagCount": 22,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "400"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "400"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    {
         "layer": "Mutaha AAS v1",
         "map": "Mutaha",
         "layerClassname": "Mutaha_AAS_v1",
@@ -2351,7 +2639,7 @@
             "max": 80
         }
     },
-    "Mutaha Invasion v1": {
+    {
         "layer": "Mutaha Invasion v1",
         "map": "Mutaha",
         "layerClassname": "Mutaha_Invasion_v1",
@@ -2379,7 +2667,7 @@
             "max": 80
         }
     },
-    "Mutaha RAAS v1": {
+    {
         "layer": "Mutaha RAAS v1",
         "map": "Mutaha",
         "layerClassname": "Mutaha_RAAS_v1",
@@ -2407,7 +2695,7 @@
             "max": 80
         }
     },
-    "Mutaha Skirmish v1": {
+    {
         "layer": "Mutaha Skirmish v1",
         "map": "Mutaha",
         "layerClassname": "Mutaha_Skirmish_v1",
@@ -2435,7 +2723,55 @@
             "max": 40
         }
     },
-    "Narva AAS v1": {
+    {
+        "layer": "Mutaha TC v1",
+        "map": "Mutaha",
+        "layerClassname": "Mutaha_TC_v1",
+        "mapClassname": "Mutaha",
+        "mapSize": "2x2 km",
+        "gamemode": "TC",
+        "version": "v1",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 19,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "300"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    {
+        "layer": "Mutaha TC v2",
+        "map": "Mutaha",
+        "layerClassname": "Mutaha_TC_v2",
+        "mapClassname": "Mutaha",
+        "mapSize": "2x2 km",
+        "gamemode": "TC",
+        "version": "v2",
+        "lighting": "Sunrise",
+        "info": "",
+        "commander": true,
+        "flagCount": 36,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "400"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "400"
+        },
+        "tanks": "x1 per team, 20min delay",
+        "helicopters": "x1 per team",
+        "newForVersion": false
+    },
+    {
         "layer": "Narva AAS v1",
         "map": "Narva",
         "layerClassname": "Narva_AAS_v1",
@@ -2463,7 +2799,7 @@
             "max": 80
         }
     },
-    "Narva AAS v2": {
+    {
         "layer": "Narva AAS v2",
         "map": "Narva",
         "layerClassname": "Narva_AAS_v2",
@@ -2491,7 +2827,7 @@
             "max": 80
         }
     },
-    "Narva AAS v3": {
+    {
         "layer": "Narva AAS v3",
         "map": "Narva",
         "layerClassname": "Narva_AAS_v3",
@@ -2519,7 +2855,7 @@
             "max": 80
         }
     },
-    "Narva Destruction v1": {
+    {
         "layer": "Narva Destruction v1",
         "map": "Narva",
         "layerClassname": "Narva_Destruction_v1",
@@ -2547,7 +2883,7 @@
             "max": 80
         }
     },
-    "Narva Invasion v1": {
+    {
         "layer": "Narva Invasion v1",
         "map": "Narva",
         "layerClassname": "Narva_Invasion_v1",
@@ -2575,7 +2911,7 @@
             "max": 80
         }
     },
-    "Narva Invasion v2": {
+    {
         "layer": "Narva Invasion v2",
         "map": "Narva",
         "layerClassname": "Narva_Invasion_v2",
@@ -2603,7 +2939,7 @@
             "max": 80
         }
     },
-    "Narva RAAS v1": {
+    {
         "layer": "Narva RAAS v1",
         "map": "Narva",
         "layerClassname": "Narva_RAAS_v1",
@@ -2631,7 +2967,7 @@
             "max": 80
         }
     },
-    "Narva Skirmish v1": {
+    {
         "layer": "Narva Skirmish v1",
         "map": "Narva",
         "layerClassname": "Narva_Skirmish_v1",
@@ -2659,7 +2995,55 @@
             "max": 40
         }
     },
-    "Skorpo AAS v1": {
+    {
+        "layer": "Narva TC v1",
+        "map": "Narva",
+        "layerClassname": "Narva_TC_v1",
+        "mapClassname": "Narva",
+        "mapSize": "2x2 km",
+        "gamemode": "TC",
+        "version": "v1",
+        "lighting": "Foggy",
+        "info": "",
+        "commander": true,
+        "flagCount": 30,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "400"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "400"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    {
+        "layer": "Narva TC v2",
+        "map": "Narva",
+        "layerClassname": "Narva_TC_v2",
+        "mapClassname": "Narva",
+        "mapSize": "2x2 km",
+        "gamemode": "TC",
+        "version": "v2",
+        "lighting": "Mixed Clouds Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 56,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "400"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "400"
+        },
+        "tanks": "x1 per team, 30min delay",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    {
         "layer": "Skorpo AAS v1",
         "map": "Skorpo",
         "layerClassname": "Skorpo_AAS_v1",
@@ -2687,7 +3071,7 @@
             "max": 80
         }
     },
-    "Skorpo Invasion v1": {
+    {
         "layer": "Skorpo Invasion v1",
         "map": "Skorpo",
         "layerClassname": "Skorpo_Invasion_v1",
@@ -2715,7 +3099,7 @@
             "max": 80
         }
     },
-    "Skorpo Invasion v2": {
+    {
         "layer": "Skorpo Invasion v2",
         "map": "Skorpo",
         "layerClassname": "Skorpo_Invasion_v2",
@@ -2743,7 +3127,7 @@
             "max": 80
         }
     },
-    "Skorpo RAAS v1": {
+    {
         "layer": "Skorpo RAAS v1",
         "map": "Skorpo",
         "layerClassname": "Skorpo_RAAS_v1",
@@ -2771,7 +3155,7 @@
             "max": 80
         }
     },
-    "Skorpo RAAS v2": {
+    {
         "layer": "Skorpo RAAS v2",
         "map": "Skorpo",
         "layerClassname": "Skorpo_RAAS_v2",
@@ -2799,7 +3183,7 @@
             "max": 80
         }
     },
-    "Skorpo RAAS v3": {
+    {
         "layer": "Skorpo RAAS v3",
         "map": "Skorpo",
         "layerClassname": "Skorpo_RAAS_v3",
@@ -2827,7 +3211,7 @@
             "max": 80
         }
     },
-    "Skorpo RAAS v4": {
+    {
         "layer": "Skorpo RAAS v4",
         "map": "Skorpo",
         "layerClassname": "Skorpo_RAAS_v4",
@@ -2855,7 +3239,7 @@
             "max": 80
         }
     },
-    "Skorpo Skirmish v1": {
+    {
         "layer": "Skorpo Skirmish v1",
         "map": "Skorpo",
         "layerClassname": "Skorpo_Skirmish_v1",
@@ -2883,7 +3267,79 @@
             "max": 40
         }
     },
-    "Sumari AAS v1": {
+    {
+        "layer": "Skorpo TC v1",
+        "map": "Skorpo",
+        "layerClassname": "Skorpo_TC_v1",
+        "mapClassname": "Skorpo",
+        "mapSize": "5x5 km",
+        "gamemode": "TC",
+        "version": "v1",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 34,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "400"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "400"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    {
+        "layer": "Skorpo TC v2",
+        "map": "Skorpo",
+        "layerClassname": "Skorpo_TC_v2",
+        "mapClassname": "Skorpo",
+        "mapSize": "5x5 km",
+        "gamemode": "TC",
+        "version": "v2",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 41,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "400"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "400"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    {
+        "layer": "Skorpo TC v3",
+        "map": "Skorpo",
+        "layerClassname": "Skorpo_TC_v3",
+        "mapClassname": "Skorpo",
+        "mapSize": "5x5 km",
+        "gamemode": "TC",
+        "version": "v3",
+        "lighting": "Foggy",
+        "info": "",
+        "commander": true,
+        "flagCount": 110,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "500"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "500"
+        },
+        "tanks": "x1 per team, 20min delay",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    {
         "layer": "Sumari AAS v1",
         "map": "Sumari",
         "layerClassname": "Sumari_AAS_v1",
@@ -2911,7 +3367,7 @@
             "max": 80
         }
     },
-    "Sumari Invasion v1": {
+    {
         "layer": "Sumari Invasion v1",
         "map": "Sumari",
         "layerClassname": "Sumari_Invasion_v1",
@@ -2939,7 +3395,7 @@
             "max": 80
         }
     },
-    "Sumari Insurgency v1": {
+    {
         "layer": "Sumari Insurgency v1",
         "map": "Sumari",
         "layerClassname": "Sumari_Insurgency_v1",
@@ -2967,7 +3423,7 @@
             "max": 80
         }
     },
-    "Sumari RAAS v1": {
+    {
         "layer": "Sumari RAAS v1",
         "map": "Sumari",
         "layerClassname": "Sumari_RAAS_v1",
@@ -2995,7 +3451,7 @@
             "max": 80
         }
     },
-    "Sumari RAAS v2": {
+    {
         "layer": "Sumari RAAS v2",
         "map": "Sumari",
         "layerClassname": "Sumari_RAAS_v2",
@@ -3023,7 +3479,7 @@
             "max": 80
         }
     },
-    "Sumari Skirmish v1": {
+    {
         "layer": "Sumari Skirmish v1",
         "map": "Sumari",
         "layerClassname": "Sumari_Skirmish_v1",
@@ -3051,7 +3507,31 @@
             "max": 40
         }
     },
-    "Tallil Outskirts AAS v1": {
+    {
+        "layer": "Sumari TC v1",
+        "map": "Sumari",
+        "layerClassname": "Sumari_TC_v1",
+        "mapClassname": "Sumari",
+        "mapSize": "1x1 km",
+        "gamemode": "TC",
+        "version": "v1",
+        "lighting": "Mixed Clouds Mid Day",
+        "info": "",
+        "commander": false,
+        "flagCount": 24,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "300"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    {
         "layer": "Tallil Outskirts AAS v1",
         "map": "Tallil Outskirts",
         "layerClassname": "Tallil_Outskirts_AAS_v1",
@@ -3079,7 +3559,7 @@
             "max": 80
         }
     },
-    "Tallil Outskirts Invasion v1": {
+    {
         "layer": "Tallil Outskirts Invasion v1",
         "map": "Tallil Outskirts",
         "layerClassname": "Tallil_Outskirts_Invasion_v1",
@@ -3107,7 +3587,7 @@
             "max": 80
         }
     },
-    "Tallil Outskirts Invasion v2": {
+    {
         "layer": "Tallil Outskirts Invasion v2",
         "map": "Tallil Outskirts",
         "layerClassname": "Tallil_Outskirts_Invasion_v2",
@@ -3135,7 +3615,7 @@
             "max": 80
         }
     },
-    "Tallil Outskirts Invasion v3": {
+    {
         "layer": "Tallil Outskirts Invasion v3",
         "map": "Tallil Outskirts",
         "layerClassname": "Tallil_Outskirts_Invasion_v3",
@@ -3163,7 +3643,7 @@
             "max": 80
         }
     },
-    "Tallil Outskirts RAAS v1": {
+    {
         "layer": "Tallil Outskirts RAAS v1",
         "map": "Tallil Outskirts",
         "layerClassname": "Tallil_Outskirts_RAAS_v1",
@@ -3191,7 +3671,7 @@
             "max": 80
         }
     },
-    "Tallil Outskirts RAAS v2": {
+    {
         "layer": "Tallil Outskirts RAAS v2",
         "map": "Tallil Outskirts",
         "layerClassname": "Tallil_Outskirts_RAAS_v2",
@@ -3219,7 +3699,7 @@
             "max": 80
         }
     },
-    "Tallil Outskirts RAAS v3": {
+    {
         "layer": "Tallil Outskirts RAAS v3",
         "map": "Tallil Outskirts",
         "layerClassname": "Tallil_Outskirts_RAAS_v3",
@@ -3247,7 +3727,7 @@
             "max": 80
         }
     },
-    "Tallil Outskirts RAAS v4": {
+    {
         "layer": "Tallil Outskirts RAAS v4",
         "map": "Tallil Outskirts",
         "layerClassname": "Tallil_Outskirts_RAAS_v4",
@@ -3275,7 +3755,7 @@
             "max": 80
         }
     },
-    "Tallil Outskirts Skirmish v1": {
+    {
         "layer": "Tallil Outskirts Skirmish v1",
         "map": "Tallil Outskirts",
         "layerClassname": "Tallil_Outskirts_Skirmish_v1",
@@ -3303,7 +3783,7 @@
             "max": 40
         }
     },
-    "Tallil Outskirts Skirmish v2": {
+    {
         "layer": "Tallil Outskirts Skirmish v2",
         "map": "Tallil Outskirts",
         "layerClassname": "Tallil_Outskirts_Skirmish_v2",
@@ -3331,7 +3811,7 @@
             "max": 40
         }
     },
-    "Tallil Outskirts Skirmish v3": {
+    {
         "layer": "Tallil Outskirts Skirmish v3",
         "map": "Tallil Outskirts",
         "layerClassname": "Tallil_Outskirts_Skirmish_v3",
@@ -3359,7 +3839,127 @@
             "max": 40
         }
     },
-    "Yehorivka AAS v1": {
+    {
+        "layer": "Tallil Outskirts Tanks v1",
+        "map": "Tallil Outskirts",
+        "layerClassname": "Tallil_Outskirts_Tanks_v1",
+        "mapClassname": "Tallil_Outskirts",
+        "mapSize": "4x4 km",
+        "gamemode": "Tanks",
+        "version": "v1",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "300"
+        },
+        "tanks": "x6 per team",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    {
+        "layer": "Tallil Outskirts Tanks v2",
+        "map": "Tallil Outskirts",
+        "layerClassname": "Tallil_Outskirts_Tanks_v2",
+        "mapClassname": "Tallil_Outskirts",
+        "mapSize": "4x4 km",
+        "gamemode": "Tanks",
+        "version": "v2",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "GB",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "300"
+        },
+        "tanks": "x6 per team",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    {
+        "layer": "Tallil Outskirts TC v1",
+        "map": "Tallil Outskirts",
+        "layerClassname": "Tallil_Outskirts_TC_v1",
+        "mapClassname": "Tallil_Outskirts",
+        "mapSize": "4x4 km",
+        "gamemode": "TC",
+        "version": "v1",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 64,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "500"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "500"
+        },
+        "tanks": "x2 per team, 20min delay",
+        "helicopters": "x2 per team",
+        "newForVersion": false
+    },
+    {
+        "layer": "Tutorials Infantry Training Tutorial",
+        "map": "Tutorials",
+        "layerClassname": "Tutorials_Infantry_Training_Tutorial",
+        "mapClassname": "Tutorials",
+        "mapSize": "",
+        "gamemode": "Infantry",
+        "version": "Training",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": false,
+        "flagCount": 0,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "N/A"
+        },
+        "teamTwo": {
+            "faction": "N/A",
+            "tickets": "N/A"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    {
+        "layer": "Tutorials Helicopter Training Tutorial",
+        "map": "Tutorials",
+        "layerClassname": "Tutorials_Helicopter_Training_Tutorial",
+        "mapClassname": "Tutorials",
+        "mapSize": "",
+        "gamemode": "Helicopter",
+        "version": "Training",
+        "lighting": "Sunny Mid Day",
+        "info": "",
+        "commander": false,
+        "flagCount": 0,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "N/A"
+        },
+        "teamTwo": {
+            "faction": "N/A",
+            "tickets": "N/A"
+        },
+        "tanks": "N/A",
+        "helicopters": "x1",
+        "newForVersion": false
+    },
+    {
         "layer": "Yehorivka AAS v1",
         "map": "Yehorivka",
         "layerClassname": "Yehorivka_AAS_v1",
@@ -3387,7 +3987,7 @@
             "max": 80
         }
     },
-    "Yehorivka AAS v2": {
+    {
         "layer": "Yehorivka AAS v2",
         "map": "Yehorivka",
         "layerClassname": "Yehorivka_AAS_v2",
@@ -3415,7 +4015,7 @@
             "max": 80
         }
     },
-    "Yehorivka Destruction v1": {
+    {
         "layer": "Yehorivka Destruction v1",
         "map": "Yehorivka",
         "layerClassname": "Yehorivka_Destruction_v1",
@@ -3443,7 +4043,7 @@
             "max": 80
         }
     },
-    "Yehorivka Invasion v1": {
+    {
         "layer": "Yehorivka Invasion v1",
         "map": "Yehorivka",
         "layerClassname": "Yehorivka_Invasion_v1",
@@ -3471,7 +4071,7 @@
             "max": 80
         }
     },
-    "Yehorivka Invasion v2": {
+    {
         "layer": "Yehorivka Invasion v2",
         "map": "Yehorivka",
         "layerClassname": "Yehorivka_Invasion_v2",
@@ -3499,7 +4099,7 @@
             "max": 80
         }
     },
-    "Yehorivka RAAS v1": {
+    {
         "layer": "Yehorivka RAAS v1",
         "map": "Yehorivka",
         "layerClassname": "Yehorivka_RAAS_v1",
@@ -3527,7 +4127,7 @@
             "max": 80
         }
     },
-    "Yehorivka RAAS v2": {
+    {
         "layer": "Yehorivka RAAS v2",
         "map": "Yehorivka",
         "layerClassname": "Yehorivka_RAAS_v2",
@@ -3555,7 +4155,7 @@
             "max": 80
         }
     },
-    "Yehorivka RAAS v3": {
+    {
         "layer": "Yehorivka RAAS v3",
         "map": "Yehorivka",
         "layerClassname": "Yehorivka_RAAS_v3",
@@ -3583,7 +4183,7 @@
             "max": 80
         }
     },
-    "Yehorivka RAAS v4": {
+    {
         "layer": "Yehorivka RAAS v4",
         "map": "Yehorivka",
         "layerClassname": "Yehorivka_RAAS_v4",
@@ -3611,7 +4211,7 @@
             "max": 80
         }
     },
-    "Yehorivka RAAS v5": {
+    {
         "layer": "Yehorivka RAAS v5",
         "map": "Yehorivka",
         "layerClassname": "Yehorivka_RAAS_v5",
@@ -3639,7 +4239,7 @@
             "max": 80
         }
     },
-    "Yehorivka Skirmish v1": {
+    {
         "layer": "Yehorivka Skirmish v1",
         "map": "Yehorivka",
         "layerClassname": "Yehorivka_Skirmish_v1",
@@ -3667,7 +4267,7 @@
             "max": 40
         }
     },
-    "Yehorivka Skirmish v2": {
+    {
         "layer": "Yehorivka Skirmish v2",
         "map": "Yehorivka",
         "layerClassname": "Yehorivka_Skirmish_v2",
@@ -3695,7 +4295,7 @@
             "max": 40
         }
     },
-    "Yehorivka Skirmish v3": {
+    {
         "layer": "Yehorivka Skirmish v3",
         "map": "Yehorivka",
         "layerClassname": "Yehorivka_Skirmish_v3",
@@ -3723,7 +4323,55 @@
             "max": 40
         }
     },
-    "CAF_Gorodok_Invasion_v1": {
+    {
+        "layer": "Yehorivka TC v1",
+        "map": "Yehorivka",
+        "layerClassname": "Yehorivka_TC_v1",
+        "mapClassname": "Yehorivka",
+        "mapSize": "5x5 km",
+        "gamemode": "TC",
+        "version": "v1",
+        "lighting": "Mixed Clouds Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 57,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "400"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "400"
+        },
+        "tanks": "x2 per team, 20min delay",
+        "helicopters": "x1 per team",
+        "newForVersion": false
+    },
+    {
+        "layer": "Yehorivka TC v2",
+        "map": "Yehorivka",
+        "layerClassname": "Yehorivka_TC_v2",
+        "mapClassname": "Yehorivka",
+        "mapSize": "5x5 km",
+        "gamemode": "TC",
+        "version": "v2",
+        "lighting": "Mixed Clouds Mid Day",
+        "info": "",
+        "commander": true,
+        "flagCount": 67,
+        "teamOne": {
+            "faction": "USA",
+            "tickets": "500"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "500"
+        },
+        "tanks": "x1 per team",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    {
         "layer": "CAF_Gorodok_Invasion_v1",
         "map": "CAF_Gorodok",
         "layerClassname": "CAF_Gorodok_Invasion_v1",
@@ -3751,7 +4399,7 @@
             "max": 80
         }
     },
-    "CAF_Gorodok_RAAS_v1": {
+    {
         "layer": "CAF_Gorodok_RAAS_v1",
         "map": "CAF_Gorodok",
         "layerClassname": "CAF_Gorodok_RAAS_v1",
@@ -3779,7 +4427,7 @@
             "max": 80
         }
     },
-    "CAF_Gorodok_RAAS_v2": {
+    {
         "layer": "CAF_Gorodok_RAAS_v2",
         "map": "CAF_Gorodok",
         "layerClassname": "CAF_Gorodok_RAAS_v2",
@@ -3807,7 +4455,31 @@
             "max": 80
         }
     },
-    "CAF_Jensens_Range_Training_v4": {
+    {
+        "layer": "CAF_Gorodok_TC_v1",
+        "map": "CAF_Gorodok",
+        "layerClassname": "CAF_Gorodok_TC_v1",
+        "mapClassname": "CAF_Gorodok",
+        "gamemode": "TC",
+        "version": "v1",
+        "dlc": "CAF",
+        "lighting": "Sunset",
+        "info": null,
+        "commander": true,
+        "flagCount": 64,
+        "teamOne": {
+            "faction": "CAF",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "300"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    {
         "layer": "CAF_Jensens_Range_Training_v4",
         "map": "CAF_Jensens_Range",
         "layerClassname": "CAF_Jensens_Range_Training_v4",
@@ -3835,7 +4507,7 @@
             "max": 80
         }
     },
-    "CAF_Kamdesh_Invasion_v1": {
+    {
         "layer": "CAF_Kamdesh_Invasion_v1",
         "map": "CAF_Kamdesh",
         "layerClassname": "CAF_Kamdesh_Invasion_v1",
@@ -3863,7 +4535,7 @@
             "max": 80
         }
     },
-    "CAF_Kamdesh_RAAS_v1": {
+    {
         "layer": "CAF_Kamdesh_RAAS_v1",
         "map": "CAF_Kamdesh",
         "layerClassname": "CAF_Kamdesh_RAAS_v1",
@@ -3891,7 +4563,31 @@
             "max": 80
         }
     },
-    "CAF_Kohat_Invasion_v1": {
+    {
+        "layer": "CAF_Kamdesh_TC_v1",
+        "map": "CAF_Kamdesh",
+        "layerClassname": "CAF_Kamdesh_TC_v1",
+        "mapClassname": "CAF_Kamdesh",
+        "gamemode": "TC",
+        "version": "v1",
+        "dlc": "CAF",
+        "lighting": "Stormy",
+        "info": null,
+        "commander": true,
+        "flagCount": 33,
+        "teamOne": {
+            "faction": "CAF",
+            "tickets": "400"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "400"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    {
         "layer": "CAF_Kohat_Invasion_v1",
         "map": "CAF_Kohat",
         "layerClassname": "CAF_Kohat_Invasion_v1",
@@ -3919,7 +4615,7 @@
             "max": 80
         }
     },
-    "CAF_Manic_Invasion_v1": {
+    {
         "layer": "CAF_Manic_Invasion_v1",
         "map": "CAF_Manic",
         "layerClassname": "CAF_Manic_Invasion_v1",
@@ -3947,7 +4643,7 @@
             "max": 80
         }
     },
-    "CAF_Manic_Invasion_v2": {
+    {
         "layer": "CAF_Manic_Invasion_v2",
         "map": "CAF_Manic",
         "layerClassname": "CAF_Manic_Invasion_v2",
@@ -3975,7 +4671,7 @@
             "max": 80
         }
     },
-    "CAF_Manic_RAAS_v1": {
+    {
         "layer": "CAF_Manic_RAAS_v1",
         "map": "CAF_Manic",
         "layerClassname": "CAF_Manic_RAAS_v1",
@@ -4003,7 +4699,7 @@
             "max": 80
         }
     },
-    "CAF_Manic_RAAS_v2": {
+    {
         "layer": "CAF_Manic_RAAS_v2",
         "map": "CAF_Manic",
         "layerClassname": "CAF_Manic_RAAS_v2",
@@ -4031,7 +4727,7 @@
             "max": 80
         }
     },
-    "CAF_Manic_RAAS_v3": {
+    {
         "layer": "CAF_Manic_RAAS_v3",
         "map": "CAF_Manic",
         "layerClassname": "CAF_Manic_RAAS_v3",
@@ -4059,7 +4755,7 @@
             "max": 80
         }
     },
-    "CAF_Manic_RAAS_v4": {
+    {
         "layer": "CAF_Manic_RAAS_v4",
         "map": "CAF_Manic",
         "layerClassname": "CAF_Manic_RAAS_v4",
@@ -4087,7 +4783,7 @@
             "max": 80
         }
     },
-    "CAF_Manic_Skirmish_v1": {
+    {
         "layer": "CAF_Manic_Skirmish_v1",
         "map": "CAF_Manic",
         "layerClassname": "CAF_Manic_Skirmish_v1",
@@ -4115,7 +4811,7 @@
             "max": 40
         }
     },
-    "CAF_Manic_Skirmish_v2": {
+    {
         "layer": "CAF_Manic_Skirmish_v2",
         "map": "CAF_Manic",
         "layerClassname": "CAF_Manic_Skirmish_v2",
@@ -4143,7 +4839,31 @@
             "max": 40
         }
     },
-    "CAF_Nanisivik_Invasion_v1": {
+    {
+        "layer": "CAF_Manic_TC_v1",
+        "map": "CAF_Manic",
+        "layerClassname": "CAF_Manic_TC_v1",
+        "mapClassname": "CAF_Manic",
+        "gamemode": "TC",
+        "version": "v1",
+        "dlc": "CAF",
+        "lighting": "Sunset",
+        "info": null,
+        "commander": true,
+        "flagCount": 55,
+        "teamOne": {
+            "faction": "CAF",
+            "tickets": "350"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "350"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
+    },
+    {
         "layer": "CAF_Nanisivik_Invasion_v1",
         "map": "CAF_Nanisivik",
         "layerClassname": "CAF_Nanisivik_Invasion_v1",
@@ -4171,7 +4891,7 @@
             "max": 80
         }
     },
-    "CAF_Nanisivik_RAAS_v1": {
+    {
         "layer": "CAF_Nanisivik_RAAS_v1",
         "map": "CAF_Nanisivik",
         "layerClassname": "CAF_Nanisivik_RAAS_v1",
@@ -4199,7 +4919,7 @@
             "max": 80
         }
     },
-    "CAF_Narva_RAAS_v1": {
+    {
         "layer": "CAF_Narva_RAAS_v1",
         "map": "CAF_Narva",
         "layerClassname": "CAF_Narva_RAAS_v1",
@@ -4227,7 +4947,7 @@
             "max": 80
         }
     },
-    "CAF_Tallil_Outskirts_RAAS_v1": {
+    {
         "layer": "CAF_Tallil_Outskirts_RAAS_v1",
         "map": "CAF_Tallil_Outskirts",
         "layerClassname": "CAF_Tallil_Outskirts_RAAS_v1",
@@ -4255,7 +4975,7 @@
             "max": 80
         }
     },
-    "CAF_Yehorivka_Invasion_v1": {
+    {
         "layer": "CAF_Yehorivka_Invasion_v1",
         "map": "CAF_Yehorivka",
         "layerClassname": "CAF_Yehorivka_Invasion_v1",
@@ -4283,7 +5003,7 @@
             "max": 80
         }
     },
-    "CAF_Yehorivka_RAAS_v1": {
+    {
         "layer": "CAF_Yehorivka_RAAS_v1",
         "map": "CAF_Yehorivka",
         "layerClassname": "CAF_Yehorivka_RAAS_v1",
@@ -4310,5 +5030,29 @@
             "min": 54,
             "max": 80
         }
+    },
+    {
+        "layer": "CAF_Yehorivka_TC_v1",
+        "map": "CAF_Yehorivka",
+        "layerClassname": "CAF_Yehorivka_TC_v1",
+        "mapClassname": "CAF_Yehorivka",
+        "gamemode": "TC",
+        "version": "v1",
+        "dlc": "CAF",
+        "lighting": "Mixed Clouds Mid Day",
+        "info": null,
+        "commander": true,
+        "flagCount": 67,
+        "teamOne": {
+            "faction": "CAF",
+            "tickets": "400"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "400"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": false
     }
-}
+]

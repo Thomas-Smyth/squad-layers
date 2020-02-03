@@ -1,49 +1,51 @@
-export default function(layer, layerInfo){
-    switch(layerInfo.gamemode){
+export default function(layer){
+    switch(layer.gamemode){
         case 'Skirmish':
-            return skirmish(layer, layerInfo);
+            return skirmish(layer);
         case 'AAS':
         case 'RAAS':
-            return aas(layer, layerInfo);
+            return aas(layer);
         case 'Invasion':
-            return invasion(layer, layerInfo);
+            return invasion(layer);
         case 'Destruction':
-            return destruction(layer, layerInfo);
+            return destruction(layer);
         case 'Insurgency':
-            return insurgency(layer, layerInfo);
+            return insurgency(layer);
         case 'Training':
-            return training(layer, layerInfo);
+            return training(layer);
+        default:
+            return layer;
     }
 }
 
-function skirmish(layer, layerInfo){
+function skirmish(layer){
     return {
-        ...layerInfo,
+        ...layer,
         estimatedSuitablePlayerCount: { mix: 0, max: 40}
     }
 }
 
-function aas(layer, layerInfo){
+function aas(layer){
     let min = 0;
     let max = 80;
 
     // maps with no commander tend to be small
-    if(!layerInfo.commander) min = 36;
+    if(!layer.commander) min = 36;
 
     // maps with tanks and helicopters tend to be very large
-    else if(layerInfo.tanks !== 'N/A' && layerInfo.helicopters !== 'N/A') min = 54;
+    else if(layer.tanks !== 'N/A' && layer.helicopters !== 'N/A') min = 54;
 
     // maps with helicopters or tanks tend to be quite large
-    else if(layerInfo.helicopters !== 'N/A' || layerInfo.tanks !== 'N/A') min = 45;
+    else if(layer.helicopters !== 'N/A' || layer.tanks !== 'N/A') min = 45;
 
     // guess based on map size
-    else if(layerInfo.mapSize) min = getAASCountBySize(layerInfo.mapSize);
+    else if(layer.mapSize) min = getAASCountBySize(layer.mapSize);
 
     // other maps tend to be of medium size
     else min = 40;
 
     return {
-        ...layerInfo,
+        ...layer,
         estimatedSuitablePlayerCount: { min, max }
     }
 
@@ -56,30 +58,30 @@ function getAASCountBySize(size){
     else return 54;
 }
 
-function invasion(layer, layerInfo){
+function invasion(layer){
     return {
-        ...layerInfo,
+        ...layer,
         estimatedSuitablePlayerCount: { min: 54, max: 80 }
     }
 }
 
-function destruction(layer, layerInfo){
+function destruction(layer){
     return {
-        ...layerInfo,
+        ...layer,
         estimatedSuitablePlayerCount: { min: 54, max: 80 }
     }
 }
 
-function insurgency(layer, layerInfo){
+function insurgency(layer){
     return {
-        ...layerInfo,
+        ...layer,
         estimatedSuitablePlayerCount: { min: 54, max: 80 }
     }
 }
 
-function training(layer, layerInfo){
+function training(layer){
     return {
-        ...layerInfo,
+        ...layer,
         estimatedSuitablePlayerCount: { min: 0, max: 80 }
     }
 }
