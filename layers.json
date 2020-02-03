@@ -3774,8 +3774,8 @@
             "max": 80
         }
     },
-    "CAF_Tallil Outskirts_RAAS_v1": {
-        "map": "CAF_Tallil Outskirts",
+    "CAF_Tallil_Outskirts_RAAS_v1": {
+        "map": "CAF_Tallil_Outskirts",
         "gamemode": "RAAS",
         "version": "v1",
         "dlc": "CAF",

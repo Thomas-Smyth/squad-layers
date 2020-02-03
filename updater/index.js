@@ -118,9 +118,9 @@ async function getCAFLayers(sheets){
         ] = row;
 
         const map = mapRaw
-            .replace(' ', '_')
+            .replace(/ /g, '_')
             .replace('Manic-5', 'Manic')
-            .replace('Jensen\'s Range', 'Jensens_Range');
+            .replace('Jensen\'s', 'Jensens');
 
         const layer = layerRaw.replace(' ', '_');
         const [gamemode, version] = layerRaw.split(' ');
