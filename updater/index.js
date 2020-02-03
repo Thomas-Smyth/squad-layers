@@ -2,6 +2,7 @@ import fs from 'fs';
 
 import getSheets from './google-sheets.js';
 import getEstimatedSuitablePlayerCount from './get-estimated-suitable-player-count.js';
+import classnameConverter from './classname-converter.js';
 
 const spreadsheetId = '1Ej4vcnOAAGWGRoUlwQSPa8jM9wMaN7pH7lSLf2ery_A';
 const spreadsheetName = 'B18 Map Layers!';
@@ -67,6 +68,8 @@ async function getVanillaLayers(sheets){
 
         layers[`${currentMapName} ${layer}`] = {
             map: currentMapName,
+            layerClassname: classnameConverter(`${currentMapName} ${layer}`),
+            mapClassname: classnameConverter(currentMapName, false),
             mapSize: currentMapSize,
             gamemode,
             version,
@@ -117,17 +120,14 @@ async function getCAFLayers(sheets){
             newForVersion
         ] = row;
 
-        const map = mapRaw
-            .replace(/ /g, '_')
-            .replace('Manic-5', 'Manic')
-            .replace('Jensen\'s', 'Jensens');
-
-        const layer = layerRaw.replace(' ', '_');
+        const map = classnameConverter(mapRaw);
+        const layer = classnameConverter(layerRaw, false);
         const [gamemode, version] = layerRaw.split(' ');
-
 
         layers[`${map}_${layer}`] = {
             map,
+            layerClassname: layer,
+            mapClassname: map,
             gamemode,
             version,
             dlc: 'CAF',

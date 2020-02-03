@@ -1,6 +1,8 @@
 {
     "Al Basrah AAS v1": {
         "map": "Al Basrah",
+        "layerClassname": "Al_Basrah_AAS_v1",
+        "mapClassname": "Al_Basrah",
         "mapSize": "2x2 km",
         "gamemode": "AAS",
         "version": "v1",
@@ -26,6 +28,8 @@
     },
     "Al Basrah Insurgency v1": {
         "map": "Al Basrah",
+        "layerClassname": "Al_Basrah_Insurgency_v1",
+        "mapClassname": "Al_Basrah",
         "mapSize": "2x2 km",
         "gamemode": "Insurgency",
         "version": "v1",
@@ -51,6 +55,8 @@
     },
     "Al Basrah Invasion v1": {
         "map": "Al Basrah",
+        "layerClassname": "Al_Basrah_Invasion_v1",
+        "mapClassname": "Al_Basrah",
         "mapSize": "2x2 km",
         "gamemode": "Invasion",
         "version": "v1",
@@ -76,6 +82,8 @@
     },
     "Al Basrah Invasion v2": {
         "map": "Al Basrah",
+        "layerClassname": "Al_Basrah_Invasion_v2",
+        "mapClassname": "Al_Basrah",
         "mapSize": "2x2 km",
         "gamemode": "Invasion",
         "version": "v2",
@@ -101,6 +109,8 @@
     },
     "Al Basrah RAAS v1": {
         "map": "Al Basrah",
+        "layerClassname": "Al_Basrah_RAAS_v1",
+        "mapClassname": "Al_Basrah",
         "mapSize": "2x2 km",
         "gamemode": "RAAS",
         "version": "v1",
@@ -126,6 +136,8 @@
     },
     "Al Basrah Skirmish v1": {
         "map": "Al Basrah",
+        "layerClassname": "Al_Basrah_Skirmish_v1",
+        "mapClassname": "Al_Basrah",
         "mapSize": "2x2 km",
         "gamemode": "Skirmish",
         "version": "v1",
@@ -151,6 +163,8 @@
     },
     "Al Basrah Skirmish v2": {
         "map": "Al Basrah",
+        "layerClassname": "Al_Basrah_Skirmish_v2",
+        "mapClassname": "Al_Basrah",
         "mapSize": "2x2 km",
         "gamemode": "Skirmish",
         "version": "v2",
@@ -176,6 +190,8 @@
     },
     "Belaya AAS v1": {
         "map": "Belaya",
+        "layerClassname": "Belaya_AAS_v1",
+        "mapClassname": "Belaya",
         "mapSize": "2x4 km",
         "gamemode": "AAS",
         "version": "v1",
@@ -201,6 +217,8 @@
     },
     "Belaya Invasion v1": {
         "map": "Belaya",
+        "layerClassname": "Belaya_Invasion_v1",
+        "mapClassname": "Belaya",
         "mapSize": "2x4 km",
         "gamemode": "Invasion",
         "version": "v1",
@@ -226,6 +244,8 @@
     },
     "Belaya Invasion v2": {
         "map": "Belaya",
+        "layerClassname": "Belaya_Invasion_v2",
+        "mapClassname": "Belaya",
         "mapSize": "2x4 km",
         "gamemode": "Invasion",
         "version": "v2",
@@ -251,6 +271,8 @@
     },
     "Belaya Invasion v3": {
         "map": "Belaya",
+        "layerClassname": "Belaya_Invasion_v3",
+        "mapClassname": "Belaya",
         "mapSize": "2x4 km",
         "gamemode": "Invasion",
         "version": "v3",
@@ -276,6 +298,8 @@
     },
     "Belaya RAAS v1": {
         "map": "Belaya",
+        "layerClassname": "Belaya_RAAS_v1",
+        "mapClassname": "Belaya",
         "mapSize": "2x4 km",
         "gamemode": "RAAS",
         "version": "v1",
@@ -301,6 +325,8 @@
     },
     "Belaya RAAS v2": {
         "map": "Belaya",
+        "layerClassname": "Belaya_RAAS_v2",
+        "mapClassname": "Belaya",
         "mapSize": "2x4 km",
         "gamemode": "RAAS",
         "version": "v2",
@@ -326,6 +352,8 @@
     },
     "Belaya RAAS v3": {
         "map": "Belaya",
+        "layerClassname": "Belaya_RAAS_v3",
+        "mapClassname": "Belaya",
         "mapSize": "2x4 km",
         "gamemode": "RAAS",
         "version": "v3",
@@ -351,6 +379,8 @@
     },
     "Belaya Skirmish v1": {
         "map": "Belaya",
+        "layerClassname": "Belaya_Skirmish_v1",
+        "mapClassname": "Belaya",
         "mapSize": "2x4 km",
         "gamemode": "Skirmish",
         "version": "v1",
@@ -376,6 +406,8 @@
     },
     "Chora AAS v1": {
         "map": "Chora",
+        "layerClassname": "Chora_AAS_v1",
+        "mapClassname": "Chora",
         "mapSize": "1x2 km",
         "gamemode": "AAS",
         "version": "v1",
@@ -401,6 +433,8 @@
     },
     "Chora AAS v2": {
         "map": "Chora",
+        "layerClassname": "Chora_AAS_v2",
+        "mapClassname": "Chora",
         "mapSize": "1x2 km",
         "gamemode": "AAS",
         "version": "v2",
@@ -426,6 +460,8 @@
     },
     "Chora Insurgency v1": {
         "map": "Chora",
+        "layerClassname": "Chora_Insurgency_v1",
+        "mapClassname": "Chora",
         "mapSize": "1x2 km",
         "gamemode": "Insurgency",
         "version": "v1",
@@ -451,6 +487,8 @@
     },
     "Chora Invasion v1": {
         "map": "Chora",
+        "layerClassname": "Chora_Invasion_v1",
+        "mapClassname": "Chora",
         "mapSize": "1x2 km",
         "gamemode": "Invasion",
         "version": "v1",
@@ -476,6 +514,8 @@
     },
     "Chora Invasion v2": {
         "map": "Chora",
+        "layerClassname": "Chora_Invasion_v2",
+        "mapClassname": "Chora",
         "mapSize": "1x2 km",
         "gamemode": "Invasion",
         "version": "v2",
@@ -501,6 +541,8 @@
     },
     "Chora RAAS v1": {
         "map": "Chora",
+        "layerClassname": "Chora_RAAS_v1",
+        "mapClassname": "Chora",
         "mapSize": "1x2 km",
         "gamemode": "RAAS",
         "version": "v1",
@@ -526,6 +568,8 @@
     },
     "Chora RAAS v2": {
         "map": "Chora",
+        "layerClassname": "Chora_RAAS_v2",
+        "mapClassname": "Chora",
         "mapSize": "1x2 km",
         "gamemode": "RAAS",
         "version": "v2",
@@ -551,6 +595,8 @@
     },
     "Chora Skirmish v1": {
         "map": "Chora",
+        "layerClassname": "Chora_Skirmish_v1",
+        "mapClassname": "Chora",
         "mapSize": "1x2 km",
         "gamemode": "Skirmish",
         "version": "v1",
@@ -576,6 +622,8 @@
     },
     "Fool's Road AAS v1": {
         "map": "Fool's Road",
+        "layerClassname": "FoolsRoad_AAS_v1",
+        "mapClassname": "Fools_Road",
         "mapSize": "2x2 km",
         "gamemode": "AAS",
         "version": "v1",
@@ -601,6 +649,8 @@
     },
     "Fool's Road AAS v2": {
         "map": "Fool's Road",
+        "layerClassname": "FoolsRoad_AAS_v2",
+        "mapClassname": "Fools_Road",
         "mapSize": "2x2 km",
         "gamemode": "AAS",
         "version": "v2",
@@ -626,6 +676,8 @@
     },
     "Fool's Road Destruction v1": {
         "map": "Fool's Road",
+        "layerClassname": "FoolsRoad_Destruction_v1",
+        "mapClassname": "Fools_Road",
         "mapSize": "2x2 km",
         "gamemode": "Destruction",
         "version": "v1",
@@ -651,6 +703,8 @@
     },
     "Fool's Road Invasion v1": {
         "map": "Fool's Road",
+        "layerClassname": "FoolsRoad_Invasion_v1",
+        "mapClassname": "Fools_Road",
         "mapSize": "2x2 km",
         "gamemode": "Invasion",
         "version": "v1",
@@ -676,6 +730,8 @@
     },
     "Fool's Road RAAS v1": {
         "map": "Fool's Road",
+        "layerClassname": "FoolsRoad_RAAS_v1",
+        "mapClassname": "Fools_Road",
         "mapSize": "2x2 km",
         "gamemode": "RAAS",
         "version": "v1",
@@ -701,6 +757,8 @@
     },
     "Fool's Road RAAS v2": {
         "map": "Fool's Road",
+        "layerClassname": "FoolsRoad_RAAS_v2",
+        "mapClassname": "Fools_Road",
         "mapSize": "2x2 km",
         "gamemode": "RAAS",
         "version": "v2",
@@ -726,6 +784,8 @@
     },
     "Fool's Road RAAS v3": {
         "map": "Fool's Road",
+        "layerClassname": "FoolsRoad_RAAS_v3",
+        "mapClassname": "Fools_Road",
         "mapSize": "2x2 km",
         "gamemode": "RAAS",
         "version": "v3",
@@ -751,6 +811,8 @@
     },
     "Fool's Road Skirmish v1": {
         "map": "Fool's Road",
+        "layerClassname": "FoolsRoad_Skirmish_v1",
+        "mapClassname": "Fools_Road",
         "mapSize": "2x2 km",
         "gamemode": "Skirmish",
         "version": "v1",
@@ -776,6 +838,8 @@
     },
     "Fool's Road Skirmish v2": {
         "map": "Fool's Road",
+        "layerClassname": "FoolsRoad_Skirmish_v2",
+        "mapClassname": "Fools_Road",
         "mapSize": "2x2 km",
         "gamemode": "Skirmish",
         "version": "v2",
@@ -801,6 +865,8 @@
     },
     "Gorodok AAS v1": {
         "map": "Gorodok",
+        "layerClassname": "Gorodok_AAS_v1",
+        "mapClassname": "Gorodok",
         "mapSize": "4x4 km",
         "gamemode": "AAS",
         "version": "v1",
@@ -826,6 +892,8 @@
     },
     "Gorodok AAS v2": {
         "map": "Gorodok",
+        "layerClassname": "Gorodok_AAS_v2",
+        "mapClassname": "Gorodok",
         "mapSize": "4x4 km",
         "gamemode": "AAS",
         "version": "v2",
@@ -851,6 +919,8 @@
     },
     "Gorodok Destruction v1": {
         "map": "Gorodok",
+        "layerClassname": "Gorodok_Destruction_v1",
+        "mapClassname": "Gorodok",
         "mapSize": "4x4 km",
         "gamemode": "Destruction",
         "version": "v1",
@@ -876,6 +946,8 @@
     },
     "Gorodok Insurgency v1": {
         "map": "Gorodok",
+        "layerClassname": "Gorodok_Insurgency_v1",
+        "mapClassname": "Gorodok",
         "mapSize": "4x4 km",
         "gamemode": "Insurgency",
         "version": "v1",
@@ -901,6 +973,8 @@
     },
     "Gorodok Invasion v1": {
         "map": "Gorodok",
+        "layerClassname": "Gorodok_Invasion_v1",
+        "mapClassname": "Gorodok",
         "mapSize": "4x4 km",
         "gamemode": "Invasion",
         "version": "v1",
@@ -926,6 +1000,8 @@
     },
     "Gorodok Invasion v2": {
         "map": "Gorodok",
+        "layerClassname": "Gorodok_Invasion_v2",
+        "mapClassname": "Gorodok",
         "mapSize": "4x4 km",
         "gamemode": "Invasion",
         "version": "v2",
@@ -951,6 +1027,8 @@
     },
     "Gorodok RAAS v1": {
         "map": "Gorodok",
+        "layerClassname": "Gorodok_RAAS_v1",
+        "mapClassname": "Gorodok",
         "mapSize": "4x4 km",
         "gamemode": "RAAS",
         "version": "v1",
@@ -976,6 +1054,8 @@
     },
     "Gorodok RAAS v2": {
         "map": "Gorodok",
+        "layerClassname": "Gorodok_RAAS_v2",
+        "mapClassname": "Gorodok",
         "mapSize": "4x4 km",
         "gamemode": "RAAS",
         "version": "v2",
@@ -1001,6 +1081,8 @@
     },
     "Gorodok RAAS v3": {
         "map": "Gorodok",
+        "layerClassname": "Gorodok_RAAS_v3",
+        "mapClassname": "Gorodok",
         "mapSize": "4x4 km",
         "gamemode": "RAAS",
         "version": "v3",
@@ -1026,6 +1108,8 @@
     },
     "Gorodok RAAS v4": {
         "map": "Gorodok",
+        "layerClassname": "Gorodok_RAAS_v4",
+        "mapClassname": "Gorodok",
         "mapSize": "4x4 km",
         "gamemode": "RAAS",
         "version": "v4",
@@ -1051,6 +1135,8 @@
     },
     "Gorodok RAAS v5": {
         "map": "Gorodok",
+        "layerClassname": "Gorodok_RAAS_v5",
+        "mapClassname": "Gorodok",
         "mapSize": "4x4 km",
         "gamemode": "RAAS",
         "version": "v5",
@@ -1076,6 +1162,8 @@
     },
     "Gorodok Skirmish v1": {
         "map": "Gorodok",
+        "layerClassname": "Gorodok_Skirmish_v1",
+        "mapClassname": "Gorodok",
         "mapSize": "4x4 km",
         "gamemode": "Skirmish",
         "version": "v1",
@@ -1101,6 +1189,8 @@
     },
     "Jensen's Range Training v1": {
         "map": "Jensen's Range",
+        "layerClassname": "Jensens_Range_Training_v1",
+        "mapClassname": "Jensens_Range",
         "mapSize": "4x4 km",
         "gamemode": "Training",
         "version": "v1",
@@ -1126,6 +1216,8 @@
     },
     "Jensen's Range Training v2": {
         "map": "Jensen's Range",
+        "layerClassname": "Jensens_Range_Training_v2",
+        "mapClassname": "Jensens_Range",
         "mapSize": "4x4 km",
         "gamemode": "Training",
         "version": "v2",
@@ -1151,6 +1243,8 @@
     },
     "Jensen's Range Training v3": {
         "map": "Jensen's Range",
+        "layerClassname": "Jensens_Range_Training_v3",
+        "mapClassname": "Jensens_Range",
         "mapSize": "4x4 km",
         "gamemode": "Training",
         "version": "v3",
@@ -1176,6 +1270,8 @@
     },
     "Kamdesh AAS v1": {
         "map": "Kamdesh",
+        "layerClassname": "Kamdesh_AAS_v1",
+        "mapClassname": "Kamdesh",
         "mapSize": "4x4 km",
         "gamemode": "AAS",
         "version": "v1",
@@ -1201,6 +1297,8 @@
     },
     "Kamdesh Insurgency v1": {
         "map": "Kamdesh",
+        "layerClassname": "Kamdesh_Insurgency_v1",
+        "mapClassname": "Kamdesh",
         "mapSize": "4x4 km",
         "gamemode": "Insurgency",
         "version": "v1",
@@ -1226,6 +1324,8 @@
     },
     "Kamdesh Insurgency v2": {
         "map": "Kamdesh",
+        "layerClassname": "Kamdesh_Insurgency_v2",
+        "mapClassname": "Kamdesh",
         "mapSize": "4x4 km",
         "gamemode": "Insurgency",
         "version": "v2",
@@ -1251,6 +1351,8 @@
     },
     "Kamdesh Invasion v1": {
         "map": "Kamdesh",
+        "layerClassname": "Kamdesh_Invasion_v1",
+        "mapClassname": "Kamdesh",
         "mapSize": "4x4 km",
         "gamemode": "Invasion",
         "version": "v1",
@@ -1276,6 +1378,8 @@
     },
     "Kamdesh Invasion v2": {
         "map": "Kamdesh",
+        "layerClassname": "Kamdesh_Invasion_v2",
+        "mapClassname": "Kamdesh",
         "mapSize": "4x4 km",
         "gamemode": "Invasion",
         "version": "v2",
@@ -1301,6 +1405,8 @@
     },
     "Kamdesh Invasion v3": {
         "map": "Kamdesh",
+        "layerClassname": "Kamdesh_Invasion_v3",
+        "mapClassname": "Kamdesh",
         "mapSize": "4x4 km",
         "gamemode": "Invasion",
         "version": "v3",
@@ -1326,6 +1432,8 @@
     },
     "Kamdesh RAAS v1": {
         "map": "Kamdesh",
+        "layerClassname": "Kamdesh_RAAS_v1",
+        "mapClassname": "Kamdesh",
         "mapSize": "4x4 km",
         "gamemode": "RAAS",
         "version": "v1",
@@ -1351,6 +1459,8 @@
     },
     "Kamdesh RAAS v2": {
         "map": "Kamdesh",
+        "layerClassname": "Kamdesh_RAAS_v2",
+        "mapClassname": "Kamdesh",
         "mapSize": "4x4 km",
         "gamemode": "RAAS",
         "version": "v2",
@@ -1376,6 +1486,8 @@
     },
     "Kamdesh RAAS v3": {
         "map": "Kamdesh",
+        "layerClassname": "Kamdesh_RAAS_v3",
+        "mapClassname": "Kamdesh",
         "mapSize": "4x4 km",
         "gamemode": "RAAS",
         "version": "v3",
@@ -1401,6 +1513,8 @@
     },
     "Kamdesh RAAS v4": {
         "map": "Kamdesh",
+        "layerClassname": "Kamdesh_RAAS_v4",
+        "mapClassname": "Kamdesh",
         "mapSize": "4x4 km",
         "gamemode": "RAAS",
         "version": "v4",
@@ -1426,6 +1540,8 @@
     },
     "Kamdesh Skirmish v1": {
         "map": "Kamdesh",
+        "layerClassname": "Kamdesh_Skirmish_v1",
+        "mapClassname": "Kamdesh",
         "mapSize": "4x4 km",
         "gamemode": "Skirmish",
         "version": "v1",
@@ -1451,6 +1567,8 @@
     },
     "Kohat AAS v1": {
         "map": "Kohat",
+        "layerClassname": "Kohat_AAS_v1",
+        "mapClassname": "Kohat",
         "mapSize": "4x4 km",
         "gamemode": "AAS",
         "version": "v1",
@@ -1476,6 +1594,8 @@
     },
     "Kohat Insurgency v1": {
         "map": "Kohat",
+        "layerClassname": "Kohat_Insurgency_v1",
+        "mapClassname": "Kohat",
         "mapSize": "4x4 km",
         "gamemode": "Insurgency",
         "version": "v1",
@@ -1501,6 +1621,8 @@
     },
     "Kohat Invasion v1": {
         "map": "Kohat",
+        "layerClassname": "Kohat_Invasion_v1",
+        "mapClassname": "Kohat",
         "mapSize": "4x4 km",
         "gamemode": "Invasion",
         "version": "v1",
@@ -1526,6 +1648,8 @@
     },
     "Kohat Invasion v2": {
         "map": "Kohat",
+        "layerClassname": "Kohat_Invasion_v2",
+        "mapClassname": "Kohat",
         "mapSize": "4x4 km",
         "gamemode": "Invasion",
         "version": "v2",
@@ -1551,6 +1675,8 @@
     },
     "Kohat RAAS v1": {
         "map": "Kohat",
+        "layerClassname": "Kohat_RAAS_v1",
+        "mapClassname": "Kohat",
         "mapSize": "4x4 km",
         "gamemode": "RAAS",
         "version": "v1",
@@ -1576,6 +1702,8 @@
     },
     "Kohat RAAS v2": {
         "map": "Kohat",
+        "layerClassname": "Kohat_RAAS_v2",
+        "mapClassname": "Kohat",
         "mapSize": "4x4 km",
         "gamemode": "RAAS",
         "version": "v2",
@@ -1601,6 +1729,8 @@
     },
     "Kohat RAAS v3": {
         "map": "Kohat",
+        "layerClassname": "Kohat_RAAS_v3",
+        "mapClassname": "Kohat",
         "mapSize": "4x4 km",
         "gamemode": "RAAS",
         "version": "v3",
@@ -1626,6 +1756,8 @@
     },
     "Kohat RAAS v4": {
         "map": "Kohat",
+        "layerClassname": "Kohat_RAAS_v4",
+        "mapClassname": "Kohat",
         "mapSize": "4x4 km",
         "gamemode": "RAAS",
         "version": "v4",
@@ -1651,6 +1783,8 @@
     },
     "Kohat Skirmish v1": {
         "map": "Kohat",
+        "layerClassname": "Kohat_Skirmish_v1",
+        "mapClassname": "Kohat",
         "mapSize": "4x4 km",
         "gamemode": "Skirmish",
         "version": "v1",
@@ -1676,6 +1810,8 @@
     },
     "Kokan AAS v1": {
         "map": "Kokan",
+        "layerClassname": "Kokan_AAS_v1",
+        "mapClassname": "Kokan",
         "mapSize": "2x2 km",
         "gamemode": "AAS",
         "version": "v1",
@@ -1701,6 +1837,8 @@
     },
     "Kokan Insurgency v1": {
         "map": "Kokan",
+        "layerClassname": "Kokan_Insurgency_v1",
+        "mapClassname": "Kokan",
         "mapSize": "2x2 km",
         "gamemode": "Insurgency",
         "version": "v1",
@@ -1726,6 +1864,8 @@
     },
     "Kokan Invasion v1": {
         "map": "Kokan",
+        "layerClassname": "Kokan_Invasion_v1",
+        "mapClassname": "Kokan",
         "mapSize": "2x2 km",
         "gamemode": "Invasion",
         "version": "v1",
@@ -1751,6 +1891,8 @@
     },
     "Kokan RAAS v1": {
         "map": "Kokan",
+        "layerClassname": "Kokan_RAAS_v1",
+        "mapClassname": "Kokan",
         "mapSize": "2x2 km",
         "gamemode": "RAAS",
         "version": "v1",
@@ -1776,6 +1918,8 @@
     },
     "Kokan RAAS v2": {
         "map": "Kokan",
+        "layerClassname": "Kokan_RAAS_v2",
+        "mapClassname": "Kokan",
         "mapSize": "2x2 km",
         "gamemode": "RAAS",
         "version": "v2",
@@ -1801,6 +1945,8 @@
     },
     "Kokan Skirmish v1": {
         "map": "Kokan",
+        "layerClassname": "Kokan_Skirmish_v1",
+        "mapClassname": "Kokan",
         "mapSize": "2x2 km",
         "gamemode": "Skirmish",
         "version": "v1",
@@ -1826,6 +1972,8 @@
     },
     "Logar Valley AAS v1": {
         "map": "Logar Valley",
+        "layerClassname": "Logar_Valley_AAS_v1",
+        "mapClassname": "Logar_Valley",
         "mapSize": "1x1 km",
         "gamemode": "AAS",
         "version": "v1",
@@ -1851,6 +1999,8 @@
     },
     "Logar Valley AAS v2": {
         "map": "Logar Valley",
+        "layerClassname": "Logar_Valley_AAS_v2",
+        "mapClassname": "Logar_Valley",
         "mapSize": "1x1 km",
         "gamemode": "AAS",
         "version": "v2",
@@ -1876,6 +2026,8 @@
     },
     "Logar Valley Insurgency v1": {
         "map": "Logar Valley",
+        "layerClassname": "Logar_Valley_Insurgency_v1",
+        "mapClassname": "Logar_Valley",
         "mapSize": "1x1 km",
         "gamemode": "Insurgency",
         "version": "v1",
@@ -1901,6 +2053,8 @@
     },
     "Logar Valley RAAS v1": {
         "map": "Logar Valley",
+        "layerClassname": "Logar_Valley_RAAS_v1",
+        "mapClassname": "Logar_Valley",
         "mapSize": "1x1 km",
         "gamemode": "RAAS",
         "version": "v1",
@@ -1926,6 +2080,8 @@
     },
     "Logar Valley Skirmish v1": {
         "map": "Logar Valley",
+        "layerClassname": "Logar_Valley_Skirmish_v1",
+        "mapClassname": "Logar_Valley",
         "mapSize": "1x1 km",
         "gamemode": "Skirmish",
         "version": "v1",
@@ -1951,6 +2107,8 @@
     },
     "Mestia AAS v1": {
         "map": "Mestia",
+        "layerClassname": "Mestia_AAS_v1",
+        "mapClassname": "Mestia",
         "mapSize": "2x2 km",
         "gamemode": "AAS",
         "version": "v1",
@@ -1976,6 +2134,8 @@
     },
     "Mestia Invasion v1": {
         "map": "Mestia",
+        "layerClassname": "Mestia_Invasion_v1",
+        "mapClassname": "Mestia",
         "mapSize": "2x2 km",
         "gamemode": "Invasion",
         "version": "v1",
@@ -2001,6 +2161,8 @@
     },
     "Mestia Invasion v2": {
         "map": "Mestia",
+        "layerClassname": "Mestia_Invasion_v2",
+        "mapClassname": "Mestia",
         "mapSize": "2x2 km",
         "gamemode": "Invasion",
         "version": "v2",
@@ -2026,6 +2188,8 @@
     },
     "Mestia RAAS v1": {
         "map": "Mestia",
+        "layerClassname": "Mestia_RAAS_v1",
+        "mapClassname": "Mestia",
         "mapSize": "2x2 km",
         "gamemode": "RAAS",
         "version": "v1",
@@ -2051,6 +2215,8 @@
     },
     "Mestia Skirmish v1": {
         "map": "Mestia",
+        "layerClassname": "Mestia_Skirmish_v1",
+        "mapClassname": "Mestia",
         "mapSize": "2x2 km",
         "gamemode": "Skirmish",
         "version": "v1",
@@ -2076,6 +2242,8 @@
     },
     "Mutaha AAS v1": {
         "map": "Mutaha",
+        "layerClassname": "Mutaha_AAS_v1",
+        "mapClassname": "Mutaha",
         "mapSize": "2x2 km",
         "gamemode": "AAS",
         "version": "v1",
@@ -2101,6 +2269,8 @@
     },
     "Mutaha Invasion v1": {
         "map": "Mutaha",
+        "layerClassname": "Mutaha_Invasion_v1",
+        "mapClassname": "Mutaha",
         "mapSize": "2x2 km",
         "gamemode": "Invasion",
         "version": "v1",
@@ -2126,6 +2296,8 @@
     },
     "Mutaha RAAS v1": {
         "map": "Mutaha",
+        "layerClassname": "Mutaha_RAAS_v1",
+        "mapClassname": "Mutaha",
         "mapSize": "2x2 km",
         "gamemode": "RAAS",
         "version": "v1",
@@ -2151,6 +2323,8 @@
     },
     "Mutaha Skirmish v1": {
         "map": "Mutaha",
+        "layerClassname": "Mutaha_Skirmish_v1",
+        "mapClassname": "Mutaha",
         "mapSize": "2x2 km",
         "gamemode": "Skirmish",
         "version": "v1",
@@ -2176,6 +2350,8 @@
     },
     "Narva AAS v1": {
         "map": "Narva",
+        "layerClassname": "Narva_AAS_v1",
+        "mapClassname": "Narva",
         "mapSize": "2x2 km",
         "gamemode": "AAS",
         "version": "v1",
@@ -2201,6 +2377,8 @@
     },
     "Narva AAS v2": {
         "map": "Narva",
+        "layerClassname": "Narva_AAS_v2",
+        "mapClassname": "Narva",
         "mapSize": "2x2 km",
         "gamemode": "AAS",
         "version": "v2",
@@ -2226,6 +2404,8 @@
     },
     "Narva AAS v3": {
         "map": "Narva",
+        "layerClassname": "Narva_AAS_v3",
+        "mapClassname": "Narva",
         "mapSize": "2x2 km",
         "gamemode": "AAS",
         "version": "v3",
@@ -2251,6 +2431,8 @@
     },
     "Narva Destruction v1": {
         "map": "Narva",
+        "layerClassname": "Narva_Destruction_v1",
+        "mapClassname": "Narva",
         "mapSize": "2x2 km",
         "gamemode": "Destruction",
         "version": "v1",
@@ -2276,6 +2458,8 @@
     },
     "Narva Invasion v1": {
         "map": "Narva",
+        "layerClassname": "Narva_Invasion_v1",
+        "mapClassname": "Narva",
         "mapSize": "2x2 km",
         "gamemode": "Invasion",
         "version": "v1",
@@ -2301,6 +2485,8 @@
     },
     "Narva Invasion v2": {
         "map": "Narva",
+        "layerClassname": "Narva_Invasion_v2",
+        "mapClassname": "Narva",
         "mapSize": "2x2 km",
         "gamemode": "Invasion",
         "version": "v2",
@@ -2326,6 +2512,8 @@
     },
     "Narva RAAS v1": {
         "map": "Narva",
+        "layerClassname": "Narva_RAAS_v1",
+        "mapClassname": "Narva",
         "mapSize": "2x2 km",
         "gamemode": "RAAS",
         "version": "v1",
@@ -2351,6 +2539,8 @@
     },
     "Narva Skirmish v1": {
         "map": "Narva",
+        "layerClassname": "Narva_Skirmish_v1",
+        "mapClassname": "Narva",
         "mapSize": "2x2 km",
         "gamemode": "Skirmish",
         "version": "v1",
@@ -2376,6 +2566,8 @@
     },
     "Skorpo AAS v1": {
         "map": "Skorpo",
+        "layerClassname": "Skorpo_AAS_v1",
+        "mapClassname": "Skorpo",
         "mapSize": "5x5 km",
         "gamemode": "AAS",
         "version": "v1",
@@ -2401,6 +2593,8 @@
     },
     "Skorpo Invasion v1": {
         "map": "Skorpo",
+        "layerClassname": "Skorpo_Invasion_v1",
+        "mapClassname": "Skorpo",
         "mapSize": "5x5 km",
         "gamemode": "Invasion",
         "version": "v1",
@@ -2426,6 +2620,8 @@
     },
     "Skorpo Invasion v2": {
         "map": "Skorpo",
+        "layerClassname": "Skorpo_Invasion_v2",
+        "mapClassname": "Skorpo",
         "mapSize": "5x5 km",
         "gamemode": "Invasion",
         "version": "v2",
@@ -2451,6 +2647,8 @@
     },
     "Skorpo RAAS v1": {
         "map": "Skorpo",
+        "layerClassname": "Skorpo_RAAS_v1",
+        "mapClassname": "Skorpo",
         "mapSize": "5x5 km",
         "gamemode": "RAAS",
         "version": "v1",
@@ -2476,6 +2674,8 @@
     },
     "Skorpo RAAS v2": {
         "map": "Skorpo",
+        "layerClassname": "Skorpo_RAAS_v2",
+        "mapClassname": "Skorpo",
         "mapSize": "5x5 km",
         "gamemode": "RAAS",
         "version": "v2",
@@ -2501,6 +2701,8 @@
     },
     "Skorpo RAAS v3": {
         "map": "Skorpo",
+        "layerClassname": "Skorpo_RAAS_v3",
+        "mapClassname": "Skorpo",
         "mapSize": "5x5 km",
         "gamemode": "RAAS",
         "version": "v3",
@@ -2526,6 +2728,8 @@
     },
     "Skorpo RAAS v4": {
         "map": "Skorpo",
+        "layerClassname": "Skorpo_RAAS_v4",
+        "mapClassname": "Skorpo",
         "mapSize": "5x5 km",
         "gamemode": "RAAS",
         "version": "v4",
@@ -2551,6 +2755,8 @@
     },
     "Skorpo Skirmish v1": {
         "map": "Skorpo",
+        "layerClassname": "Skorpo_Skirmish_v1",
+        "mapClassname": "Skorpo",
         "mapSize": "5x5 km",
         "gamemode": "Skirmish",
         "version": "v1",
@@ -2576,6 +2782,8 @@
     },
     "Sumari AAS v1": {
         "map": "Sumari",
+        "layerClassname": "Sumari_AAS_v1",
+        "mapClassname": "Sumari",
         "mapSize": "1x1 km",
         "gamemode": "AAS",
         "version": "v1",
@@ -2601,6 +2809,8 @@
     },
     "Sumari Invasion v1": {
         "map": "Sumari",
+        "layerClassname": "Sumari_Invasion_v1",
+        "mapClassname": "Sumari",
         "mapSize": "1x1 km",
         "gamemode": "Invasion",
         "version": "v1",
@@ -2626,6 +2836,8 @@
     },
     "Sumari Insurgency v1": {
         "map": "Sumari",
+        "layerClassname": "Sumari_Insurgency_v1",
+        "mapClassname": "Sumari",
         "mapSize": "1x1 km",
         "gamemode": "Insurgency",
         "version": "v1",
@@ -2651,6 +2863,8 @@
     },
     "Sumari RAAS v1": {
         "map": "Sumari",
+        "layerClassname": "Sumari_RAAS_v1",
+        "mapClassname": "Sumari",
         "mapSize": "1x1 km",
         "gamemode": "RAAS",
         "version": "v1",
@@ -2676,6 +2890,8 @@
     },
     "Sumari RAAS v2": {
         "map": "Sumari",
+        "layerClassname": "Sumari_RAAS_v2",
+        "mapClassname": "Sumari",
         "mapSize": "1x1 km",
         "gamemode": "RAAS",
         "version": "v2",
@@ -2701,6 +2917,8 @@
     },
     "Sumari Skirmish v1": {
         "map": "Sumari",
+        "layerClassname": "Sumari_Skirmish_v1",
+        "mapClassname": "Sumari",
         "mapSize": "1x1 km",
         "gamemode": "Skirmish",
         "version": "v1",
@@ -2726,6 +2944,8 @@
     },
     "Tallil Outskirts AAS v1": {
         "map": "Tallil Outskirts",
+        "layerClassname": "Tallil_Outskirts_AAS_v1",
+        "mapClassname": "Tallil_Outskirts",
         "mapSize": "4x4 km",
         "gamemode": "AAS",
         "version": "v1",
@@ -2751,6 +2971,8 @@
     },
     "Tallil Outskirts Invasion v1": {
         "map": "Tallil Outskirts",
+        "layerClassname": "Tallil_Outskirts_Invasion_v1",
+        "mapClassname": "Tallil_Outskirts",
         "mapSize": "4x4 km",
         "gamemode": "Invasion",
         "version": "v1",
@@ -2776,6 +2998,8 @@
     },
     "Tallil Outskirts Invasion v2": {
         "map": "Tallil Outskirts",
+        "layerClassname": "Tallil_Outskirts_Invasion_v2",
+        "mapClassname": "Tallil_Outskirts",
         "mapSize": "4x4 km",
         "gamemode": "Invasion",
         "version": "v2",
@@ -2801,6 +3025,8 @@
     },
     "Tallil Outskirts Invasion v3": {
         "map": "Tallil Outskirts",
+        "layerClassname": "Tallil_Outskirts_Invasion_v3",
+        "mapClassname": "Tallil_Outskirts",
         "mapSize": "4x4 km",
         "gamemode": "Invasion",
         "version": "v3",
@@ -2826,6 +3052,8 @@
     },
     "Tallil Outskirts RAAS v1": {
         "map": "Tallil Outskirts",
+        "layerClassname": "Tallil_Outskirts_RAAS_v1",
+        "mapClassname": "Tallil_Outskirts",
         "mapSize": "4x4 km",
         "gamemode": "RAAS",
         "version": "v1",
@@ -2851,6 +3079,8 @@
     },
     "Tallil Outskirts RAAS v2": {
         "map": "Tallil Outskirts",
+        "layerClassname": "Tallil_Outskirts_RAAS_v2",
+        "mapClassname": "Tallil_Outskirts",
         "mapSize": "4x4 km",
         "gamemode": "RAAS",
         "version": "v2",
@@ -2876,6 +3106,8 @@
     },
     "Tallil Outskirts RAAS v3": {
         "map": "Tallil Outskirts",
+        "layerClassname": "Tallil_Outskirts_RAAS_v3",
+        "mapClassname": "Tallil_Outskirts",
         "mapSize": "4x4 km",
         "gamemode": "RAAS",
         "version": "v3",
@@ -2901,6 +3133,8 @@
     },
     "Tallil Outskirts RAAS v4": {
         "map": "Tallil Outskirts",
+        "layerClassname": "Tallil_Outskirts_RAAS_v4",
+        "mapClassname": "Tallil_Outskirts",
         "mapSize": "4x4 km",
         "gamemode": "RAAS",
         "version": "v4",
@@ -2926,6 +3160,8 @@
     },
     "Tallil Outskirts Skirmish v1": {
         "map": "Tallil Outskirts",
+        "layerClassname": "Tallil_Outskirts_Skirmish_v1",
+        "mapClassname": "Tallil_Outskirts",
         "mapSize": "4x4 km",
         "gamemode": "Skirmish",
         "version": "v1",
@@ -2951,6 +3187,8 @@
     },
     "Tallil Outskirts Skirmish v2": {
         "map": "Tallil Outskirts",
+        "layerClassname": "Tallil_Outskirts_Skirmish_v2",
+        "mapClassname": "Tallil_Outskirts",
         "mapSize": "4x4 km",
         "gamemode": "Skirmish",
         "version": "v2",
@@ -2976,6 +3214,8 @@
     },
     "Tallil Outskirts Skirmish v3": {
         "map": "Tallil Outskirts",
+        "layerClassname": "Tallil_Outskirts_Skirmish_v3",
+        "mapClassname": "Tallil_Outskirts",
         "mapSize": "4x4 km",
         "gamemode": "Skirmish",
         "version": "v3",
@@ -3001,6 +3241,8 @@
     },
     "Yehorivka AAS v1": {
         "map": "Yehorivka",
+        "layerClassname": "Yehorivka_AAS_v1",
+        "mapClassname": "Yehorivka",
         "mapSize": "5x5 km",
         "gamemode": "AAS",
         "version": "v1",
@@ -3026,6 +3268,8 @@
     },
     "Yehorivka AAS v2": {
         "map": "Yehorivka",
+        "layerClassname": "Yehorivka_AAS_v2",
+        "mapClassname": "Yehorivka",
         "mapSize": "5x5 km",
         "gamemode": "AAS",
         "version": "v2",
@@ -3051,6 +3295,8 @@
     },
     "Yehorivka Destruction v1": {
         "map": "Yehorivka",
+        "layerClassname": "Yehorivka_Destruction_v1",
+        "mapClassname": "Yehorivka",
         "mapSize": "5x5 km",
         "gamemode": "Destruction",
         "version": "v1",
@@ -3076,6 +3322,8 @@
     },
     "Yehorivka Invasion v1": {
         "map": "Yehorivka",
+        "layerClassname": "Yehorivka_Invasion_v1",
+        "mapClassname": "Yehorivka",
         "mapSize": "5x5 km",
         "gamemode": "Invasion",
         "version": "v1",
@@ -3101,6 +3349,8 @@
     },
     "Yehorivka Invasion v2": {
         "map": "Yehorivka",
+        "layerClassname": "Yehorivka_Invasion_v2",
+        "mapClassname": "Yehorivka",
         "mapSize": "5x5 km",
         "gamemode": "Invasion",
         "version": "v2",
@@ -3126,6 +3376,8 @@
     },
     "Yehorivka RAAS v1": {
         "map": "Yehorivka",
+        "layerClassname": "Yehorivka_RAAS_v1",
+        "mapClassname": "Yehorivka",
         "mapSize": "5x5 km",
         "gamemode": "RAAS",
         "version": "v1",
@@ -3151,6 +3403,8 @@
     },
     "Yehorivka RAAS v2": {
         "map": "Yehorivka",
+        "layerClassname": "Yehorivka_RAAS_v2",
+        "mapClassname": "Yehorivka",
         "mapSize": "5x5 km",
         "gamemode": "RAAS",
         "version": "v2",
@@ -3176,6 +3430,8 @@
     },
     "Yehorivka RAAS v3": {
         "map": "Yehorivka",
+        "layerClassname": "Yehorivka_RAAS_v3",
+        "mapClassname": "Yehorivka",
         "mapSize": "5x5 km",
         "gamemode": "RAAS",
         "version": "v3",
@@ -3201,6 +3457,8 @@
     },
     "Yehorivka RAAS v4": {
         "map": "Yehorivka",
+        "layerClassname": "Yehorivka_RAAS_v4",
+        "mapClassname": "Yehorivka",
         "mapSize": "5x5 km",
         "gamemode": "RAAS",
         "version": "v4",
@@ -3226,6 +3484,8 @@
     },
     "Yehorivka RAAS v5": {
         "map": "Yehorivka",
+        "layerClassname": "Yehorivka_RAAS_v5",
+        "mapClassname": "Yehorivka",
         "mapSize": "5x5 km",
         "gamemode": "RAAS",
         "version": "v5",
@@ -3251,6 +3511,8 @@
     },
     "Yehorivka Skirmish v1": {
         "map": "Yehorivka",
+        "layerClassname": "Yehorivka_Skirmish_v1",
+        "mapClassname": "Yehorivka",
         "mapSize": "5x5 km",
         "gamemode": "Skirmish",
         "version": "v1",
@@ -3276,6 +3538,8 @@
     },
     "Yehorivka Skirmish v2": {
         "map": "Yehorivka",
+        "layerClassname": "Yehorivka_Skirmish_v2",
+        "mapClassname": "Yehorivka",
         "mapSize": "5x5 km",
         "gamemode": "Skirmish",
         "version": "v2",
@@ -3301,6 +3565,8 @@
     },
     "Yehorivka Skirmish v3": {
         "map": "Yehorivka",
+        "layerClassname": "Yehorivka_Skirmish_v3",
+        "mapClassname": "Yehorivka",
         "mapSize": "5x5 km",
         "gamemode": "Skirmish",
         "version": "v3",
@@ -3326,6 +3592,8 @@
     },
     "CAF_Gorodok_Invasion_v1": {
         "map": "CAF_Gorodok",
+        "layerClassname": "Invasion_v1",
+        "mapClassname": "CAF_Gorodok",
         "gamemode": "Invasion",
         "version": "v1",
         "dlc": "CAF",
@@ -3351,6 +3619,8 @@
     },
     "CAF_Gorodok_RAAS_v1": {
         "map": "CAF_Gorodok",
+        "layerClassname": "RAAS_v1",
+        "mapClassname": "CAF_Gorodok",
         "gamemode": "RAAS",
         "version": "v1",
         "dlc": "CAF",
@@ -3376,6 +3646,8 @@
     },
     "CAF_Gorodok_RAAS_v2": {
         "map": "CAF_Gorodok",
+        "layerClassname": "RAAS_v2",
+        "mapClassname": "CAF_Gorodok",
         "gamemode": "RAAS",
         "version": "v2",
         "dlc": "CAF",
@@ -3401,6 +3673,8 @@
     },
     "CAF_Jensens_Range_Training_v4": {
         "map": "CAF_Jensens_Range",
+        "layerClassname": "Training_v4",
+        "mapClassname": "CAF_Jensens_Range",
         "gamemode": "Training",
         "version": "v4",
         "dlc": "CAF",
@@ -3426,6 +3700,8 @@
     },
     "CAF_Kamdesh_Invasion_v1": {
         "map": "CAF_Kamdesh",
+        "layerClassname": "Invasion_v1",
+        "mapClassname": "CAF_Kamdesh",
         "gamemode": "Invasion",
         "version": "v1",
         "dlc": "CAF",
@@ -3451,6 +3727,8 @@
     },
     "CAF_Kamdesh_RAAS_v1": {
         "map": "CAF_Kamdesh",
+        "layerClassname": "RAAS_v1",
+        "mapClassname": "CAF_Kamdesh",
         "gamemode": "RAAS",
         "version": "v1",
         "dlc": "CAF",
@@ -3476,6 +3754,8 @@
     },
     "CAF_Kohat_Invasion_v1": {
         "map": "CAF_Kohat",
+        "layerClassname": "Invasion_v1",
+        "mapClassname": "CAF_Kohat",
         "gamemode": "Invasion",
         "version": "v1",
         "dlc": "CAF",
@@ -3501,6 +3781,8 @@
     },
     "CAF_Manic_Invasion_v1": {
         "map": "CAF_Manic",
+        "layerClassname": "Invasion_v1",
+        "mapClassname": "CAF_Manic",
         "gamemode": "Invasion",
         "version": "v1",
         "dlc": "CAF",
@@ -3526,6 +3808,8 @@
     },
     "CAF_Manic_Invasion_v2": {
         "map": "CAF_Manic",
+        "layerClassname": "Invasion_v2",
+        "mapClassname": "CAF_Manic",
         "gamemode": "Invasion",
         "version": "v2",
         "dlc": "CAF",
@@ -3551,6 +3835,8 @@
     },
     "CAF_Manic_RAAS_v1": {
         "map": "CAF_Manic",
+        "layerClassname": "RAAS_v1",
+        "mapClassname": "CAF_Manic",
         "gamemode": "RAAS",
         "version": "v1",
         "dlc": "CAF",
@@ -3576,6 +3862,8 @@
     },
     "CAF_Manic_RAAS_v2": {
         "map": "CAF_Manic",
+        "layerClassname": "RAAS_v2",
+        "mapClassname": "CAF_Manic",
         "gamemode": "RAAS",
         "version": "v2",
         "dlc": "CAF",
@@ -3601,6 +3889,8 @@
     },
     "CAF_Manic_RAAS_v3": {
         "map": "CAF_Manic",
+        "layerClassname": "RAAS_v3",
+        "mapClassname": "CAF_Manic",
         "gamemode": "RAAS",
         "version": "v3",
         "dlc": "CAF",
@@ -3626,6 +3916,8 @@
     },
     "CAF_Manic_RAAS_v4": {
         "map": "CAF_Manic",
+        "layerClassname": "RAAS_v4",
+        "mapClassname": "CAF_Manic",
         "gamemode": "RAAS",
         "version": "v4",
         "dlc": "CAF",
@@ -3651,6 +3943,8 @@
     },
     "CAF_Manic_Skirmish_v1": {
         "map": "CAF_Manic",
+        "layerClassname": "Skirmish_v1",
+        "mapClassname": "CAF_Manic",
         "gamemode": "Skirmish",
         "version": "v1",
         "dlc": "CAF",
@@ -3676,6 +3970,8 @@
     },
     "CAF_Manic_Skirmish_v2": {
         "map": "CAF_Manic",
+        "layerClassname": "Skirmish_v2",
+        "mapClassname": "CAF_Manic",
         "gamemode": "Skirmish",
         "version": "v2",
         "dlc": "CAF",
@@ -3701,6 +3997,8 @@
     },
     "CAF_Nanisivik_Invasion_v1": {
         "map": "CAF_Nanisivik",
+        "layerClassname": "Invasion_v1",
+        "mapClassname": "CAF_Nanisivik",
         "gamemode": "Invasion",
         "version": "v1",
         "dlc": "CAF",
@@ -3726,6 +4024,8 @@
     },
     "CAF_Nanisivik_RAAS_v1": {
         "map": "CAF_Nanisivik",
+        "layerClassname": "RAAS_v1",
+        "mapClassname": "CAF_Nanisivik",
         "gamemode": "RAAS",
         "version": "v1",
         "dlc": "CAF",
@@ -3751,6 +4051,8 @@
     },
     "CAF_Narva_RAAS_v1": {
         "map": "CAF_Narva",
+        "layerClassname": "RAAS_v1",
+        "mapClassname": "CAF_Narva",
         "gamemode": "RAAS",
         "version": "v1",
         "dlc": "CAF",
@@ -3776,6 +4078,8 @@
     },
     "CAF_Tallil_Outskirts_RAAS_v1": {
         "map": "CAF_Tallil_Outskirts",
+        "layerClassname": "RAAS_v1",
+        "mapClassname": "CAF_Tallil_Outskirts",
         "gamemode": "RAAS",
         "version": "v1",
         "dlc": "CAF",
@@ -3801,6 +4105,8 @@
     },
     "CAF_Yehorivka_Invasion_v1": {
         "map": "CAF_Yehorivka",
+        "layerClassname": "Invasion_v1",
+        "mapClassname": "CAF_Yehorivka",
         "gamemode": "Invasion",
         "version": "v1",
         "dlc": "CAF",
@@ -3826,6 +4132,8 @@
     },
     "CAF_Yehorivka_RAAS_v1": {
         "map": "CAF_Yehorivka",
+        "layerClassname": "RAAS_v1",
+        "mapClassname": "CAF_Yehorivka",
         "gamemode": "RAAS",
         "version": "v1",
         "dlc": "CAF",
