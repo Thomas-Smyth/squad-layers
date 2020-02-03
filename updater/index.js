@@ -42,7 +42,7 @@ async function getVanillaLayers(sheets){
 
         const [
             mapRaw,
-            layer,
+            layerRaw,
             lighting,
             info,
             commander,
@@ -59,16 +59,19 @@ async function getVanillaLayers(sheets){
         const map = mapRaw
             .replace('Logar', 'Logar Valley');
 
-        const [gamemode, version] = layer.split(' ');
-
         if(map !== '' && !map.includes('km')) {
             currentMapName = map;
             currentMapSize = rows[i+1][0];
         }
+        const layer = `${currentMapName} ${layerRaw}`;
+        const [gamemode, version] = layerRaw.split(' ');
 
-        layers[`${currentMapName} ${layer}`] = {
+        console.log(layer);
+
+        layers[layer] = {
+            layer: layer,
             map: currentMapName,
-            layerClassname: classnameConverter(`${currentMapName} ${layer}`),
+            layerClassname: classnameConverter(layer),
             mapClassname: classnameConverter(currentMapName, false),
             mapSize: currentMapSize,
             gamemode,
@@ -121,10 +124,11 @@ async function getCAFLayers(sheets){
         ] = row;
 
         const map = classnameConverter(mapRaw);
-        const layer = classnameConverter(layerRaw, false);
+        const layer = classnameConverter(`${map}_${layerRaw}`, false);
         const [gamemode, version] = layerRaw.split(' ');
 
-        layers[`${map}_${layer}`] = {
+        layers[layer] = {
+            layer: layer,
             map,
             layerClassname: layer,
             mapClassname: map,

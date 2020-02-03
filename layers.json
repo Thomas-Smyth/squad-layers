@@ -1,5 +1,6 @@
 {
     "Al Basrah AAS v1": {
+        "layer": "Al Basrah AAS v1",
         "map": "Al Basrah",
         "layerClassname": "Al_Basrah_AAS_v1",
         "mapClassname": "Al_Basrah",
@@ -27,6 +28,7 @@
         }
     },
     "Al Basrah Insurgency v1": {
+        "layer": "Al Basrah Insurgency v1",
         "map": "Al Basrah",
         "layerClassname": "Al_Basrah_Insurgency_v1",
         "mapClassname": "Al_Basrah",
@@ -54,6 +56,7 @@
         }
     },
     "Al Basrah Invasion v1": {
+        "layer": "Al Basrah Invasion v1",
         "map": "Al Basrah",
         "layerClassname": "Al_Basrah_Invasion_v1",
         "mapClassname": "Al_Basrah",
@@ -81,6 +84,7 @@
         }
     },
     "Al Basrah Invasion v2": {
+        "layer": "Al Basrah Invasion v2",
         "map": "Al Basrah",
         "layerClassname": "Al_Basrah_Invasion_v2",
         "mapClassname": "Al_Basrah",
@@ -108,6 +112,7 @@
         }
     },
     "Al Basrah RAAS v1": {
+        "layer": "Al Basrah RAAS v1",
         "map": "Al Basrah",
         "layerClassname": "Al_Basrah_RAAS_v1",
         "mapClassname": "Al_Basrah",
@@ -135,6 +140,7 @@
         }
     },
     "Al Basrah Skirmish v1": {
+        "layer": "Al Basrah Skirmish v1",
         "map": "Al Basrah",
         "layerClassname": "Al_Basrah_Skirmish_v1",
         "mapClassname": "Al_Basrah",
@@ -162,6 +168,7 @@
         }
     },
     "Al Basrah Skirmish v2": {
+        "layer": "Al Basrah Skirmish v2",
         "map": "Al Basrah",
         "layerClassname": "Al_Basrah_Skirmish_v2",
         "mapClassname": "Al_Basrah",
@@ -189,6 +196,7 @@
         }
     },
     "Belaya AAS v1": {
+        "layer": "Belaya AAS v1",
         "map": "Belaya",
         "layerClassname": "Belaya_AAS_v1",
         "mapClassname": "Belaya",
@@ -216,6 +224,7 @@
         }
     },
     "Belaya Invasion v1": {
+        "layer": "Belaya Invasion v1",
         "map": "Belaya",
         "layerClassname": "Belaya_Invasion_v1",
         "mapClassname": "Belaya",
@@ -243,6 +252,7 @@
         }
     },
     "Belaya Invasion v2": {
+        "layer": "Belaya Invasion v2",
         "map": "Belaya",
         "layerClassname": "Belaya_Invasion_v2",
         "mapClassname": "Belaya",
@@ -270,6 +280,7 @@
         }
     },
     "Belaya Invasion v3": {
+        "layer": "Belaya Invasion v3",
         "map": "Belaya",
         "layerClassname": "Belaya_Invasion_v3",
         "mapClassname": "Belaya",
@@ -297,6 +308,7 @@
         }
     },
     "Belaya RAAS v1": {
+        "layer": "Belaya RAAS v1",
         "map": "Belaya",
         "layerClassname": "Belaya_RAAS_v1",
         "mapClassname": "Belaya",
@@ -324,6 +336,7 @@
         }
     },
     "Belaya RAAS v2": {
+        "layer": "Belaya RAAS v2",
         "map": "Belaya",
         "layerClassname": "Belaya_RAAS_v2",
         "mapClassname": "Belaya",
@@ -351,6 +364,7 @@
         }
     },
     "Belaya RAAS v3": {
+        "layer": "Belaya RAAS v3",
         "map": "Belaya",
         "layerClassname": "Belaya_RAAS_v3",
         "mapClassname": "Belaya",
@@ -378,6 +392,7 @@
         }
     },
     "Belaya Skirmish v1": {
+        "layer": "Belaya Skirmish v1",
         "map": "Belaya",
         "layerClassname": "Belaya_Skirmish_v1",
         "mapClassname": "Belaya",
@@ -405,6 +420,7 @@
         }
     },
     "Chora AAS v1": {
+        "layer": "Chora AAS v1",
         "map": "Chora",
         "layerClassname": "Chora_AAS_v1",
         "mapClassname": "Chora",
@@ -432,6 +448,7 @@
         }
     },
     "Chora AAS v2": {
+        "layer": "Chora AAS v2",
         "map": "Chora",
         "layerClassname": "Chora_AAS_v2",
         "mapClassname": "Chora",
@@ -459,6 +476,7 @@
         }
     },
     "Chora Insurgency v1": {
+        "layer": "Chora Insurgency v1",
         "map": "Chora",
         "layerClassname": "Chora_Insurgency_v1",
         "mapClassname": "Chora",
@@ -486,6 +504,7 @@
         }
     },
     "Chora Invasion v1": {
+        "layer": "Chora Invasion v1",
         "map": "Chora",
         "layerClassname": "Chora_Invasion_v1",
         "mapClassname": "Chora",
@@ -513,6 +532,7 @@
         }
     },
     "Chora Invasion v2": {
+        "layer": "Chora Invasion v2",
         "map": "Chora",
         "layerClassname": "Chora_Invasion_v2",
         "mapClassname": "Chora",
@@ -540,6 +560,7 @@
         }
     },
     "Chora RAAS v1": {
+        "layer": "Chora RAAS v1",
         "map": "Chora",
         "layerClassname": "Chora_RAAS_v1",
         "mapClassname": "Chora",
@@ -567,6 +588,7 @@
         }
     },
     "Chora RAAS v2": {
+        "layer": "Chora RAAS v2",
         "map": "Chora",
         "layerClassname": "Chora_RAAS_v2",
         "mapClassname": "Chora",
@@ -594,6 +616,7 @@
         }
     },
     "Chora Skirmish v1": {
+        "layer": "Chora Skirmish v1",
         "map": "Chora",
         "layerClassname": "Chora_Skirmish_v1",
         "mapClassname": "Chora",
@@ -621,6 +644,7 @@
         }
     },
     "Fool's Road AAS v1": {
+        "layer": "Fool's Road AAS v1",
         "map": "Fool's Road",
         "layerClassname": "FoolsRoad_AAS_v1",
         "mapClassname": "Fools_Road",
@@ -648,6 +672,7 @@
         }
     },
     "Fool's Road AAS v2": {
+        "layer": "Fool's Road AAS v2",
         "map": "Fool's Road",
         "layerClassname": "FoolsRoad_AAS_v2",
         "mapClassname": "Fools_Road",
@@ -675,6 +700,7 @@
         }
     },
     "Fool's Road Destruction v1": {
+        "layer": "Fool's Road Destruction v1",
         "map": "Fool's Road",
         "layerClassname": "FoolsRoad_Destruction_v1",
         "mapClassname": "Fools_Road",
@@ -702,6 +728,7 @@
         }
     },
     "Fool's Road Invasion v1": {
+        "layer": "Fool's Road Invasion v1",
         "map": "Fool's Road",
         "layerClassname": "FoolsRoad_Invasion_v1",
         "mapClassname": "Fools_Road",
@@ -729,6 +756,7 @@
         }
     },
     "Fool's Road RAAS v1": {
+        "layer": "Fool's Road RAAS v1",
         "map": "Fool's Road",
         "layerClassname": "FoolsRoad_RAAS_v1",
         "mapClassname": "Fools_Road",
@@ -756,6 +784,7 @@
         }
     },
     "Fool's Road RAAS v2": {
+        "layer": "Fool's Road RAAS v2",
         "map": "Fool's Road",
         "layerClassname": "FoolsRoad_RAAS_v2",
         "mapClassname": "Fools_Road",
@@ -783,6 +812,7 @@
         }
     },
     "Fool's Road RAAS v3": {
+        "layer": "Fool's Road RAAS v3",
         "map": "Fool's Road",
         "layerClassname": "FoolsRoad_RAAS_v3",
         "mapClassname": "Fools_Road",
@@ -810,6 +840,7 @@
         }
     },
     "Fool's Road Skirmish v1": {
+        "layer": "Fool's Road Skirmish v1",
         "map": "Fool's Road",
         "layerClassname": "FoolsRoad_Skirmish_v1",
         "mapClassname": "Fools_Road",
@@ -837,6 +868,7 @@
         }
     },
     "Fool's Road Skirmish v2": {
+        "layer": "Fool's Road Skirmish v2",
         "map": "Fool's Road",
         "layerClassname": "FoolsRoad_Skirmish_v2",
         "mapClassname": "Fools_Road",
@@ -864,6 +896,7 @@
         }
     },
     "Gorodok AAS v1": {
+        "layer": "Gorodok AAS v1",
         "map": "Gorodok",
         "layerClassname": "Gorodok_AAS_v1",
         "mapClassname": "Gorodok",
@@ -891,6 +924,7 @@
         }
     },
     "Gorodok AAS v2": {
+        "layer": "Gorodok AAS v2",
         "map": "Gorodok",
         "layerClassname": "Gorodok_AAS_v2",
         "mapClassname": "Gorodok",
@@ -918,6 +952,7 @@
         }
     },
     "Gorodok Destruction v1": {
+        "layer": "Gorodok Destruction v1",
         "map": "Gorodok",
         "layerClassname": "Gorodok_Destruction_v1",
         "mapClassname": "Gorodok",
@@ -945,6 +980,7 @@
         }
     },
     "Gorodok Insurgency v1": {
+        "layer": "Gorodok Insurgency v1",
         "map": "Gorodok",
         "layerClassname": "Gorodok_Insurgency_v1",
         "mapClassname": "Gorodok",
@@ -972,6 +1008,7 @@
         }
     },
     "Gorodok Invasion v1": {
+        "layer": "Gorodok Invasion v1",
         "map": "Gorodok",
         "layerClassname": "Gorodok_Invasion_v1",
         "mapClassname": "Gorodok",
@@ -999,6 +1036,7 @@
         }
     },
     "Gorodok Invasion v2": {
+        "layer": "Gorodok Invasion v2",
         "map": "Gorodok",
         "layerClassname": "Gorodok_Invasion_v2",
         "mapClassname": "Gorodok",
@@ -1026,6 +1064,7 @@
         }
     },
     "Gorodok RAAS v1": {
+        "layer": "Gorodok RAAS v1",
         "map": "Gorodok",
         "layerClassname": "Gorodok_RAAS_v1",
         "mapClassname": "Gorodok",
@@ -1053,6 +1092,7 @@
         }
     },
     "Gorodok RAAS v2": {
+        "layer": "Gorodok RAAS v2",
         "map": "Gorodok",
         "layerClassname": "Gorodok_RAAS_v2",
         "mapClassname": "Gorodok",
@@ -1080,6 +1120,7 @@
         }
     },
     "Gorodok RAAS v3": {
+        "layer": "Gorodok RAAS v3",
         "map": "Gorodok",
         "layerClassname": "Gorodok_RAAS_v3",
         "mapClassname": "Gorodok",
@@ -1107,6 +1148,7 @@
         }
     },
     "Gorodok RAAS v4": {
+        "layer": "Gorodok RAAS v4",
         "map": "Gorodok",
         "layerClassname": "Gorodok_RAAS_v4",
         "mapClassname": "Gorodok",
@@ -1134,6 +1176,7 @@
         }
     },
     "Gorodok RAAS v5": {
+        "layer": "Gorodok RAAS v5",
         "map": "Gorodok",
         "layerClassname": "Gorodok_RAAS_v5",
         "mapClassname": "Gorodok",
@@ -1161,6 +1204,7 @@
         }
     },
     "Gorodok Skirmish v1": {
+        "layer": "Gorodok Skirmish v1",
         "map": "Gorodok",
         "layerClassname": "Gorodok_Skirmish_v1",
         "mapClassname": "Gorodok",
@@ -1188,6 +1232,7 @@
         }
     },
     "Jensen's Range Training v1": {
+        "layer": "Jensen's Range Training v1",
         "map": "Jensen's Range",
         "layerClassname": "Jensens_Range_Training_v1",
         "mapClassname": "Jensens_Range",
@@ -1215,6 +1260,7 @@
         }
     },
     "Jensen's Range Training v2": {
+        "layer": "Jensen's Range Training v2",
         "map": "Jensen's Range",
         "layerClassname": "Jensens_Range_Training_v2",
         "mapClassname": "Jensens_Range",
@@ -1242,6 +1288,7 @@
         }
     },
     "Jensen's Range Training v3": {
+        "layer": "Jensen's Range Training v3",
         "map": "Jensen's Range",
         "layerClassname": "Jensens_Range_Training_v3",
         "mapClassname": "Jensens_Range",
@@ -1269,6 +1316,7 @@
         }
     },
     "Kamdesh AAS v1": {
+        "layer": "Kamdesh AAS v1",
         "map": "Kamdesh",
         "layerClassname": "Kamdesh_AAS_v1",
         "mapClassname": "Kamdesh",
@@ -1296,6 +1344,7 @@
         }
     },
     "Kamdesh Insurgency v1": {
+        "layer": "Kamdesh Insurgency v1",
         "map": "Kamdesh",
         "layerClassname": "Kamdesh_Insurgency_v1",
         "mapClassname": "Kamdesh",
@@ -1323,6 +1372,7 @@
         }
     },
     "Kamdesh Insurgency v2": {
+        "layer": "Kamdesh Insurgency v2",
         "map": "Kamdesh",
         "layerClassname": "Kamdesh_Insurgency_v2",
         "mapClassname": "Kamdesh",
@@ -1350,6 +1400,7 @@
         }
     },
     "Kamdesh Invasion v1": {
+        "layer": "Kamdesh Invasion v1",
         "map": "Kamdesh",
         "layerClassname": "Kamdesh_Invasion_v1",
         "mapClassname": "Kamdesh",
@@ -1377,6 +1428,7 @@
         }
     },
     "Kamdesh Invasion v2": {
+        "layer": "Kamdesh Invasion v2",
         "map": "Kamdesh",
         "layerClassname": "Kamdesh_Invasion_v2",
         "mapClassname": "Kamdesh",
@@ -1404,6 +1456,7 @@
         }
     },
     "Kamdesh Invasion v3": {
+        "layer": "Kamdesh Invasion v3",
         "map": "Kamdesh",
         "layerClassname": "Kamdesh_Invasion_v3",
         "mapClassname": "Kamdesh",
@@ -1431,6 +1484,7 @@
         }
     },
     "Kamdesh RAAS v1": {
+        "layer": "Kamdesh RAAS v1",
         "map": "Kamdesh",
         "layerClassname": "Kamdesh_RAAS_v1",
         "mapClassname": "Kamdesh",
@@ -1458,6 +1512,7 @@
         }
     },
     "Kamdesh RAAS v2": {
+        "layer": "Kamdesh RAAS v2",
         "map": "Kamdesh",
         "layerClassname": "Kamdesh_RAAS_v2",
         "mapClassname": "Kamdesh",
@@ -1485,6 +1540,7 @@
         }
     },
     "Kamdesh RAAS v3": {
+        "layer": "Kamdesh RAAS v3",
         "map": "Kamdesh",
         "layerClassname": "Kamdesh_RAAS_v3",
         "mapClassname": "Kamdesh",
@@ -1512,6 +1568,7 @@
         }
     },
     "Kamdesh RAAS v4": {
+        "layer": "Kamdesh RAAS v4",
         "map": "Kamdesh",
         "layerClassname": "Kamdesh_RAAS_v4",
         "mapClassname": "Kamdesh",
@@ -1539,6 +1596,7 @@
         }
     },
     "Kamdesh Skirmish v1": {
+        "layer": "Kamdesh Skirmish v1",
         "map": "Kamdesh",
         "layerClassname": "Kamdesh_Skirmish_v1",
         "mapClassname": "Kamdesh",
@@ -1566,6 +1624,7 @@
         }
     },
     "Kohat AAS v1": {
+        "layer": "Kohat AAS v1",
         "map": "Kohat",
         "layerClassname": "Kohat_AAS_v1",
         "mapClassname": "Kohat",
@@ -1593,6 +1652,7 @@
         }
     },
     "Kohat Insurgency v1": {
+        "layer": "Kohat Insurgency v1",
         "map": "Kohat",
         "layerClassname": "Kohat_Insurgency_v1",
         "mapClassname": "Kohat",
@@ -1620,6 +1680,7 @@
         }
     },
     "Kohat Invasion v1": {
+        "layer": "Kohat Invasion v1",
         "map": "Kohat",
         "layerClassname": "Kohat_Invasion_v1",
         "mapClassname": "Kohat",
@@ -1647,6 +1708,7 @@
         }
     },
     "Kohat Invasion v2": {
+        "layer": "Kohat Invasion v2",
         "map": "Kohat",
         "layerClassname": "Kohat_Invasion_v2",
         "mapClassname": "Kohat",
@@ -1674,6 +1736,7 @@
         }
     },
     "Kohat RAAS v1": {
+        "layer": "Kohat RAAS v1",
         "map": "Kohat",
         "layerClassname": "Kohat_RAAS_v1",
         "mapClassname": "Kohat",
@@ -1701,6 +1764,7 @@
         }
     },
     "Kohat RAAS v2": {
+        "layer": "Kohat RAAS v2",
         "map": "Kohat",
         "layerClassname": "Kohat_RAAS_v2",
         "mapClassname": "Kohat",
@@ -1728,6 +1792,7 @@
         }
     },
     "Kohat RAAS v3": {
+        "layer": "Kohat RAAS v3",
         "map": "Kohat",
         "layerClassname": "Kohat_RAAS_v3",
         "mapClassname": "Kohat",
@@ -1755,6 +1820,7 @@
         }
     },
     "Kohat RAAS v4": {
+        "layer": "Kohat RAAS v4",
         "map": "Kohat",
         "layerClassname": "Kohat_RAAS_v4",
         "mapClassname": "Kohat",
@@ -1782,6 +1848,7 @@
         }
     },
     "Kohat Skirmish v1": {
+        "layer": "Kohat Skirmish v1",
         "map": "Kohat",
         "layerClassname": "Kohat_Skirmish_v1",
         "mapClassname": "Kohat",
@@ -1809,6 +1876,7 @@
         }
     },
     "Kokan AAS v1": {
+        "layer": "Kokan AAS v1",
         "map": "Kokan",
         "layerClassname": "Kokan_AAS_v1",
         "mapClassname": "Kokan",
@@ -1836,6 +1904,7 @@
         }
     },
     "Kokan Insurgency v1": {
+        "layer": "Kokan Insurgency v1",
         "map": "Kokan",
         "layerClassname": "Kokan_Insurgency_v1",
         "mapClassname": "Kokan",
@@ -1863,6 +1932,7 @@
         }
     },
     "Kokan Invasion v1": {
+        "layer": "Kokan Invasion v1",
         "map": "Kokan",
         "layerClassname": "Kokan_Invasion_v1",
         "mapClassname": "Kokan",
@@ -1890,6 +1960,7 @@
         }
     },
     "Kokan RAAS v1": {
+        "layer": "Kokan RAAS v1",
         "map": "Kokan",
         "layerClassname": "Kokan_RAAS_v1",
         "mapClassname": "Kokan",
@@ -1917,6 +1988,7 @@
         }
     },
     "Kokan RAAS v2": {
+        "layer": "Kokan RAAS v2",
         "map": "Kokan",
         "layerClassname": "Kokan_RAAS_v2",
         "mapClassname": "Kokan",
@@ -1944,6 +2016,7 @@
         }
     },
     "Kokan Skirmish v1": {
+        "layer": "Kokan Skirmish v1",
         "map": "Kokan",
         "layerClassname": "Kokan_Skirmish_v1",
         "mapClassname": "Kokan",
@@ -1971,6 +2044,7 @@
         }
     },
     "Logar Valley AAS v1": {
+        "layer": "Logar Valley AAS v1",
         "map": "Logar Valley",
         "layerClassname": "Logar_Valley_AAS_v1",
         "mapClassname": "Logar_Valley",
@@ -1998,6 +2072,7 @@
         }
     },
     "Logar Valley AAS v2": {
+        "layer": "Logar Valley AAS v2",
         "map": "Logar Valley",
         "layerClassname": "Logar_Valley_AAS_v2",
         "mapClassname": "Logar_Valley",
@@ -2025,6 +2100,7 @@
         }
     },
     "Logar Valley Insurgency v1": {
+        "layer": "Logar Valley Insurgency v1",
         "map": "Logar Valley",
         "layerClassname": "Logar_Valley_Insurgency_v1",
         "mapClassname": "Logar_Valley",
@@ -2052,6 +2128,7 @@
         }
     },
     "Logar Valley RAAS v1": {
+        "layer": "Logar Valley RAAS v1",
         "map": "Logar Valley",
         "layerClassname": "Logar_Valley_RAAS_v1",
         "mapClassname": "Logar_Valley",
@@ -2079,6 +2156,7 @@
         }
     },
     "Logar Valley Skirmish v1": {
+        "layer": "Logar Valley Skirmish v1",
         "map": "Logar Valley",
         "layerClassname": "Logar_Valley_Skirmish_v1",
         "mapClassname": "Logar_Valley",
@@ -2106,6 +2184,7 @@
         }
     },
     "Mestia AAS v1": {
+        "layer": "Mestia AAS v1",
         "map": "Mestia",
         "layerClassname": "Mestia_AAS_v1",
         "mapClassname": "Mestia",
@@ -2133,6 +2212,7 @@
         }
     },
     "Mestia Invasion v1": {
+        "layer": "Mestia Invasion v1",
         "map": "Mestia",
         "layerClassname": "Mestia_Invasion_v1",
         "mapClassname": "Mestia",
@@ -2160,6 +2240,7 @@
         }
     },
     "Mestia Invasion v2": {
+        "layer": "Mestia Invasion v2",
         "map": "Mestia",
         "layerClassname": "Mestia_Invasion_v2",
         "mapClassname": "Mestia",
@@ -2187,6 +2268,7 @@
         }
     },
     "Mestia RAAS v1": {
+        "layer": "Mestia RAAS v1",
         "map": "Mestia",
         "layerClassname": "Mestia_RAAS_v1",
         "mapClassname": "Mestia",
@@ -2214,6 +2296,7 @@
         }
     },
     "Mestia Skirmish v1": {
+        "layer": "Mestia Skirmish v1",
         "map": "Mestia",
         "layerClassname": "Mestia_Skirmish_v1",
         "mapClassname": "Mestia",
@@ -2241,6 +2324,7 @@
         }
     },
     "Mutaha AAS v1": {
+        "layer": "Mutaha AAS v1",
         "map": "Mutaha",
         "layerClassname": "Mutaha_AAS_v1",
         "mapClassname": "Mutaha",
@@ -2268,6 +2352,7 @@
         }
     },
     "Mutaha Invasion v1": {
+        "layer": "Mutaha Invasion v1",
         "map": "Mutaha",
         "layerClassname": "Mutaha_Invasion_v1",
         "mapClassname": "Mutaha",
@@ -2295,6 +2380,7 @@
         }
     },
     "Mutaha RAAS v1": {
+        "layer": "Mutaha RAAS v1",
         "map": "Mutaha",
         "layerClassname": "Mutaha_RAAS_v1",
         "mapClassname": "Mutaha",
@@ -2322,6 +2408,7 @@
         }
     },
     "Mutaha Skirmish v1": {
+        "layer": "Mutaha Skirmish v1",
         "map": "Mutaha",
         "layerClassname": "Mutaha_Skirmish_v1",
         "mapClassname": "Mutaha",
@@ -2349,6 +2436,7 @@
         }
     },
     "Narva AAS v1": {
+        "layer": "Narva AAS v1",
         "map": "Narva",
         "layerClassname": "Narva_AAS_v1",
         "mapClassname": "Narva",
@@ -2376,6 +2464,7 @@
         }
     },
     "Narva AAS v2": {
+        "layer": "Narva AAS v2",
         "map": "Narva",
         "layerClassname": "Narva_AAS_v2",
         "mapClassname": "Narva",
@@ -2403,6 +2492,7 @@
         }
     },
     "Narva AAS v3": {
+        "layer": "Narva AAS v3",
         "map": "Narva",
         "layerClassname": "Narva_AAS_v3",
         "mapClassname": "Narva",
@@ -2430,6 +2520,7 @@
         }
     },
     "Narva Destruction v1": {
+        "layer": "Narva Destruction v1",
         "map": "Narva",
         "layerClassname": "Narva_Destruction_v1",
         "mapClassname": "Narva",
@@ -2457,6 +2548,7 @@
         }
     },
     "Narva Invasion v1": {
+        "layer": "Narva Invasion v1",
         "map": "Narva",
         "layerClassname": "Narva_Invasion_v1",
         "mapClassname": "Narva",
@@ -2484,6 +2576,7 @@
         }
     },
     "Narva Invasion v2": {
+        "layer": "Narva Invasion v2",
         "map": "Narva",
         "layerClassname": "Narva_Invasion_v2",
         "mapClassname": "Narva",
@@ -2511,6 +2604,7 @@
         }
     },
     "Narva RAAS v1": {
+        "layer": "Narva RAAS v1",
         "map": "Narva",
         "layerClassname": "Narva_RAAS_v1",
         "mapClassname": "Narva",
@@ -2538,6 +2632,7 @@
         }
     },
     "Narva Skirmish v1": {
+        "layer": "Narva Skirmish v1",
         "map": "Narva",
         "layerClassname": "Narva_Skirmish_v1",
         "mapClassname": "Narva",
@@ -2565,6 +2660,7 @@
         }
     },
     "Skorpo AAS v1": {
+        "layer": "Skorpo AAS v1",
         "map": "Skorpo",
         "layerClassname": "Skorpo_AAS_v1",
         "mapClassname": "Skorpo",
@@ -2592,6 +2688,7 @@
         }
     },
     "Skorpo Invasion v1": {
+        "layer": "Skorpo Invasion v1",
         "map": "Skorpo",
         "layerClassname": "Skorpo_Invasion_v1",
         "mapClassname": "Skorpo",
@@ -2619,6 +2716,7 @@
         }
     },
     "Skorpo Invasion v2": {
+        "layer": "Skorpo Invasion v2",
         "map": "Skorpo",
         "layerClassname": "Skorpo_Invasion_v2",
         "mapClassname": "Skorpo",
@@ -2646,6 +2744,7 @@
         }
     },
     "Skorpo RAAS v1": {
+        "layer": "Skorpo RAAS v1",
         "map": "Skorpo",
         "layerClassname": "Skorpo_RAAS_v1",
         "mapClassname": "Skorpo",
@@ -2673,6 +2772,7 @@
         }
     },
     "Skorpo RAAS v2": {
+        "layer": "Skorpo RAAS v2",
         "map": "Skorpo",
         "layerClassname": "Skorpo_RAAS_v2",
         "mapClassname": "Skorpo",
@@ -2700,6 +2800,7 @@
         }
     },
     "Skorpo RAAS v3": {
+        "layer": "Skorpo RAAS v3",
         "map": "Skorpo",
         "layerClassname": "Skorpo_RAAS_v3",
         "mapClassname": "Skorpo",
@@ -2727,6 +2828,7 @@
         }
     },
     "Skorpo RAAS v4": {
+        "layer": "Skorpo RAAS v4",
         "map": "Skorpo",
         "layerClassname": "Skorpo_RAAS_v4",
         "mapClassname": "Skorpo",
@@ -2754,6 +2856,7 @@
         }
     },
     "Skorpo Skirmish v1": {
+        "layer": "Skorpo Skirmish v1",
         "map": "Skorpo",
         "layerClassname": "Skorpo_Skirmish_v1",
         "mapClassname": "Skorpo",
@@ -2781,6 +2884,7 @@
         }
     },
     "Sumari AAS v1": {
+        "layer": "Sumari AAS v1",
         "map": "Sumari",
         "layerClassname": "Sumari_AAS_v1",
         "mapClassname": "Sumari",
@@ -2808,6 +2912,7 @@
         }
     },
     "Sumari Invasion v1": {
+        "layer": "Sumari Invasion v1",
         "map": "Sumari",
         "layerClassname": "Sumari_Invasion_v1",
         "mapClassname": "Sumari",
@@ -2835,6 +2940,7 @@
         }
     },
     "Sumari Insurgency v1": {
+        "layer": "Sumari Insurgency v1",
         "map": "Sumari",
         "layerClassname": "Sumari_Insurgency_v1",
         "mapClassname": "Sumari",
@@ -2862,6 +2968,7 @@
         }
     },
     "Sumari RAAS v1": {
+        "layer": "Sumari RAAS v1",
         "map": "Sumari",
         "layerClassname": "Sumari_RAAS_v1",
         "mapClassname": "Sumari",
@@ -2889,6 +2996,7 @@
         }
     },
     "Sumari RAAS v2": {
+        "layer": "Sumari RAAS v2",
         "map": "Sumari",
         "layerClassname": "Sumari_RAAS_v2",
         "mapClassname": "Sumari",
@@ -2916,6 +3024,7 @@
         }
     },
     "Sumari Skirmish v1": {
+        "layer": "Sumari Skirmish v1",
         "map": "Sumari",
         "layerClassname": "Sumari_Skirmish_v1",
         "mapClassname": "Sumari",
@@ -2943,6 +3052,7 @@
         }
     },
     "Tallil Outskirts AAS v1": {
+        "layer": "Tallil Outskirts AAS v1",
         "map": "Tallil Outskirts",
         "layerClassname": "Tallil_Outskirts_AAS_v1",
         "mapClassname": "Tallil_Outskirts",
@@ -2970,6 +3080,7 @@
         }
     },
     "Tallil Outskirts Invasion v1": {
+        "layer": "Tallil Outskirts Invasion v1",
         "map": "Tallil Outskirts",
         "layerClassname": "Tallil_Outskirts_Invasion_v1",
         "mapClassname": "Tallil_Outskirts",
@@ -2997,6 +3108,7 @@
         }
     },
     "Tallil Outskirts Invasion v2": {
+        "layer": "Tallil Outskirts Invasion v2",
         "map": "Tallil Outskirts",
         "layerClassname": "Tallil_Outskirts_Invasion_v2",
         "mapClassname": "Tallil_Outskirts",
@@ -3024,6 +3136,7 @@
         }
     },
     "Tallil Outskirts Invasion v3": {
+        "layer": "Tallil Outskirts Invasion v3",
         "map": "Tallil Outskirts",
         "layerClassname": "Tallil_Outskirts_Invasion_v3",
         "mapClassname": "Tallil_Outskirts",
@@ -3051,6 +3164,7 @@
         }
     },
     "Tallil Outskirts RAAS v1": {
+        "layer": "Tallil Outskirts RAAS v1",
         "map": "Tallil Outskirts",
         "layerClassname": "Tallil_Outskirts_RAAS_v1",
         "mapClassname": "Tallil_Outskirts",
@@ -3078,6 +3192,7 @@
         }
     },
     "Tallil Outskirts RAAS v2": {
+        "layer": "Tallil Outskirts RAAS v2",
         "map": "Tallil Outskirts",
         "layerClassname": "Tallil_Outskirts_RAAS_v2",
         "mapClassname": "Tallil_Outskirts",
@@ -3105,6 +3220,7 @@
         }
     },
     "Tallil Outskirts RAAS v3": {
+        "layer": "Tallil Outskirts RAAS v3",
         "map": "Tallil Outskirts",
         "layerClassname": "Tallil_Outskirts_RAAS_v3",
         "mapClassname": "Tallil_Outskirts",
@@ -3132,6 +3248,7 @@
         }
     },
     "Tallil Outskirts RAAS v4": {
+        "layer": "Tallil Outskirts RAAS v4",
         "map": "Tallil Outskirts",
         "layerClassname": "Tallil_Outskirts_RAAS_v4",
         "mapClassname": "Tallil_Outskirts",
@@ -3159,6 +3276,7 @@
         }
     },
     "Tallil Outskirts Skirmish v1": {
+        "layer": "Tallil Outskirts Skirmish v1",
         "map": "Tallil Outskirts",
         "layerClassname": "Tallil_Outskirts_Skirmish_v1",
         "mapClassname": "Tallil_Outskirts",
@@ -3186,6 +3304,7 @@
         }
     },
     "Tallil Outskirts Skirmish v2": {
+        "layer": "Tallil Outskirts Skirmish v2",
         "map": "Tallil Outskirts",
         "layerClassname": "Tallil_Outskirts_Skirmish_v2",
         "mapClassname": "Tallil_Outskirts",
@@ -3213,6 +3332,7 @@
         }
     },
     "Tallil Outskirts Skirmish v3": {
+        "layer": "Tallil Outskirts Skirmish v3",
         "map": "Tallil Outskirts",
         "layerClassname": "Tallil_Outskirts_Skirmish_v3",
         "mapClassname": "Tallil_Outskirts",
@@ -3240,6 +3360,7 @@
         }
     },
     "Yehorivka AAS v1": {
+        "layer": "Yehorivka AAS v1",
         "map": "Yehorivka",
         "layerClassname": "Yehorivka_AAS_v1",
         "mapClassname": "Yehorivka",
@@ -3267,6 +3388,7 @@
         }
     },
     "Yehorivka AAS v2": {
+        "layer": "Yehorivka AAS v2",
         "map": "Yehorivka",
         "layerClassname": "Yehorivka_AAS_v2",
         "mapClassname": "Yehorivka",
@@ -3294,6 +3416,7 @@
         }
     },
     "Yehorivka Destruction v1": {
+        "layer": "Yehorivka Destruction v1",
         "map": "Yehorivka",
         "layerClassname": "Yehorivka_Destruction_v1",
         "mapClassname": "Yehorivka",
@@ -3321,6 +3444,7 @@
         }
     },
     "Yehorivka Invasion v1": {
+        "layer": "Yehorivka Invasion v1",
         "map": "Yehorivka",
         "layerClassname": "Yehorivka_Invasion_v1",
         "mapClassname": "Yehorivka",
@@ -3348,6 +3472,7 @@
         }
     },
     "Yehorivka Invasion v2": {
+        "layer": "Yehorivka Invasion v2",
         "map": "Yehorivka",
         "layerClassname": "Yehorivka_Invasion_v2",
         "mapClassname": "Yehorivka",
@@ -3375,6 +3500,7 @@
         }
     },
     "Yehorivka RAAS v1": {
+        "layer": "Yehorivka RAAS v1",
         "map": "Yehorivka",
         "layerClassname": "Yehorivka_RAAS_v1",
         "mapClassname": "Yehorivka",
@@ -3402,6 +3528,7 @@
         }
     },
     "Yehorivka RAAS v2": {
+        "layer": "Yehorivka RAAS v2",
         "map": "Yehorivka",
         "layerClassname": "Yehorivka_RAAS_v2",
         "mapClassname": "Yehorivka",
@@ -3429,6 +3556,7 @@
         }
     },
     "Yehorivka RAAS v3": {
+        "layer": "Yehorivka RAAS v3",
         "map": "Yehorivka",
         "layerClassname": "Yehorivka_RAAS_v3",
         "mapClassname": "Yehorivka",
@@ -3456,6 +3584,7 @@
         }
     },
     "Yehorivka RAAS v4": {
+        "layer": "Yehorivka RAAS v4",
         "map": "Yehorivka",
         "layerClassname": "Yehorivka_RAAS_v4",
         "mapClassname": "Yehorivka",
@@ -3483,6 +3612,7 @@
         }
     },
     "Yehorivka RAAS v5": {
+        "layer": "Yehorivka RAAS v5",
         "map": "Yehorivka",
         "layerClassname": "Yehorivka_RAAS_v5",
         "mapClassname": "Yehorivka",
@@ -3510,6 +3640,7 @@
         }
     },
     "Yehorivka Skirmish v1": {
+        "layer": "Yehorivka Skirmish v1",
         "map": "Yehorivka",
         "layerClassname": "Yehorivka_Skirmish_v1",
         "mapClassname": "Yehorivka",
@@ -3537,6 +3668,7 @@
         }
     },
     "Yehorivka Skirmish v2": {
+        "layer": "Yehorivka Skirmish v2",
         "map": "Yehorivka",
         "layerClassname": "Yehorivka_Skirmish_v2",
         "mapClassname": "Yehorivka",
@@ -3564,6 +3696,7 @@
         }
     },
     "Yehorivka Skirmish v3": {
+        "layer": "Yehorivka Skirmish v3",
         "map": "Yehorivka",
         "layerClassname": "Yehorivka_Skirmish_v3",
         "mapClassname": "Yehorivka",
@@ -3591,8 +3724,9 @@
         }
     },
     "CAF_Gorodok_Invasion_v1": {
+        "layer": "CAF_Gorodok_Invasion_v1",
         "map": "CAF_Gorodok",
-        "layerClassname": "Invasion_v1",
+        "layerClassname": "CAF_Gorodok_Invasion_v1",
         "mapClassname": "CAF_Gorodok",
         "gamemode": "Invasion",
         "version": "v1",
@@ -3618,8 +3752,9 @@
         }
     },
     "CAF_Gorodok_RAAS_v1": {
+        "layer": "CAF_Gorodok_RAAS_v1",
         "map": "CAF_Gorodok",
-        "layerClassname": "RAAS_v1",
+        "layerClassname": "CAF_Gorodok_RAAS_v1",
         "mapClassname": "CAF_Gorodok",
         "gamemode": "RAAS",
         "version": "v1",
@@ -3645,8 +3780,9 @@
         }
     },
     "CAF_Gorodok_RAAS_v2": {
+        "layer": "CAF_Gorodok_RAAS_v2",
         "map": "CAF_Gorodok",
-        "layerClassname": "RAAS_v2",
+        "layerClassname": "CAF_Gorodok_RAAS_v2",
         "mapClassname": "CAF_Gorodok",
         "gamemode": "RAAS",
         "version": "v2",
@@ -3672,8 +3808,9 @@
         }
     },
     "CAF_Jensens_Range_Training_v4": {
+        "layer": "CAF_Jensens_Range_Training_v4",
         "map": "CAF_Jensens_Range",
-        "layerClassname": "Training_v4",
+        "layerClassname": "CAF_Jensens_Range_Training_v4",
         "mapClassname": "CAF_Jensens_Range",
         "gamemode": "Training",
         "version": "v4",
@@ -3699,8 +3836,9 @@
         }
     },
     "CAF_Kamdesh_Invasion_v1": {
+        "layer": "CAF_Kamdesh_Invasion_v1",
         "map": "CAF_Kamdesh",
-        "layerClassname": "Invasion_v1",
+        "layerClassname": "CAF_Kamdesh_Invasion_v1",
         "mapClassname": "CAF_Kamdesh",
         "gamemode": "Invasion",
         "version": "v1",
@@ -3726,8 +3864,9 @@
         }
     },
     "CAF_Kamdesh_RAAS_v1": {
+        "layer": "CAF_Kamdesh_RAAS_v1",
         "map": "CAF_Kamdesh",
-        "layerClassname": "RAAS_v1",
+        "layerClassname": "CAF_Kamdesh_RAAS_v1",
         "mapClassname": "CAF_Kamdesh",
         "gamemode": "RAAS",
         "version": "v1",
@@ -3753,8 +3892,9 @@
         }
     },
     "CAF_Kohat_Invasion_v1": {
+        "layer": "CAF_Kohat_Invasion_v1",
         "map": "CAF_Kohat",
-        "layerClassname": "Invasion_v1",
+        "layerClassname": "CAF_Kohat_Invasion_v1",
         "mapClassname": "CAF_Kohat",
         "gamemode": "Invasion",
         "version": "v1",
@@ -3780,8 +3920,9 @@
         }
     },
     "CAF_Manic_Invasion_v1": {
+        "layer": "CAF_Manic_Invasion_v1",
         "map": "CAF_Manic",
-        "layerClassname": "Invasion_v1",
+        "layerClassname": "CAF_Manic_Invasion_v1",
         "mapClassname": "CAF_Manic",
         "gamemode": "Invasion",
         "version": "v1",
@@ -3807,8 +3948,9 @@
         }
     },
     "CAF_Manic_Invasion_v2": {
+        "layer": "CAF_Manic_Invasion_v2",
         "map": "CAF_Manic",
-        "layerClassname": "Invasion_v2",
+        "layerClassname": "CAF_Manic_Invasion_v2",
         "mapClassname": "CAF_Manic",
         "gamemode": "Invasion",
         "version": "v2",
@@ -3834,8 +3976,9 @@
         }
     },
     "CAF_Manic_RAAS_v1": {
+        "layer": "CAF_Manic_RAAS_v1",
         "map": "CAF_Manic",
-        "layerClassname": "RAAS_v1",
+        "layerClassname": "CAF_Manic_RAAS_v1",
         "mapClassname": "CAF_Manic",
         "gamemode": "RAAS",
         "version": "v1",
@@ -3861,8 +4004,9 @@
         }
     },
     "CAF_Manic_RAAS_v2": {
+        "layer": "CAF_Manic_RAAS_v2",
         "map": "CAF_Manic",
-        "layerClassname": "RAAS_v2",
+        "layerClassname": "CAF_Manic_RAAS_v2",
         "mapClassname": "CAF_Manic",
         "gamemode": "RAAS",
         "version": "v2",
@@ -3888,8 +4032,9 @@
         }
     },
     "CAF_Manic_RAAS_v3": {
+        "layer": "CAF_Manic_RAAS_v3",
         "map": "CAF_Manic",
-        "layerClassname": "RAAS_v3",
+        "layerClassname": "CAF_Manic_RAAS_v3",
         "mapClassname": "CAF_Manic",
         "gamemode": "RAAS",
         "version": "v3",
@@ -3915,8 +4060,9 @@
         }
     },
     "CAF_Manic_RAAS_v4": {
+        "layer": "CAF_Manic_RAAS_v4",
         "map": "CAF_Manic",
-        "layerClassname": "RAAS_v4",
+        "layerClassname": "CAF_Manic_RAAS_v4",
         "mapClassname": "CAF_Manic",
         "gamemode": "RAAS",
         "version": "v4",
@@ -3942,8 +4088,9 @@
         }
     },
     "CAF_Manic_Skirmish_v1": {
+        "layer": "CAF_Manic_Skirmish_v1",
         "map": "CAF_Manic",
-        "layerClassname": "Skirmish_v1",
+        "layerClassname": "CAF_Manic_Skirmish_v1",
         "mapClassname": "CAF_Manic",
         "gamemode": "Skirmish",
         "version": "v1",
@@ -3969,8 +4116,9 @@
         }
     },
     "CAF_Manic_Skirmish_v2": {
+        "layer": "CAF_Manic_Skirmish_v2",
         "map": "CAF_Manic",
-        "layerClassname": "Skirmish_v2",
+        "layerClassname": "CAF_Manic_Skirmish_v2",
         "mapClassname": "CAF_Manic",
         "gamemode": "Skirmish",
         "version": "v2",
@@ -3996,8 +4144,9 @@
         }
     },
     "CAF_Nanisivik_Invasion_v1": {
+        "layer": "CAF_Nanisivik_Invasion_v1",
         "map": "CAF_Nanisivik",
-        "layerClassname": "Invasion_v1",
+        "layerClassname": "CAF_Nanisivik_Invasion_v1",
         "mapClassname": "CAF_Nanisivik",
         "gamemode": "Invasion",
         "version": "v1",
@@ -4023,8 +4172,9 @@
         }
     },
     "CAF_Nanisivik_RAAS_v1": {
+        "layer": "CAF_Nanisivik_RAAS_v1",
         "map": "CAF_Nanisivik",
-        "layerClassname": "RAAS_v1",
+        "layerClassname": "CAF_Nanisivik_RAAS_v1",
         "mapClassname": "CAF_Nanisivik",
         "gamemode": "RAAS",
         "version": "v1",
@@ -4050,8 +4200,9 @@
         }
     },
     "CAF_Narva_RAAS_v1": {
+        "layer": "CAF_Narva_RAAS_v1",
         "map": "CAF_Narva",
-        "layerClassname": "RAAS_v1",
+        "layerClassname": "CAF_Narva_RAAS_v1",
         "mapClassname": "CAF_Narva",
         "gamemode": "RAAS",
         "version": "v1",
@@ -4077,8 +4228,9 @@
         }
     },
     "CAF_Tallil_Outskirts_RAAS_v1": {
+        "layer": "CAF_Tallil_Outskirts_RAAS_v1",
         "map": "CAF_Tallil_Outskirts",
-        "layerClassname": "RAAS_v1",
+        "layerClassname": "CAF_Tallil_Outskirts_RAAS_v1",
         "mapClassname": "CAF_Tallil_Outskirts",
         "gamemode": "RAAS",
         "version": "v1",
@@ -4104,8 +4256,9 @@
         }
     },
     "CAF_Yehorivka_Invasion_v1": {
+        "layer": "CAF_Yehorivka_Invasion_v1",
         "map": "CAF_Yehorivka",
-        "layerClassname": "Invasion_v1",
+        "layerClassname": "CAF_Yehorivka_Invasion_v1",
         "mapClassname": "CAF_Yehorivka",
         "gamemode": "Invasion",
         "version": "v1",
@@ -4131,8 +4284,9 @@
         }
     },
     "CAF_Yehorivka_RAAS_v1": {
+        "layer": "CAF_Yehorivka_RAAS_v1",
         "map": "CAF_Yehorivka",
-        "layerClassname": "RAAS_v1",
+        "layerClassname": "CAF_Yehorivka_RAAS_v1",
         "mapClassname": "CAF_Yehorivka",
         "gamemode": "RAAS",
         "version": "v1",
