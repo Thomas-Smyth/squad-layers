@@ -8,7 +8,8 @@ export default function (name, layer = true) {
 
     if(layer){
         name = name
-            .replace('Fools_Road', 'FoolsRoad');
+            .replace('Fools_Road', 'FoolsRoad')
+            .replace('Logar_Valley', 'LogarValley');
     }
 
     return name;
