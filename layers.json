@@ -8,7 +8,7 @@
         "gamemode": "AAS",
         "version": "v1",
         "lighting": "Sunny Mid Day",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 7,
         "teamOne": {
@@ -36,7 +36,7 @@
         "gamemode": "Insurgency",
         "version": "v1",
         "lighting": "Sunrise",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 0,
         "teamOne": {
@@ -148,7 +148,7 @@
         "gamemode": "Skirmish",
         "version": "v1",
         "lighting": "Sunny Mid Day",
-        "info": "",
+        "info": null,
         "commander": false,
         "flagCount": 5,
         "teamOne": {
@@ -176,11 +176,11 @@
         "gamemode": "Skirmish",
         "version": "v2",
         "lighting": "Sunrise",
-        "info": "",
+        "info": null,
         "commander": false,
         "flagCount": 4,
         "teamOne": {
-            "faction": "ML",
+            "faction": "MIL",
             "tickets": "150"
         },
         "teamTwo": {
@@ -204,7 +204,7 @@
         "gamemode": "TC",
         "version": "v1",
         "lighting": "Sunny Mid Day",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 67,
         "teamOne": {
@@ -228,7 +228,7 @@
         "gamemode": "TC",
         "version": "v2",
         "lighting": "Sunrise",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 53,
         "teamOne": {
@@ -252,11 +252,11 @@
         "gamemode": "AAS",
         "version": "v1",
         "lighting": "Overcast",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 5,
         "teamOne": {
-            "faction": "RU",
+            "faction": "RUS",
             "tickets": "300"
         },
         "teamTwo": {
@@ -284,7 +284,7 @@
         "commander": true,
         "flagCount": 5,
         "teamOne": {
-            "faction": "RU",
+            "faction": "RUS",
             "tickets": "150"
         },
         "teamTwo": {
@@ -392,7 +392,7 @@
         "gamemode": "RAAS",
         "version": "v2",
         "lighting": "Sunny Mid Day",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 5,
         "teamOne": {
@@ -420,7 +420,7 @@
         "gamemode": "RAAS",
         "version": "v3",
         "lighting": "Sunny Mid Day",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 5,
         "teamOne": {
@@ -448,11 +448,11 @@
         "gamemode": "Skirmish",
         "version": "v1",
         "lighting": "Overcast",
-        "info": "",
+        "info": null,
         "commander": false,
         "flagCount": 5,
         "teamOne": {
-            "faction": "RU",
+            "faction": "RUS",
             "tickets": "150"
         },
         "teamTwo": {
@@ -476,7 +476,7 @@
         "gamemode": "TC",
         "version": "v1",
         "lighting": "Overcast",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 67,
         "teamOne": {
@@ -500,7 +500,7 @@
         "gamemode": "AAS",
         "version": "v1",
         "lighting": "Mid Day",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 6,
         "teamOne": {
@@ -528,7 +528,7 @@
         "gamemode": "AAS",
         "version": "v2",
         "lighting": "Sunny Mid Day",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 5,
         "teamOne": {
@@ -556,7 +556,7 @@
         "gamemode": "Insurgency",
         "version": "v1",
         "lighting": "Sunny Mid Day",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 0,
         "teamOne": {
@@ -668,7 +668,7 @@
         "gamemode": "RAAS",
         "version": "v2",
         "lighting": "Sunny Mid Day",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 5,
         "teamOne": {
@@ -696,7 +696,7 @@
         "gamemode": "Skirmish",
         "version": "v1",
         "lighting": "Sunny Mid Day",
-        "info": "",
+        "info": null,
         "commander": false,
         "flagCount": 4,
         "teamOne": {
@@ -724,7 +724,7 @@
         "gamemode": "TC",
         "version": "v1",
         "lighting": "Sunny Mid Day",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 54,
         "teamOne": {
@@ -748,7 +748,7 @@
         "gamemode": "AAS",
         "version": "v1",
         "lighting": "Sunny Afternoon",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 5,
         "teamOne": {
@@ -776,7 +776,7 @@
         "gamemode": "AAS",
         "version": "v2",
         "lighting": "Sunny Afternoon",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 7,
         "teamOne": {
@@ -804,7 +804,7 @@
         "gamemode": "Destruction",
         "version": "v1",
         "lighting": "Sunny Afternoon",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 0,
         "teamOne": {
@@ -888,7 +888,7 @@
         "gamemode": "RAAS",
         "version": "v2",
         "lighting": "Sunny Afternoon",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 5,
         "teamOne": {
@@ -915,8 +915,8 @@
         "mapSize": "2x2 km",
         "gamemode": "RAAS",
         "version": "v3",
-        "lighting": "Overcast",
-        "info": "",
+        "lighting": "Sunny Afternoon",
+        "info": null,
         "commander": true,
         "flagCount": 6,
         "teamOne": {
@@ -944,7 +944,7 @@
         "gamemode": "Skirmish",
         "version": "v1",
         "lighting": "Sunny Afternoon",
-        "info": "",
+        "info": null,
         "commander": false,
         "flagCount": 5,
         "teamOne": {
@@ -972,7 +972,7 @@
         "gamemode": "Skirmish",
         "version": "v2",
         "lighting": "Sunny Afternoon",
-        "info": "",
+        "info": null,
         "commander": false,
         "flagCount": 3,
         "teamOne": {
@@ -1000,7 +1000,7 @@
         "gamemode": "TC",
         "version": "v1",
         "lighting": "Sunny Mid Day",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 30,
         "teamOne": {
@@ -1020,11 +1020,11 @@
         "map": "Gorodok",
         "layerClassname": "Gorodok_AAS_v1",
         "mapClassname": "Gorodok",
-        "mapSize": "4x4 km",
+        "mapSize": "",
         "gamemode": "AAS",
         "version": "v1",
         "lighting": "Sunny Mid Day",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 6,
         "teamOne": {
@@ -1044,43 +1044,15 @@
         }
     },
     {
-        "layer": "Gorodok AAS v2",
-        "map": "Gorodok",
-        "layerClassname": "Gorodok_AAS_v2",
-        "mapClassname": "Gorodok",
-        "mapSize": "4x4 km",
-        "gamemode": "AAS",
-        "version": "v2",
-        "lighting": "Sunny Mid Day",
-        "info": "",
-        "commander": true,
-        "flagCount": 6,
-        "teamOne": {
-            "faction": "USA",
-            "tickets": "300"
-        },
-        "teamTwo": {
-            "faction": "GB",
-            "tickets": "300"
-        },
-        "tanks": "x1 per team, 20min delay",
-        "helicopters": "x2 per team, 10min delay",
-        "newForVersion": false,
-        "estimatedSuitablePlayerCount": {
-            "min": 54,
-            "max": 80
-        }
-    },
-    {
         "layer": "Gorodok Destruction v1",
         "map": "Gorodok",
         "layerClassname": "Gorodok_Destruction_v1",
         "mapClassname": "Gorodok",
-        "mapSize": "4x4 km",
+        "mapSize": "",
         "gamemode": "Destruction",
         "version": "v1",
         "lighting": "Sunny Mid Day",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 0,
         "teamOne": {
@@ -1104,11 +1076,11 @@
         "map": "Gorodok",
         "layerClassname": "Gorodok_Insurgency_v1",
         "mapClassname": "Gorodok",
-        "mapSize": "4x4 km",
+        "mapSize": "",
         "gamemode": "Insurgency",
         "version": "v1",
         "lighting": "Sunset",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 0,
         "teamOne": {
@@ -1132,7 +1104,7 @@
         "map": "Gorodok",
         "layerClassname": "Gorodok_Invasion_v1",
         "mapClassname": "Gorodok",
-        "mapSize": "4x4 km",
+        "mapSize": "",
         "gamemode": "Invasion",
         "version": "v1",
         "lighting": "Sunset",
@@ -1160,7 +1132,7 @@
         "map": "Gorodok",
         "layerClassname": "Gorodok_Invasion_v2",
         "mapClassname": "Gorodok",
-        "mapSize": "4x4 km",
+        "mapSize": "",
         "gamemode": "Invasion",
         "version": "v2",
         "lighting": "Sunset",
@@ -1188,7 +1160,7 @@
         "map": "Gorodok",
         "layerClassname": "Gorodok_RAAS_v1",
         "mapClassname": "Gorodok",
-        "mapSize": "4x4 km",
+        "mapSize": "",
         "gamemode": "RAAS",
         "version": "v1",
         "lighting": "Sunny Mid Day",
@@ -1216,11 +1188,11 @@
         "map": "Gorodok",
         "layerClassname": "Gorodok_RAAS_v2",
         "mapClassname": "Gorodok",
-        "mapSize": "4x4 km",
+        "mapSize": "",
         "gamemode": "RAAS",
         "version": "v2",
         "lighting": "Sunny Mid Day",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 6,
         "teamOne": {
@@ -1244,11 +1216,11 @@
         "map": "Gorodok",
         "layerClassname": "Gorodok_RAAS_v3",
         "mapClassname": "Gorodok",
-        "mapSize": "4x4 km",
+        "mapSize": "",
         "gamemode": "RAAS",
         "version": "v3",
         "lighting": "Sunset",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 5,
         "teamOne": {
@@ -1260,10 +1232,10 @@
             "tickets": "300"
         },
         "tanks": "x1 per team, 20min delay",
-        "helicopters": "N/A",
+        "helicopters": "x2 per team, 20min delay",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 45,
+            "min": 54,
             "max": 80
         }
     },
@@ -1272,11 +1244,11 @@
         "map": "Gorodok",
         "layerClassname": "Gorodok_RAAS_v4",
         "mapClassname": "Gorodok",
-        "mapSize": "4x4 km",
+        "mapSize": "",
         "gamemode": "RAAS",
         "version": "v4",
         "lighting": "Sunset",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 5,
         "teamOne": {
@@ -1300,11 +1272,11 @@
         "map": "Gorodok",
         "layerClassname": "Gorodok_RAAS_v5",
         "mapClassname": "Gorodok",
-        "mapSize": "4x4 km",
+        "mapSize": "",
         "gamemode": "RAAS",
         "version": "v5",
         "lighting": "Sunset",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 7,
         "teamOne": {
@@ -1328,11 +1300,11 @@
         "map": "Gorodok",
         "layerClassname": "Gorodok_Skirmish_v1",
         "mapClassname": "Gorodok",
-        "mapSize": "4x4 km",
+        "mapSize": "",
         "gamemode": "Skirmish",
         "version": "v1",
         "lighting": "Overcast",
-        "info": "",
+        "info": null,
         "commander": false,
         "flagCount": 5,
         "teamOne": {
@@ -1356,11 +1328,11 @@
         "map": "Gorodok",
         "layerClassname": "Gorodok_TC_v1",
         "mapClassname": "Gorodok",
-        "mapSize": "4x4 km",
+        "mapSize": "",
         "gamemode": "TC",
         "version": "v1",
         "lighting": "Sunset",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 64,
         "teamOne": {
@@ -1384,7 +1356,7 @@
         "gamemode": "Training",
         "version": "v1",
         "lighting": "Sunny Mid Day",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 0,
         "teamOne": {
@@ -1412,7 +1384,7 @@
         "gamemode": "Training",
         "version": "v2",
         "lighting": "Sunny Mid Day",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 0,
         "teamOne": {
@@ -1440,7 +1412,7 @@
         "gamemode": "Training",
         "version": "v3",
         "lighting": "Sunny Mid Day",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 0,
         "teamOne": {
@@ -1468,7 +1440,7 @@
         "gamemode": "AAS",
         "version": "v1",
         "lighting": "Stormy",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 5,
         "teamOne": {
@@ -1476,7 +1448,7 @@
             "tickets": "300"
         },
         "teamTwo": {
-            "faction": "RU_DE",
+            "faction": "RUS_DE",
             "tickets": "300"
         },
         "tanks": "N/A",
@@ -1496,7 +1468,7 @@
         "gamemode": "Insurgency",
         "version": "v1",
         "lighting": "Sunny Mid Day",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 0,
         "teamOne": {
@@ -1524,7 +1496,7 @@
         "gamemode": "Insurgency",
         "version": "v2",
         "lighting": "Sunny Mid Day",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 0,
         "teamOne": {
@@ -1564,7 +1536,7 @@
             "tickets": "900"
         },
         "tanks": "N/A",
-        "helicopters": "x1 for USA, 40min delay",
+        "helicopters": "x2 for USA, 10min delay",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
             "min": 54,
@@ -1592,7 +1564,7 @@
             "tickets": "900"
         },
         "tanks": "x1 per team",
-        "helicopters": "N/A",
+        "helicopters": "x2 for USA, 10min delay",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
             "min": 54,
@@ -1620,7 +1592,7 @@
             "tickets": "800"
         },
         "tanks": "x1 for INS, 20min delay",
-        "helicopters": "N/A",
+        "helicopters": "x2 for USA, 10min delay",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
             "min": 54,
@@ -1664,7 +1636,7 @@
         "gamemode": "RAAS",
         "version": "v2",
         "lighting": "Stormy",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 7,
         "teamOne": {
@@ -1692,7 +1664,7 @@
         "gamemode": "RAAS",
         "version": "v3",
         "lighting": "Stormy",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 7,
         "teamOne": {
@@ -1720,7 +1692,7 @@
         "gamemode": "RAAS",
         "version": "v4",
         "lighting": "Stormy",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 5,
         "teamOne": {
@@ -1748,7 +1720,7 @@
         "gamemode": "Skirmish",
         "version": "v1",
         "lighting": "Sunny Mid Day",
-        "info": "",
+        "info": null,
         "commander": false,
         "flagCount": 3,
         "teamOne": {
@@ -1776,7 +1748,7 @@
         "gamemode": "TC",
         "version": "v1",
         "lighting": "Stormy",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 43,
         "teamOne": {
@@ -1788,7 +1760,7 @@
             "tickets": "400"
         },
         "tanks": "N/A",
-        "helicopters": "N/A",
+        "helicopters": "x1 per team",
         "newForVersion": false
     },
     {
@@ -1800,7 +1772,7 @@
         "gamemode": "TC",
         "version": "v2",
         "lighting": "Stormy",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 44,
         "teamOne": {
@@ -1824,7 +1796,7 @@
         "gamemode": "AAS",
         "version": "v1",
         "lighting": "Mid Day",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 7,
         "teamOne": {
@@ -1836,7 +1808,7 @@
             "tickets": "300"
         },
         "tanks": "N/A",
-        "helicopters": "x1 per team",
+        "helicopters": "x2 per team",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
             "min": 45,
@@ -1852,7 +1824,7 @@
         "gamemode": "Insurgency",
         "version": "v1",
         "lighting": "Early Morning",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 0,
         "teamOne": {
@@ -1964,7 +1936,7 @@
         "gamemode": "RAAS",
         "version": "v2",
         "lighting": "Sunny Mid Day",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 6,
         "teamOne": {
@@ -1992,7 +1964,7 @@
         "gamemode": "RAAS",
         "version": "v3",
         "lighting": "Sunny Mid Day",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 5,
         "teamOne": {
@@ -2020,7 +1992,7 @@
         "gamemode": "RAAS",
         "version": "v4",
         "lighting": "Early Morning",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 8,
         "teamOne": {
@@ -2048,7 +2020,7 @@
         "gamemode": "Skirmish",
         "version": "v1",
         "lighting": "Early Morning",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 5,
         "teamOne": {
@@ -2076,7 +2048,7 @@
         "gamemode": "TC",
         "version": "v1",
         "lighting": "Sunny Mid Day",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 39,
         "teamOne": {
@@ -2100,7 +2072,7 @@
         "gamemode": "AAS",
         "version": "v1",
         "lighting": "Overcast",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 7,
         "teamOne": {
@@ -2108,7 +2080,7 @@
             "tickets": "250"
         },
         "teamTwo": {
-            "faction": "RU",
+            "faction": "RUS_DE",
             "tickets": "250"
         },
         "tanks": "N/A",
@@ -2127,8 +2099,8 @@
         "mapSize": "2x2 km",
         "gamemode": "Insurgency",
         "version": "v1",
-        "lighting": "Sunny Mid Day",
-        "info": "",
+        "lighting": "Mid Day Sunny",
+        "info": null,
         "commander": true,
         "flagCount": 0,
         "teamOne": {
@@ -2184,7 +2156,7 @@
         "gamemode": "RAAS",
         "version": "v1",
         "lighting": "Overcast",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 6,
         "teamOne": {
@@ -2212,7 +2184,7 @@
         "gamemode": "RAAS",
         "version": "v2",
         "lighting": "Sunrise",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 5,
         "teamOne": {
@@ -2240,7 +2212,7 @@
         "gamemode": "Skirmish",
         "version": "v1",
         "lighting": "Overcast",
-        "info": "",
+        "info": null,
         "commander": false,
         "flagCount": 5,
         "teamOne": {
@@ -2268,7 +2240,7 @@
         "gamemode": "TC",
         "version": "v1",
         "lighting": "Overcast",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 37,
         "teamOne": {
@@ -2292,7 +2264,7 @@
         "gamemode": "AAS",
         "version": "v1",
         "lighting": "Sunny Mid Day",
-        "info": "",
+        "info": null,
         "commander": false,
         "flagCount": 8,
         "teamOne": {
@@ -2320,7 +2292,7 @@
         "gamemode": "AAS",
         "version": "v2",
         "lighting": "Overcast",
-        "info": "",
+        "info": null,
         "commander": false,
         "flagCount": 6,
         "teamOne": {
@@ -2348,7 +2320,7 @@
         "gamemode": "Insurgency",
         "version": "v1",
         "lighting": "Evening",
-        "info": "",
+        "info": null,
         "commander": false,
         "flagCount": 0,
         "teamOne": {
@@ -2404,7 +2376,7 @@
         "gamemode": "Skirmish",
         "version": "v1",
         "lighting": "Evening",
-        "info": "",
+        "info": null,
         "commander": false,
         "flagCount": 5,
         "teamOne": {
@@ -2432,7 +2404,7 @@
         "gamemode": "TC",
         "version": "v1",
         "lighting": "Sunny Mid Day",
-        "info": "",
+        "info": null,
         "commander": false,
         "flagCount": 42,
         "teamOne": {
@@ -2456,7 +2428,7 @@
         "gamemode": "AAS",
         "version": "v1",
         "lighting": "Sunset",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 7,
         "teamOne": {
@@ -2486,14 +2458,14 @@
         "lighting": "Sunset",
         "info": "Random",
         "commander": true,
-        "flagCount": 5,
+        "flagCount": 4,
         "teamOne": {
             "faction": "RUS",
             "tickets": "150"
         },
         "teamTwo": {
             "faction": "MIL",
-            "tickets": "800"
+            "tickets": "700"
         },
         "tanks": "N/A",
         "helicopters": "N/A",
@@ -2540,7 +2512,7 @@
         "gamemode": "RAAS",
         "version": "v1",
         "lighting": "Overcast",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 5,
         "teamOne": {
@@ -2568,7 +2540,7 @@
         "gamemode": "Skirmish",
         "version": "v1",
         "lighting": "Sunset",
-        "info": "",
+        "info": null,
         "commander": false,
         "flagCount": 4,
         "teamOne": {
@@ -2596,7 +2568,7 @@
         "gamemode": "TC",
         "version": "v1",
         "lighting": "Overcast",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 22,
         "teamOne": {
@@ -2620,7 +2592,7 @@
         "gamemode": "AAS",
         "version": "v1",
         "lighting": "Sunrise",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 5,
         "teamOne": {
@@ -2632,10 +2604,10 @@
             "tickets": "300"
         },
         "tanks": "x1 per team, 20min delay",
-        "helicopters": "N/A",
+        "helicopters": "x1 per team",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 45,
+            "min": 54,
             "max": 80
         }
     },
@@ -2660,7 +2632,7 @@
             "tickets": "800"
         },
         "tanks": "x1 per team, 20min delay",
-        "helicopters": "N/A",
+        "helicopters": "x1 for USA, 6min delay",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
             "min": 54,
@@ -2688,10 +2660,10 @@
             "tickets": "300"
         },
         "tanks": "x1 per team, 20min delay",
-        "helicopters": "N/A",
+        "helicopters": "x1 per team, 6min delay",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 45,
+            "min": 54,
             "max": 80
         }
     },
@@ -2704,7 +2676,7 @@
         "gamemode": "Skirmish",
         "version": "v1",
         "lighting": "Sandstorm",
-        "info": "",
+        "info": null,
         "commander": false,
         "flagCount": 5,
         "teamOne": {
@@ -2732,7 +2704,7 @@
         "gamemode": "TC",
         "version": "v1",
         "lighting": "Sunny Mid Day",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 19,
         "teamOne": {
@@ -2756,7 +2728,7 @@
         "gamemode": "TC",
         "version": "v2",
         "lighting": "Sunrise",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 36,
         "teamOne": {
@@ -2779,8 +2751,8 @@
         "mapSize": "2x2 km",
         "gamemode": "AAS",
         "version": "v1",
-        "lighting": "Mixed Clouds Mid Day",
-        "info": "",
+        "lighting": "Mid Day Clouds",
+        "info": null,
         "commander": true,
         "flagCount": 6,
         "teamOne": {
@@ -2807,8 +2779,8 @@
         "mapSize": "2x2 km",
         "gamemode": "AAS",
         "version": "v2",
-        "lighting": "Mixed Clouds Mid Day",
-        "info": "",
+        "lighting": "Mid Day Clouds",
+        "info": null,
         "commander": true,
         "flagCount": 6,
         "teamOne": {
@@ -2836,7 +2808,7 @@
         "gamemode": "AAS",
         "version": "v3",
         "lighting": "Foggy",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 5,
         "teamOne": {
@@ -2863,8 +2835,8 @@
         "mapSize": "2x2 km",
         "gamemode": "Destruction",
         "version": "v1",
-        "lighting": "Mixed Clouds Mid Day",
-        "info": "",
+        "lighting": "Mid Day Clouds",
+        "info": null,
         "commander": true,
         "flagCount": 0,
         "teamOne": {
@@ -2919,7 +2891,7 @@
         "mapSize": "2x2 km",
         "gamemode": "Invasion",
         "version": "v2",
-        "lighting": "Mixed Clouds Mid Day",
+        "lighting": "Mid Day Clouds",
         "info": "Random",
         "commander": true,
         "flagCount": 5,
@@ -2947,7 +2919,7 @@
         "mapSize": "2x2 km",
         "gamemode": "RAAS",
         "version": "v1",
-        "lighting": "Mixed Clouds Mid Day",
+        "lighting": "Mid Day Clouds",
         "info": "Lanes",
         "commander": true,
         "flagCount": 5,
@@ -2976,7 +2948,7 @@
         "gamemode": "Skirmish",
         "version": "v1",
         "lighting": "Overcast",
-        "info": "",
+        "info": null,
         "commander": false,
         "flagCount": 5,
         "teamOne": {
@@ -3004,7 +2976,7 @@
         "gamemode": "TC",
         "version": "v1",
         "lighting": "Foggy",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 30,
         "teamOne": {
@@ -3027,8 +2999,8 @@
         "mapSize": "2x2 km",
         "gamemode": "TC",
         "version": "v2",
-        "lighting": "Mixed Clouds Mid Day",
-        "info": "",
+        "lighting": "Mid Day Clouds",
+        "info": null,
         "commander": true,
         "flagCount": 56,
         "teamOne": {
@@ -3052,7 +3024,7 @@
         "gamemode": "AAS",
         "version": "v1",
         "lighting": "Sunny Mid Day",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 5,
         "teamOne": {
@@ -3248,7 +3220,7 @@
         "gamemode": "Skirmish",
         "version": "v1",
         "lighting": "Foggy",
-        "info": "",
+        "info": null,
         "commander": false,
         "flagCount": 5,
         "teamOne": {
@@ -3276,7 +3248,7 @@
         "gamemode": "TC",
         "version": "v1",
         "lighting": "Sunny Mid Day",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 34,
         "teamOne": {
@@ -3300,7 +3272,7 @@
         "gamemode": "TC",
         "version": "v2",
         "lighting": "Sunny Mid Day",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 41,
         "teamOne": {
@@ -3324,7 +3296,7 @@
         "gamemode": "TC",
         "version": "v3",
         "lighting": "Foggy",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 110,
         "teamOne": {
@@ -3347,8 +3319,8 @@
         "mapSize": "1x1 km",
         "gamemode": "AAS",
         "version": "v1",
-        "lighting": "Ultra Dynamic Sky",
-        "info": "",
+        "lighting": "Sunrise",
+        "info": null,
         "commander": false,
         "flagCount": 5,
         "teamOne": {
@@ -3404,7 +3376,7 @@
         "gamemode": "Insurgency",
         "version": "v1",
         "lighting": "Sunrise",
-        "info": "",
+        "info": null,
         "commander": false,
         "flagCount": 0,
         "teamOne": {
@@ -3432,7 +3404,7 @@
         "gamemode": "RAAS",
         "version": "v1",
         "lighting": "Mixed Clouds Mid Day",
-        "info": "",
+        "info": null,
         "commander": false,
         "flagCount": 6,
         "teamOne": {
@@ -3460,7 +3432,7 @@
         "gamemode": "RAAS",
         "version": "v2",
         "lighting": "Mixed Clouds Mid Day",
-        "info": "",
+        "info": null,
         "commander": false,
         "flagCount": 6,
         "teamOne": {
@@ -3488,7 +3460,7 @@
         "gamemode": "Skirmish",
         "version": "v1",
         "lighting": "Full Moon (Dark)",
-        "info": "",
+        "info": null,
         "commander": false,
         "flagCount": 5,
         "teamOne": {
@@ -3516,7 +3488,7 @@
         "gamemode": "TC",
         "version": "v1",
         "lighting": "Mixed Clouds Mid Day",
-        "info": "",
+        "info": null,
         "commander": false,
         "flagCount": 24,
         "teamOne": {
@@ -3540,7 +3512,7 @@
         "gamemode": "AAS",
         "version": "v1",
         "lighting": "Sunny Mid Day",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 7,
         "teamOne": {
@@ -3636,7 +3608,7 @@
             "tickets": "800"
         },
         "tanks": "N/A",
-        "helicopters": "N/A",
+        "helicopters": "x1 USA, 20m delay",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
             "min": 54,
@@ -3680,7 +3652,7 @@
         "gamemode": "RAAS",
         "version": "v2",
         "lighting": "Morning Sunrise",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 6,
         "teamOne": {
@@ -3708,7 +3680,7 @@
         "gamemode": "RAAS",
         "version": "v3",
         "lighting": "Sunny Mid Day",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 5,
         "teamOne": {
@@ -3764,7 +3736,7 @@
         "gamemode": "Skirmish",
         "version": "v1",
         "lighting": "Sandstorm",
-        "info": "",
+        "info": null,
         "commander": false,
         "flagCount": 6,
         "teamOne": {
@@ -3792,7 +3764,7 @@
         "gamemode": "Skirmish",
         "version": "v2",
         "lighting": "Morning Sunrise",
-        "info": "",
+        "info": null,
         "commander": false,
         "flagCount": 5,
         "teamOne": {
@@ -3820,7 +3792,7 @@
         "gamemode": "Skirmish",
         "version": "v3",
         "lighting": "Sunny Mid Day",
-        "info": "",
+        "info": null,
         "commander": false,
         "flagCount": 5,
         "teamOne": {
@@ -3848,7 +3820,7 @@
         "gamemode": "Tanks",
         "version": "v1",
         "lighting": "Sunny Mid Day",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 5,
         "teamOne": {
@@ -3872,7 +3844,7 @@
         "gamemode": "Tanks",
         "version": "v2",
         "lighting": "Sunny Mid Day",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 5,
         "teamOne": {
@@ -3896,7 +3868,7 @@
         "gamemode": "TC",
         "version": "v1",
         "lighting": "Sunny Mid Day",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 64,
         "teamOne": {
@@ -3920,7 +3892,7 @@
         "gamemode": "Infantry",
         "version": "Training",
         "lighting": "Sunny Mid Day",
-        "info": "",
+        "info": "Offline",
         "commander": false,
         "flagCount": 0,
         "teamOne": {
@@ -3944,7 +3916,7 @@
         "gamemode": "Helicopter",
         "version": "Training",
         "lighting": "Sunny Mid Day",
-        "info": "",
+        "info": "Offline",
         "commander": false,
         "flagCount": 0,
         "teamOne": {
@@ -3956,7 +3928,7 @@
             "tickets": "N/A"
         },
         "tanks": "N/A",
-        "helicopters": "x1",
+        "helicopters": "x1 per team",
         "newForVersion": false
     },
     {
@@ -3968,7 +3940,7 @@
         "gamemode": "AAS",
         "version": "v1",
         "lighting": "Sunrise",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 7,
         "teamOne": {
@@ -3996,7 +3968,7 @@
         "gamemode": "AAS",
         "version": "v2",
         "lighting": "Mixed Clouds Mid Day",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 7,
         "teamOne": {
@@ -4024,7 +3996,7 @@
         "gamemode": "Destruction",
         "version": "v1",
         "lighting": "Mixed Clouds Mid Day",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 0,
         "teamOne": {
@@ -4136,7 +4108,7 @@
         "gamemode": "RAAS",
         "version": "v2",
         "lighting": "Mixed Clouds Mid Day",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 5,
         "teamOne": {
@@ -4148,10 +4120,10 @@
             "tickets": "300"
         },
         "tanks": "N/A",
-        "helicopters": "N/A",
+        "helicopters": "x2 per team",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 54,
+            "min": 45,
             "max": 80
         }
     },
@@ -4163,7 +4135,7 @@
         "mapSize": "5x5 km",
         "gamemode": "RAAS",
         "version": "v3",
-        "lighting": "Mixed Clouds Mid Day",
+        "lighting": "Sunrise",
         "info": "Lanes",
         "commander": true,
         "flagCount": 7,
@@ -4192,7 +4164,7 @@
         "gamemode": "RAAS",
         "version": "v4",
         "lighting": "Overcast",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 5,
         "teamOne": {
@@ -4200,14 +4172,14 @@
             "tickets": "300"
         },
         "teamTwo": {
-            "faction": "RU",
+            "faction": "RUS",
             "tickets": "300"
         },
         "tanks": "N/A",
-        "helicopters": "N/A",
+        "helicopters": "x1 per team",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 54,
+            "min": 45,
             "max": 80
         }
     },
@@ -4220,7 +4192,7 @@
         "gamemode": "RAAS",
         "version": "v5",
         "lighting": "Mixed Clouds Mid Day",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 5,
         "teamOne": {
@@ -4248,7 +4220,7 @@
         "gamemode": "Skirmish",
         "version": "v1",
         "lighting": "Overcast",
-        "info": "",
+        "info": null,
         "commander": false,
         "flagCount": 5,
         "teamOne": {
@@ -4276,7 +4248,7 @@
         "gamemode": "Skirmish",
         "version": "v2",
         "lighting": "Overcast",
-        "info": "",
+        "info": null,
         "commander": false,
         "flagCount": 5,
         "teamOne": {
@@ -4304,7 +4276,7 @@
         "gamemode": "Skirmish",
         "version": "v3",
         "lighting": "Mixed Clouds Mid Day",
-        "info": "",
+        "info": null,
         "commander": false,
         "flagCount": 4,
         "teamOne": {
@@ -4332,7 +4304,7 @@
         "gamemode": "TC",
         "version": "v1",
         "lighting": "Mixed Clouds Mid Day",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 57,
         "teamOne": {
@@ -4356,20 +4328,48 @@
         "gamemode": "TC",
         "version": "v2",
         "lighting": "Mixed Clouds Mid Day",
-        "info": "",
+        "info": null,
         "commander": true,
         "flagCount": 67,
         "teamOne": {
             "faction": "USA",
-            "tickets": "500"
+            "tickets": "400"
         },
         "teamTwo": {
             "faction": "RUS",
-            "tickets": "500"
+            "tickets": "400"
+        },
+        "tanks": "x1 per team",
+        "helicopters": "x1 per team",
+        "newForVersion": false
+    },
+    {
+        "layer": "CAF_Al_Basrah_Invasion_v1",
+        "map": "CAF_Al_Basrah",
+        "layerClassname": "CAF_Al_Basrah_Invasion_v1",
+        "mapClassname": "CAF_Al_Basrah",
+        "gamemode": "Invasion",
+        "version": "v1",
+        "dlc": "CAF",
+        "lighting": "Sunny Mid Day",
+        "info": "Random",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "CAF_AR",
+            "tickets": "150"
+        },
+        "teamTwo": {
+            "faction": "INS",
+            "tickets": "800"
         },
         "tanks": "x1 per team",
         "helicopters": "N/A",
-        "newForVersion": false
+        "newForVersion": true,
+        "estimatedSuitablePlayerCount": {
+            "min": 54,
+            "max": 80
+        }
     },
     {
         "layer": "CAF_Gorodok_Invasion_v1",
@@ -4382,14 +4382,14 @@
         "lighting": "Sunset",
         "info": "Random",
         "commander": true,
-        "flagCount": 6,
+        "flagCount": 5,
         "teamOne": {
             "faction": "CAF",
             "tickets": "150"
         },
         "teamTwo": {
             "faction": "MIL",
-            "tickets": "900"
+            "tickets": "800"
         },
         "tanks": "x1 per team, 20min delay",
         "helicopters": "N/A",
@@ -4420,10 +4420,10 @@
             "tickets": "300"
         },
         "tanks": "x1 per team",
-        "helicopters": "N/A",
+        "helicopters": "x2 per team",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 45,
+            "min": 54,
             "max": 80
         }
     },
@@ -4476,7 +4476,7 @@
             "tickets": "300"
         },
         "tanks": "N/A",
-        "helicopters": "N/A",
+        "helicopters": "x1 per team",
         "newForVersion": false
     },
     {
@@ -4492,7 +4492,7 @@
         "commander": true,
         "flagCount": 0,
         "teamOne": {
-            "faction": "CAF",
+            "faction": "CAF_AR",
             "tickets": "99999"
         },
         "teamTwo": {
@@ -4524,10 +4524,10 @@
             "tickets": "150"
         },
         "teamTwo": {
-            "faction": "RUS_DE",
+            "faction": "INS",
             "tickets": "800"
         },
-        "tanks": "x1 per team",
+        "tanks": "x1 per team, 10min delay",
         "helicopters": "N/A",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
@@ -4548,7 +4548,7 @@
         "commander": true,
         "flagCount": 5,
         "teamOne": {
-            "faction": "CAF",
+            "faction": "CAF_AR",
             "tickets": "300"
         },
         "teamTwo": {
@@ -4576,7 +4576,7 @@
         "commander": true,
         "flagCount": 33,
         "teamOne": {
-            "faction": "CAF",
+            "faction": "CAF_AR",
             "tickets": "400"
         },
         "teamTwo": {
@@ -4608,8 +4608,36 @@
             "tickets": "700"
         },
         "tanks": "N/A",
-        "helicopters": "N/A",
+        "helicopters": "x1 for CAF, 20min delay",
         "newForVersion": false,
+        "estimatedSuitablePlayerCount": {
+            "min": 54,
+            "max": 80
+        }
+    },
+    {
+        "layer": "CAF_Manic_AAS_v1",
+        "map": "CAF_Manic",
+        "layerClassname": "CAF_Manic_AAS_v1",
+        "mapClassname": "CAF_Manic",
+        "gamemode": "AAS",
+        "version": "v1",
+        "dlc": "CAF",
+        "lighting": "Mid Day",
+        "info": null,
+        "commander": true,
+        "flagCount": 7,
+        "teamOne": {
+            "faction": "CAF",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "RUS",
+            "tickets": "300"
+        },
+        "tanks": "x1 per team, 10min delay",
+        "helicopters": "x1 per team",
+        "newForVersion": true,
         "estimatedSuitablePlayerCount": {
             "min": 54,
             "max": 80
@@ -4623,7 +4651,7 @@
         "gamemode": "Invasion",
         "version": "v1",
         "dlc": "CAF",
-        "lighting": "Overcast",
+        "lighting": "Afternoon",
         "info": "Random",
         "commander": true,
         "flagCount": 4,
@@ -4636,7 +4664,7 @@
             "tickets": "700"
         },
         "tanks": "x1 per team",
-        "helicopters": "N/A",
+        "helicopters": "x1 per team",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
             "min": 54,
@@ -4679,7 +4707,7 @@
         "gamemode": "RAAS",
         "version": "v1",
         "dlc": "CAF",
-        "lighting": "Overcast",
+        "lighting": "Mid Day",
         "info": "Lanes",
         "commander": true,
         "flagCount": 5,
@@ -4691,11 +4719,11 @@
             "faction": "RUS",
             "tickets": "350"
         },
-        "tanks": "x1 per team, 20min delay",
-        "helicopters": "N/A",
+        "tanks": "x1 per team, 10min delay",
+        "helicopters": "x2 per team",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 45,
+            "min": 54,
             "max": 80
         }
     },
@@ -4707,7 +4735,7 @@
         "gamemode": "RAAS",
         "version": "v2",
         "dlc": "CAF",
-        "lighting": "Sunset",
+        "lighting": "Afternoon",
         "info": "Lanes ",
         "commander": true,
         "flagCount": 5,
@@ -4716,14 +4744,14 @@
             "tickets": "350"
         },
         "teamTwo": {
-            "faction": "RUS",
+            "faction": "MIL",
             "tickets": "350"
         },
-        "tanks": "x1 per team, 20min delay",
-        "helicopters": "x2 per team",
+        "tanks": "N/A",
+        "helicopters": "x1 for CAF",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 54,
+            "min": 45,
             "max": 80
         }
     },
@@ -4735,7 +4763,7 @@
         "gamemode": "RAAS",
         "version": "v3",
         "dlc": "CAF",
-        "lighting": "Overcast",
+        "lighting": "Mid Day",
         "info": "Lanes",
         "commander": true,
         "flagCount": 5,
@@ -4744,14 +4772,14 @@
             "tickets": "350"
         },
         "teamTwo": {
-            "faction": "USA",
+            "faction": "RUS",
             "tickets": "350"
         },
-        "tanks": "N/A",
-        "helicopters": "N/A",
+        "tanks": "x3 per team",
+        "helicopters": "x1 per team",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
-            "min": 40,
+            "min": 54,
             "max": 80
         }
     },
@@ -4763,20 +4791,20 @@
         "gamemode": "RAAS",
         "version": "v4",
         "dlc": "CAF",
-        "lighting": "Overcast",
+        "lighting": "Sunset",
         "info": "Lanes",
         "commander": true,
         "flagCount": 5,
         "teamOne": {
             "faction": "CAF",
-            "tickets": "350"
+            "tickets": "300"
         },
         "teamTwo": {
-            "faction": "MIL",
-            "tickets": "400"
+            "faction": "RUS",
+            "tickets": "300"
         },
         "tanks": "N/A",
-        "helicopters": "x1 for CAF",
+        "helicopters": "x3 per team",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
             "min": 45,
@@ -4860,8 +4888,64 @@
             "tickets": "350"
         },
         "tanks": "N/A",
-        "helicopters": "N/A",
+        "helicopters": "x1 per team",
         "newForVersion": false
+    },
+    {
+        "layer": "CAF_Mestia_RAAS_v1",
+        "map": "CAF_Mestia",
+        "layerClassname": "CAF_Mestia_RAAS_v1",
+        "mapClassname": "CAF_Mestia",
+        "gamemode": "RAAS",
+        "version": "v1",
+        "dlc": "CAF",
+        "lighting": "Overcast",
+        "info": "Lanes",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "CAF",
+            "tickets": "250"
+        },
+        "teamTwo": {
+            "faction": "MIL",
+            "tickets": "250"
+        },
+        "tanks": "N/A",
+        "helicopters": "N/A",
+        "newForVersion": true,
+        "estimatedSuitablePlayerCount": {
+            "min": 40,
+            "max": 80
+        }
+    },
+    {
+        "layer": "CAF_Mutaha_RAAS_v1",
+        "map": "CAF_Mutaha",
+        "layerClassname": "CAF_Mutaha_RAAS_v1",
+        "mapClassname": "CAF_Mutaha",
+        "gamemode": "RAAS",
+        "version": "v1",
+        "dlc": "CAF",
+        "lighting": "Mixed Clouds Mid Day",
+        "info": "Lanes",
+        "commander": true,
+        "flagCount": 5,
+        "teamOne": {
+            "faction": "CAF_AR",
+            "tickets": "300"
+        },
+        "teamTwo": {
+            "faction": "RUS_DE",
+            "tickets": "300"
+        },
+        "tanks": "N/A",
+        "helicopters": "x1 per team",
+        "newForVersion": true,
+        "estimatedSuitablePlayerCount": {
+            "min": 45,
+            "max": 80
+        }
     },
     {
         "layer": "CAF_Nanisivik_Invasion_v1",
@@ -4883,8 +4967,8 @@
             "faction": "RUS",
             "tickets": "150"
         },
-        "tanks": "x1 per team, 4min delay",
-        "helicopters": "N/A",
+        "tanks": "x1 per team, 6min delay",
+        "helicopters": "x1 per team, 6min delay",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
             "min": 54,
@@ -4911,7 +4995,7 @@
             "faction": "RUS",
             "tickets": "350"
         },
-        "tanks": "x1 per team",
+        "tanks": "x1 per team, 10min delay",
         "helicopters": "x1 per team",
         "newForVersion": false,
         "estimatedSuitablePlayerCount": {
@@ -4939,9 +5023,9 @@
             "faction": "RUS",
             "tickets": "300"
         },
-        "tanks": "x1 per team",
+        "tanks": "x1 per team, 6min delay",
         "helicopters": "N/A",
-        "newForVersion": true,
+        "newForVersion": false,
         "estimatedSuitablePlayerCount": {
             "min": 45,
             "max": 80
@@ -4960,7 +5044,7 @@
         "commander": true,
         "flagCount": 6,
         "teamOne": {
-            "faction": "CAF",
+            "faction": "CAF_AR",
             "tickets": "350"
         },
         "teamTwo": {
@@ -4969,7 +5053,7 @@
         },
         "tanks": "x2 per team, 20min delay",
         "helicopters": "x2 per team",
-        "newForVersion": true,
+        "newForVersion": false,
         "estimatedSuitablePlayerCount": {
             "min": 54,
             "max": 80
@@ -5052,7 +5136,7 @@
             "tickets": "400"
         },
         "tanks": "N/A",
-        "helicopters": "N/A",
+        "helicopters": "x1 per team",
         "newForVersion": false
     }
 ]

@@ -4,10 +4,10 @@ import getSheets from './google-sheets.js';
 import getEstimatedSuitablePlayerCount from './get-estimated-suitable-player-count.js';
 import classnameConverter from './classname-converter.js';
 
-const spreadsheetId = '1Ej4vcnOAAGWGRoUlwQSPa8jM9wMaN7pH7lSLf2ery_A';
-const spreadsheetName = 'B18 Map Layers!';
-const vanillaRange = `${spreadsheetName}B8:N184`;
-const cafRange = `${spreadsheetName}B187:N211`;
+const spreadsheetId = '194eZBaJGI-AAx5WzHLoLQDyTt7HiIGKzGkrC4Hx9EnU';
+const spreadsheetName = 'B19 Map Layers!';
+const vanillaRange = `${spreadsheetName}B8:N183`;
+const cafRange = `${spreadsheetName}B186:N214`;
 
 async function main(){
     const layers = (await getLayers()).map(layer => getEstimatedSuitablePlayerCount(layer));
@@ -75,7 +75,7 @@ async function getVanillaLayers(sheets){
             gamemode,
             version,
             lighting,
-            info,
+            info: info === '--' ? null : info,
             commander: commander === 'Yes',
             flagCount: parseInt(flagCount) || 0,
             teamOne : {
@@ -134,7 +134,7 @@ async function getCAFLayers(sheets){
             version,
             dlc: 'CAF',
             lighting,
-            info: info || null,
+            info: info === '--' ? null : info,
             commander: commander === 'Yes',
             flagCount: parseInt(flagCount) || 0,
             teamOne : {
