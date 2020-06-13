@@ -1,16 +1,11 @@
-export default function (name, layer = true) {
-    name = name
-        .replace(/ /g, '_')
-        .replace('\'', '')
-        .replace('Kokan', 'Kokan_Valley')
-        .replace('Manic-5', 'Manic')
-        .replace('Training_v', 'v');
-
-    if(layer){
-        name = name
-            .replace('Fools_Road', 'FoolsRoad')
-            .replace('Logar_Valley', 'LogarValley');
-    }
-
-    return name;
+export default function (name) {
+    return name
+      .replace(/ /g, '_')
+      .replace('\'', '')
+      .replace('Al_Basrah', 'Albasrah')
+      .replace('Fools_Road', 'FoolsRoad')
+      .replace('Kokan', 'Kokan_Valley')
+      .replace('Logar_Valley', 'LogarValley')
+      .replace('Manic-5', 'Manic')
+      .replace('Training_v', 'v');
 }

@@ -70,7 +70,6 @@ async function getVanillaLayers(sheets){
             layer: layer,
             map: currentMapName,
             layerClassname: classnameConverter(layer),
-            mapClassname: classnameConverter(currentMapName, false),
             mapSize: currentMapSize,
             gamemode,
             version,
@@ -121,15 +120,13 @@ async function getCAFLayers(sheets){
             newForVersion
         ] = row;
 
-        const map = classnameConverter(mapRaw);
-        const layer = classnameConverter(`${map}_${layerRaw}`, false);
+        const layer = classnameConverter(`${mapRaw} ${layerRaw}`);
         const [gamemode, version] = layerRaw.split(' ');
 
         layers.push({
             layer: layer,
-            map,
+            map: mapRaw,
             layerClassname: layer,
-            mapClassname: map,
             gamemode,
             version,
             dlc: 'CAF',
