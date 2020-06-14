@@ -4,6 +4,7 @@ export default function(layer){
             return skirmish(layer);
         case 'AAS':
         case 'RAAS':
+        case 'TC':
             return aas(layer);
         case 'Invasion':
             return invasion(layer);
