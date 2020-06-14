@@ -104,7 +104,7 @@ async function getCAFLayers(sheets){
     for(let row of cafRows){
         if(row.length === 0) continue;
 
-        const [
+        let [
             mapRaw,
             layerRaw,
             lighting,
@@ -124,7 +124,7 @@ async function getCAFLayers(sheets){
         const [gamemode, version] = layerRaw.split(' ');
 
         layers.push({
-            layer: layer,
+            layer: layer.replace('Manic', 'Manic-5'),
             map: mapRaw,
             layerClassname: layer,
             gamemode,
