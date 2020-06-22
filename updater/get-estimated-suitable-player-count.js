@@ -14,6 +14,8 @@ export default function(layer){
             return insurgency(layer);
         case 'Training':
             return training(layer);
+        case 'Tanks':
+            return tanks(layer);
         default:
             return layer;
     }
@@ -67,6 +69,13 @@ function invasion(layer){
 }
 
 function destruction(layer){
+    return {
+        ...layer,
+        estimatedSuitablePlayerCount: { min: 54, max: 80 }
+    }
+}
+
+function tanks(layer) {
     return {
         ...layer,
         estimatedSuitablePlayerCount: { min: 54, max: 80 }
