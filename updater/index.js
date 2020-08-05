@@ -4,10 +4,10 @@ import getSheets from './google-sheets.js';
 import getEstimatedSuitablePlayerCount from './get-estimated-suitable-player-count.js';
 import classnameConverter from './classname-converter.js';
 
-const spreadsheetId = '1z1auZOm9hN8r3W0DafQ0AvF02RcO6hQ3PWdtsLB-n0g';
-const spreadsheetName = 'B20 Map Layers!';
+const spreadsheetId = '1F_xOv6-hEG2Ttqh-E6AE4EISXPaArux1HfG8NfX8lic';
+const spreadsheetName = 'B21 Map Layers!';
 const vanillaRange = `${spreadsheetName}B8:N196`;
-const cafRange = `${spreadsheetName}B199:N237`;
+const cafRange = `${spreadsheetName}B199:N240`;
 
 async function main(){
     const layers = (await getLayers()).map(layer => getEstimatedSuitablePlayerCount(layer));
