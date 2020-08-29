@@ -124,7 +124,7 @@ async function getCAFLayers(sheets){
         const [gamemode, version] = layerRaw.split(' ');
 
         layers.push({
-            layer: layer.replace('Manic', 'Manic-5'),
+            layer: layer.replace('Manic', 'Manic-5').replace('Albasrah', 'Al_Basrah'),
             map: mapRaw,
             layerClassname: layer,
             gamemode,
