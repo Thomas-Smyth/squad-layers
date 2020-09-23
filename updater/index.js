@@ -41,7 +41,7 @@ async function getVanillaLayers(sheets){
         if(row.length === 0) continue;
 
         const [
-            mapRaw,
+            map,
             layerRaw,
             lighting,
             info,
@@ -55,9 +55,6 @@ async function getVanillaLayers(sheets){
             helicopters,
             newForVersion
         ] = row;
-
-        const map = mapRaw
-            .replace('Logar', 'Logar Valley');
 
         if(map !== '' && !map.includes('km')) {
             currentMapName = map;
