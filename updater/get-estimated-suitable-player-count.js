@@ -30,7 +30,7 @@ function skirmish(layer){
 
 function aas(layer){
     let min = 0;
-    let max = 80;
+    let max = 100;
 
     // maps with no commander tend to be small
     if(!layer.commander) min = 36;
@@ -64,35 +64,35 @@ function getAASCountBySize(size){
 function invasion(layer){
     return {
         ...layer,
-        estimatedSuitablePlayerCount: { min: 54, max: 80 }
+        estimatedSuitablePlayerCount: { min: 54, max: 100 }
     }
 }
 
 function destruction(layer){
     return {
         ...layer,
-        estimatedSuitablePlayerCount: { min: 54, max: 80 }
+        estimatedSuitablePlayerCount: { min: 54, max: 100 }
     }
 }
 
 function tanks(layer) {
     return {
         ...layer,
-        estimatedSuitablePlayerCount: { min: 54, max: 80 }
+        estimatedSuitablePlayerCount: { min: 54, max: 100 }
     }
 }
 
 function insurgency(layer){
     return {
         ...layer,
-        estimatedSuitablePlayerCount: { min: 54, max: 80 }
+        estimatedSuitablePlayerCount: { min: 54, max: 100 }
     }
 }
 
 function training(layer){
     return {
         ...layer,
-        estimatedSuitablePlayerCount: { min: 0, max: 80 }
+        estimatedSuitablePlayerCount: { min: 0, max: 100 }
     }
 }
 
