@@ -24,7 +24,7 @@ export default function(layer){
 function skirmish(layer){
     return {
         ...layer,
-        estimatedSuitablePlayerCount: { mix: 0, max: 40}
+        estimatedSuitablePlayerCount: { min: 0, max: 40}
     }
 }
 
